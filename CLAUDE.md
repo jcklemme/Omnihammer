@@ -122,4 +122,4 @@ From the OmniHammer Core Rules introduction — these guide all rules work:
 5. **Simulationist over gamified** *(locked)*
 6. Emphasize position, maneuver, and terrain
 7. Everyone is here — if there was a model for it, there should be rules for it
-8. A love letter to 40k — pull the best from 2nd–7th edition
+8. A love letter to 40k — pull the best from 2nd–10th edition (lean more heavily on 2nd-7th)
