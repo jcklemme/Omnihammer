@@ -1,0 +1,153 @@
+# **PSYCHIC POWERS**
+
+![][image16]
+
+**PSYKERS** are units able to use psychic powers, which can provide a range of battlefield abilities.  Psychic powers can be invoked in different phases, depending on the type and/or description of how the ability is used.
+
+## **USING PSYCHIC POWERS**
+
+### Mastery Level & Choosing Powers
+
+* **MASTERY LEVEL:** Each psyker model has a **MASTERY LEVEL**, which is listed at the end of their ***Psyker*** special rule and determines the number of powers they may select.    
+  * **Mastery Level 3 or more**: A model with Mastery Level 3 or higher may roll a die when suffering Perils of the Warp.  If the result is a 5+, they ignore all effects of Perils of the Warp.   
+* **AVAILABLE POWERS:** The powers available to a psyker will be determined based on the unit’s codex entry.  
+  * Unless otherwise specified in their Codex Entry, a psyker knows 1 power for each Mastery Level they have.  A ML1 psyker knows 1 power, an ML2 psyker knows 2 powers, etc.  
+  * If the psyker model’s codex book contains a list of specific powers that are available to that army's psykers, powers must be selected from that codex unless otherwise specified.   
+  * If a psyker’s codex entry indicates specific powers available to that psyker, those are the powers that must be used.  
+  * If the psyker’s codex entry says the unit may draw powers from specific psychic disciplines, powers may be selected from among those allowed disciplines.   
+* **SELECTING POWERS:** Players are always free to choose whatever powers they would like from the available list.  
+* **BROTHERHOOD OF PSYKERS:** A Brotherhood of Psykers is a special type of psyker where multiple models in the unit are collectively treated as a single psyker for purposes of mastery level and available powers.    
+  * The unit takes psychic tests (see below) using the highest leadership within the unit (an attached Independent Character’s leadership is never used for the psychic test).  
+  * If the unit suffers from perils of the warp (see below), the unit’s owner chooses a model in the unit to suffer the effects.
+
+### Invoking Psychic Powers
+
+* **WHEN TO USE POWERS:** The description for a specific psychic power will indicate the type of power (which determines when it can be invoked) and/or the description will specify exactly when it can be invoked. In addition, the following applies to using powers:  
+  * **RESERVES:** Psykers that are not deployed on the table but that are eligible to enter from reserves may invoke psychic powers immediately after arriving from reserve and before the normal part of the movement phase.  
+  * **REACTIONS:**  Psychic powers may NOT be invoked when performing a reaction, such as Return Fire or Stand & Shoot.  
+* **NUMBER OF POWERS**: Each Psyker can invoke a number of powers per turn depending on its mastery level.  
+  * **Mastery Level 1**: Invoke one power per player turn  
+  * **Mastery Level 2 or more**: Invoke two powers per player turn    
+  * Under no circumstances may a psyker invoke more than two powers per player turn.  
+* **WARP LIMIT:** Each player may not successfully invoke the same power more than once in a single turn, even if the power is known by multiple different psyker units.  
+* **DISTURBANCE IN THE WARP**: As more psychic powers are invoked in a player turn, it becomes harder for other psykers to channel the warp.  For every two psychic powers successfully invoked in a player turn, subsequent psychic tests suffer a \-1 to their Ld test. These are cumulative (e.g. invoking a 5th power would incur a \-2 Ld).  
+* **FORCE WEAPONS:** Taking a psychic test to utilize a **Force Weapon** does NOT count as using a power  
+* **TARGETING POWERS:** Unless otherwise stated, psychic powers require line of sight to the target.  
+  * **TRANSPORTS:** Psykers embarked on a transport may use powers that target themselves and/or friendly units on the units they are embarked with. Psykers may use psychic powers to target units (friendly or enemy) that are outside of their transport so long as a **FIRE PORT** is available and it has line of sight to the target location.
+
+#### 
+
+#### **PSYCHIC TESTS**
+
+* **PSYCHIC TEST:** After declaring that a psychic power will be invoked, the unit’s owner makes a leadership test using the leadership value of the model invoking the psychic power.  
+  * **PASSED:** If the roll is equal to or below the psyker’s leadership value, the power is invoked successfully.  
+  * **FAILED**: If the roll is above the psyker’s leadership, the power is not invoked.  
+* **PERILS OF THE WARP\!** If a double 1 or double 6 is rolled for the psychic test, in addition to the power being invoked successfully or not, the psyker suffers a Perils of the Warp.  Each time the model suffers the perils of the warp, it rolls on the following table:  
+  * Invulnerable saves can’t prevent the wound.  
+  * ***Feel No Pain*** can’t negate wounds caused by Perils of the Warp.
+
+| D6 | Result |
+| :---: | :---- |
+| 1 | **Dragged into the Warp**: The Psyker must take a Leadership test. If the test is passed, the Psyker suffers 1 Wound/glancing hit with no saves of any kind allowed. If the test is failed, the Psyker is removed as a casualty and his unit suffers D6 Strength 6 AP1 hits. For Wound allocation purposes, assume the attack is coming from the Psyker that suffered Perils of the Warp.  |
+| 2 | **Mental Purge**: The Psyker suffers 1 Wound/glancing hit with no saves of any kind allowed. In addition, randomly select one psychic power known to the Psyker. That power is immediately lost, and cannot be used by the Psyker for the rest of the battle.  |
+| 3 | **Power Drain**: The Psyker suffers 1 Wound/glancing hit with no saves of any kind allowed. In addition, until the end of its next turn, the Psyker may manifest 1 less Power per turn.  |
+| 4 | **Psychic Backlash**: The Psyker suffers 1 Wound/glancing hit with no saves of any kind allowed.  |
+| 5 | **Empyric Feedback**: The Psyker must take a Leadership test. If the test is failed, the Psyker suffers 1 Wound/glancing hit with no saves of any kind allowed. If the test is passed, the Psyker suffers no ill effects… this time.  |
+| 6 | **Warp Surge**: The Psyker must take a Leadership test. If the test is failed, the Psyker suffers 1 Wound/glancing hit with no saves of any kind allowed. If the test is passed, the Psyker gains a 3+ Invulnerable save as well as the Fleshbane, Armourbane and Smash special rules, until the start of the next friendly Psychic phase.  |
+
+| OPTIONAL RULE\! PERILS OF THE WARP TABLE *Alternative faction-based Perils of the Warp tables are provided in the optional rules section.* |
+| :---- |
+
+| 6TH & 7TH EDITION CODEX COMPATIBILITY NO WARP CHARGE *6th and 7th edition rulebook has a system for generating warp charge and using charges to manifest psychic powers.  This system is not used in OmniHammer and all portions of abilities or effects referencing the use of warp charges have no effect.* |
+| :---- |
+
+### Deny the Witch
+
+Opposing psykers may have an opportunity to prevent a psychic power from being invoked by **DENYING THE WITCH**.  
+
+* **WHEN TO DENY THE WITCH:** A deny the witch attempt may only be attempted in the following circumstances:  
+  * The psychic power is targeting an opposing unit containing an opposing psyker.  
+  * The psychic power is targeting any unit (friendly or opposing) that is within 6” of an opposing psyker.  
+  * An opposing psyker is within 6” of the psyker attempting to invoke the power.  
+  * Each invoked psychic power may only have one attempt to deny the witch made against it.  
+* **ROLLING TO DENY THE WITCH:** After the psychic test is passed, both players roll a D6 and add the mastery level of their respective psyker (i.e. the psyker invoking the power and the psyker attempting to deny the witch).  
+  * **If the opposing player’s total is HIGHER** then the deny the witch attempt is successful and the power is nullified.  
+  * **If the opposing player’s total is EQUAL or LOWER** then the deny the witch attempt fails and the psychic power goes off successfully.  
+* **PSYCHIC HOODS**: Psychic hood or similar wargear/abilities may extend the range of where a psyker can attempt to deny the witch and/or provide modifiers to Deny the Witch.  Psychic Hoods (and equivalent wargear) extend the range of where a psyker may attempt to deny the witch to 24”.
+
+## **POWER TYPES**
+
+There are a number of different types of psychic power, which have distinct names in the 6th and 7th edition rulebooks and codexes.  3rd-5th edition codexes do not specifically reference these types, but the power description itself will instead describe when and how the power is invoked and resolved.
+
+* **BLESSINGS:** Blessings are powers which target a friendly unit and confer some benefit.  
+  * Invoked any time during the psyker’s **MOVEMENT PHASE** unless otherwise noted.  
+  * **Duration:** Lasts until the start of the psyker’s own next turn.  
+  * Blessings with the same effects can stack cumulatively if the power was a differently named power. Exact copies of a specific blessing (i.e. same name) cannot be stacked on the same unit.  
+  * Characteristics cannot be modified above a 10 or below a 1\.  
+  * If a psyker with an active blessing is removed from play, their blessings are immediately canceled.  
+* **CONJURATION:** These are powers that can summon outside forces onto the battlefield.  
+  * Invoked at the start of the psykers **MOVEMENT PHASE** unless otherwise noted.  
+    * Unit using a conjuration power may not perform any other actions the turn this power is used (no movement, shooting, other psychic powers, charging, etc.)  
+    * Any doubles that are rolled during the psychic test automatically inflicts perils of the warp, regardless of whether the conjuration was successful or not.  
+    * Can only summon daemons that match the psykers chaos mark.  
+    * Each Psyker may only *successfully* cast a selected conjuration power once per game.  
+    * Summoned units that are also psykers may not select conjuration powers.  
+  * Units that are summoned arrive following the same rules as for **DEEP STRIKING** units.  The **CENTER MODEL** for the deep strike must be placed within the specified range of conjuration power.  
+* **MALEDICTION**: These powers weaken and hinder opposing units.   
+  * Invoked during the psykers **MOVEMENT PHASE** unless otherwise noted.  
+  * **Duration:** Last until the start of the psyker’s own next turn.  
+  * Maledictions with the same effects can stack cumulatively if the power was a differently named power. Exact copies of a specific malediction (i.e. same name) cannot be stacked on the same unit.  
+  * Characteristics cannot be modified above a 10 or below a 1\.  
+  * If a psyker with an active malediction is removed from play, their maledictions are immediately canceled.  
+* **WITCHFIRE**: These powers take the form of a **RANGED ATTACK** and count as a shooting attack.  Psychic powers which say they count as a shooting attack (but don’t explicitly state they are witchfire) are still counted as a witchfire power and are subject to the rules below.  
+  * Invoked during the psyker’s **SHOOTING PHASE.**  
+  * Count as a shooting attack for the model. Thus the model may not make any additional ranged attacks unless normally allowed to make more than one ranged attack.   
+  * Witchfire attacks are treated as **ASSAULT** weapons unless otherwise specified.  
+  * **ROLLING TO HIT**: After successfully invoking the power, the psyker must still roll to hit as with a normal shooting attack. As with any ranged attack, the psyker must have line of sight to the target and be within the specified range.  
+  * **NO PROFILE:** If the witchfire ability does NOT have a weapon/attack profile, then the psyker does NOT need to roll to hit unless otherwise specified.  
+  * A psyker may only invoke one witchfire ability per turn, unless the model is allowed to shoot more than one weapon AND the psyker knows two or more different witchfire abilities.  
+* **WITCHFIRE \- BEAMS:** Beams are a witchfire power (above) with the following additional rules:  
+  * Draw a line between the psyker and a chosen point within the power’s range.  
+  * The power may or may not require line of sight to the chosen point.  
+  * Each unit with a model in the path of the beam takes a number of hits equal to the number of models in that unit that are under the path. Unsaved wounds from the beam attack may be given to any models in the unit that have the same saving throw (as per resolving normal shooting attacks).  
+* **WITCHFIRE \- FOCUSED:** Focused powers are witchfire powers that allow the psyker to attack a specific model a a target unit, and are subject to the following additional rules:  
+  * When making the psychic test to invoke the power, if the die roll was equal to or within two points below the psyker's leadership, then the opposing player may choose which model in the target unit is affected, otherwise the psyker’s owner chooses which model is affected.  
+* **WITCHFIRE \- MAELSTROM:** Witchfire power that automatically hits all units (whether friendly or enemy) within the affected are (typically a maximum range centered on the psyker).   
+  * Line of sight, being engaged or not in melee, intervening terrain, etc. are ignored unless otherwise specified.  
+  * May include effects that are blessings or maledictions as well.  
+* **WITCHFIRE \- NOVA:** Nova witchfire attacks automatically targets and hits all ENEMY units within the powers maximum range.  
+  * Line of sight, being engaged or not in melee, intervening terrain, etc. are ignored unless otherwise specified.
+
+## **PSYCHIC DISCIPLINES**
+
+A psyker’s Codex entry will determine what if any psychic disciplines are available to the psyker in addition to whatever psychic powers may be identified in the codex book itself.  A psyker may not use powers from these disciplines unless specifically allowed to do so within their codex entry.
+
+| BIOMANCY |  | DIVINATION |  | PYROMANCY |
+| :---- | :---- | :---- | :---- | :---- |
+| **SMITE** *Witchfire* R 18”   S4   AP2    Assault 4 |  | **PRESCIENCE** *Blessing \- Friendly unit within 12”* Re-rolls all failed to hit rolls |  | **FLAME BREATH** *Witchfire* Template  S5  AP4  Assault 1 ***Soul Blaze*** |
+| **IRON ARM** *Blessing \- Targets psyker* Adds \+2 to strength and \+1 toughness. |  | **FOREBODING** *Blessing \- Targets psyker* Psyker and any joined unit gains ***Counter-Attack*** and may fire reaction fire using the full number of allowed shots. |  | **FIERY FORM** *Blessing \- Targets psyker* Gains 4+ invulnerable save, all melee attacks cause Soul Blaze. Re-rolls failed wounds inflicted by any other pyromancer powers.  |
+| **ENFEEBLE** *Malediction \- Enemy unit within 24”* \-1 to strength and toughness, treats all movement as difficult terrain |  | **FOREWARNING** *Blessing \- Friendly unit within 12”* Unit gains a 4+ invulnerable save |  | **MOLTON BEAM** *Beam* R 12”   S8   AP1  Assault 1, Melta |
+| **LIFE LEECH** *Witchfire* R 18”  S6  AP2  Assault 2 If it causes at least one unsaved wound, a model within 6” of the psyker regains a wound. |  | **PERFECT TIMING** *Blessing \- Targets psyker* Psyker and any joined unit ignores cover when shooting an enemy unit. |  | **FIRE SHIELD** *Blessing \- Friendly unit within 24”* Gains a 4+ cover save and all enemy units within 6” treat all terrain (even open ground) as dangerous terrain. |
+| **WARP SPEED** *Blessing \- Targets psyker* Gains \+3 to initiative and attacks, and gains ***Fleet*** |  | **PRECOGNITION** *Blessing \- Target psyker* The Psyker re-rolls all failed to-hit and to-wound rolls. Psyker model re-rolls failed saves. |  | **SUNBURST** *Nova* R 9”   S4  AP5  Assault 2D6 Ignores cover Causes ***Soul Blaze*** |
+| **ENDURANCE** *Blessing \- Friendly unit within 24”* Models in unit gain ***Eternal Warrior, Feel No Pain (5+), Relentless*** |  | **MISFORTUNE** *Malediction \- Enemy unit within 24”* All attacks against this unit count as ***Rending***. |  | **INFERNO** *Witchfire* R 24”   S4  AP5  Assault 1 Ignores cover, Large Blast, ***Soul Blaze*** |
+| **HAEMORRHAGE** *Focused Witchfire \- Range 18”* Target model must pass two toughness tests or suffer a wound with no armor or cover saves.  If a model is killed, select another model with 2”, which must pass a single toughness test or suffer a wound as well. Repeat until a toughness test is passed. |  | **SCRIER’S GAZE** *Blessing \- Targets psyker* While the power is in effect, one reserve each turn may automatically pass its reserve roll.  Other reserve and outflank rolls may be re-rolled. Mysterious objective rolls can be re-rolled   |  | **SPONTANEOUS COMBUSTION** *Focused Witchfire \- Range 18”* Target model suffers S6 AP3 hit with ***Soul Blaze***. If the model is slain, place a blast marker over the removed model.  All hit models suffer a S5 AP4 hit that ignores cover and causes ***Soul Blaze***. |
+
+| DAEMONOLOGY (SANCTIC) |  | DAEMONOLOGY (MALEFIC) |
+| :---- | :---- | :---- |
+| **BANISHMENT** *Malediction \- Enemy **DAEMON** unit within 24”* All models in the target unit suffer \-1 to their invulnerable saves.  |  | **SUMMONING ** *Conjuration \- Range 12”* Can summon one of the following: 8x Bloodletters, 9x Pink Horrors, 7x Plaguebearers, 6x Daemonettes, 4x Flesh Hounds, 3x Flamers, 4x Nurglings, 6x Seekers |
+| **GATE OF INFINITY** *Blessing \- Targets psyker* Remove target psyker and any joined unit from the board and immediately re-deploy it using ***Deep Strike*** rules. |  | **CURSED EARTH** *Blessing \- Targets psyker* All DAEMON models with 12” of the psyker have \+1 bonus to their invulnerable saves. Deep striking daemons will not scatter when arriving when the CENTER MODEL is placed within 12” of the psyker. |
+| **HAMMERHAND** *Blessing \- Targets psyker* Psyker and any joined unit gains \+2 Strength |  | **DARK FLAME** *Witchfire* Template   S4   AP5  Assault 1, Soul Blaze, Torrent |
+| **SANCTUARY** *Blessing \- Targets psyker* Psyker and any joined unit receive \+1 to invulnerable saves (or gain a 6+ invulnerable save). Units with the ***Daemon*** special rule treat all terrain within 12” of psyker as dangerous terrain (even open ground) |  | **POSSESSION** *Conjuration \- Range 6”* Summons 1x Bloodthirster, Lord of Change, Great Unclean One, or Keeper of Secrets. If successful, the invoking psyker is removed as a casualty. *MAY ONLY BE USED BY A PSYKER WITH MASTERY LEVEL 2 OR GREATER* |
+| **PURGE SOUL** *Focused Witchfire \- Range 24”* Psyker and target model roll a D6 and add leadership. If psyker’s total is greater than or equal, the target suffers an automatic wound with no armor or cover saves allowed.   |  | **SACRIFICE** *Conjuration \- Range 6”* Summons 1x Herald of Khorne / Tzeentch / Nurgle / Slaanesh with 30 pts or wargear (see Codex: Chaos Daemons). If successfully invoked, one friendly model with 6” of the psyker takes a wound with no saves of any kind allowed. |
+| **CLEANSING FLAME** *Nova* Range 9”  S5  AP4  Assault 2D6 Ignores cover, ***Soul Blaze*** |  | **INCURSION** *Conjuration \- Range 12”* Summons 3x Bloodcrushers, 4x Screamers, 3x Plague Drones, or 3x Fiends.  |
+| **VORTEX OF DOOM** *Witchfire* Range 12”   S10   AP1  Assault 1, Blast **Vortex** |  | **INFERNAL GAZE** *Beam* Range 18”   S3   AP4  Assault 1, Armourbane, Fleshbane |
+
+| TELEKINESIS |  | TELEPATHY |
+| :---- | :---- | :---- |
+| **ASSAIL** *Beam* Range 18”   S6  AP “-”  Assault 1, ***Strikedown*** |  | **PSYCHIC SHRIEK** *Witchfire* \- Range 18” Roll 3D6 and subtract the target’s leadership.  Unit suffers wounds equal to the result.  No armor and cover saves. |
+| **CRUSH** *Focused Witchfire \- Range 18”* Roll a 2D6.  Target suffers a strength hit equal to the roll.  Roll another D6 for the AP value. |  | **DOMINATE** *Malediction \- Enemy unit within 24”* Target unit must pass a leadership test each time it attempts to move, advance, shoot, charge, or use a psychic power.   |
+| **OBJURATION MECHANICUM** *Malediction \- Enemy unit within 24”* All of target unit’s ranged weapon attacks has ***Get’s Hot*** special rule.  Vehicles suffer an immediate hit with the ***Haywire*** effect. |  | **MENTAL FORTITUDE** *Blessing \- Friendly unit within 24”* If the target is falling back, it immediately regroups. The target gains ***Fearless***. |
+| **SHOCKWAVE** *Nova* Range 9”  S4   AP “-”  Assault 2D6, Pinning |  | **TERRIFY** *Malediction \- Enemy unit within 24”* Target unit has \-1 to their leadership and treats all opposing units as if they had Fear.  Must take a casualty test at the end of the turn. |
+| **LEVITATION** *Blessing \- Targets psyker* Psyker and any joined unit may immediately move up to 12” (cannot land on other models or impassable terrain).  Cannot charge this turn and counts as having moved. |  | **HALLUCINATION** *Malediction \- Enemy unit within 24”* Roll a D6 and the unit suffers the below result: 1-2: Unit must take a pinning test 3-4: Unit suffers \-1 to WS, BS, Initiative, Attacks 5-6: Randomly select a model in the unit.  It takes a hit for every other model in the unit, with strength equal to the majority strength in the unit. |
+| **TELEKINE DOME** *Blessing \- Targets psyker* Psyker and all friendly models within 12” have a 5+ invulnerable save against shooting attacks. |  | **INVISIBILITY** *Blessing \- Targets friendly unit within 24”* Opposing units suffer a \-1 to hit when making ranged and melee attacks against the target unit. |
+| **PSYCHIC MAELSTROM** *Witchfire* Range 12”  S10   AP1   Assault 1, Barrage, Large Blast |  | **SHROUDING** *Blessing \- Targets psyker* All friendly models within 6” of the psyker have the shrouded special rule. |
