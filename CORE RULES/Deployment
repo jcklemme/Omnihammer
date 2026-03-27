@@ -1,0 +1,13 @@
+### Deployment
+
+* **DEPLOYMENT ZONES**: The mission briefing for the selected mission will determine each player’s deployment zone, in which they must place their units.  
+* **STANDARD DEPLOYMENT**: Unless otherwise specified by the mission, deployment works as follows::  
+  * Players alternate placing units that aren’t being held in reserve into their deployment zones, starting with the player that chose the side / deployment zone.  
+  * All units are deployed in the following order: Heavy Support (and Lords of War), Troops, Elites, Fast Attack, HQ.   
+    * Players alternate placing units by type until all of that type, for both players, have been placed.  
+    * Each time the deployment for the next class begins, the player that deploys first places the first unit of the next type (if they have any of that type to deploy).  
+  * **INDEPENDENT CHARACTERS**: Always count as a separate distinct choice for deployment unless joined. Characters may be deployed and “joined” to a unit as part of deployment if they are normally allowed to join that unit.  
+* **TRANSPORTS & DEPLOYMENT:** Units that have a dedicated transport are deployed together onto the table as a single unit.  The unit may be deployed, embarked on the transport or placed outside of it.  **INDEPENDENT CHARACTERS** may be deployed inside of transports (dedicated or non-dedicated) if there is available space.  
+* **SPECIAL DEPLOYMENT RULES**: Units with special deployment rules may be placed during standard deployment or may utilize special deployment rules.  These include units with the ***Infiltrator***, ***Scout***, or other similar special abilities.  
+  * ***Infiltrators***: Units with the infiltrator ability are set up after all non-infiltrator units have been deployed by both players.  If both players have infiltrators, they alternate placing infiltrating units starting with the player that won the deployment roll-off.  When placing infiltrators, they may be placed anywhere on the battlefield that is more than 18” from an enemy unit.  If the infiltrator unit can be placed completely out of sight of all opposing models, it may be 12” or more from enemy units.  
+  * ***Scout***: Units with the scout ability may, after all players have finished deploying all units, including infiltrators, perform a normal move prior to the start of the first turn.  If multiple players have scout units, roll-off and players alternate moving their scouts starting with the winner.  If scouts are deployed into a dedicated transport, the transport gains the scout ability as well.
