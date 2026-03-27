@@ -36,13 +36,11 @@ Claude does not commit to design conclusions without your sign-off.
 ## Repository Structure
 
 ```
-/rules/          — One .md file per chapter (01-introduction.md through 13-optional-rules.md)
-/docs/           — Supporting documents (templates, references)
+/Core ruless/          — One .md file per section
+/CODES/           — Folders for faction rules and profiles
 CLAUDE.md        — This file
-README.md        — Community-facing project overview
-CONTRIBUTING.md  — Contributor guide
 CHANGELOG.md     — Append-only record of all rule changes
-SETUP.md         — One-time GitHub setup instructions (can be archived once complete)
+SESSION_STATE.md
 ```
 
 ---
@@ -51,7 +49,7 @@ SETUP.md         — One-time GitHub setup instructions (can be archived once co
 
 - `CHANGELOG.md` — What has changed recently
 - `SESSION_STATE.md` — Open issues, in-progress work, next tasks (create this file once work begins)
-- The relevant `/rules/*.md` chapter if working on a specific section
+- The relevant `/CORE RULES/*.md` chapter if working on a specific section
 
 ---
 
@@ -91,7 +89,6 @@ Optional rule format:
 ## Working Conventions
 
 - **Always read the source document before writing rules content.** Do not rely on memory of official 40K editions.
-- **Do not propose design changes during conversion work.** If an ambiguity or problem is noticed while converting a chapter, flag it as a separate Issue rather than silently "fixing" it.
 - **One change at a time.** When drafting rule proposals, address one rule or interaction per proposal.
 - **Ask before assuming.** If a rule is ambiguous and the correct interpretation affects the work at hand, ask rather than picking one silently.
 - **Reference the design principles.** When critiquing or proposing rules, ground the reasoning in OmniHammer's stated design principles (from `01-introduction.md`).
