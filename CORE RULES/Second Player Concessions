@@ -1,0 +1,13 @@
+### Second Player Concessions
+
+* **NUMBER OF CONCESSIONS:** Unless specified otherwise by the mission briefing, the second player will gain one concession point for every 500 points (or part thereof) of army size (e.g. 750 point army gains 2 concessions).  
+* **CONCESSION EFFECTS:** Each concession point may be spent to do an effect chosen from the chart below before the first turn. The cost for taking the same concession multiple times is increased by one each time that concession was previously selected (e.g. taking two Overwatch concessions would require spending 3 points).
+
+
+| CONCESSION | EFFECT |
+| :---- | :---- |
+| **Overwatch** | Select a deployed non-vehicle unit.  It begins the game on overwatch. |
+| **Redeploy** | Select a unit already deployed or held in reserve and redeploy it subject to its normally allowed deployment options. |
+| **Withhold** | Select a deployed unit and remove from the board, placing it into reserves. |
+| **Fortify** | The unit gains \+1 to its cover save until it performs a move. |
+| **Invoke** | A Psyker unit may invoke an available blessing power (test passes automatically) |
