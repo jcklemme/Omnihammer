@@ -252,7 +252,7 @@ Each model may carry up to one pistol and one non-pistol ranged weapon. A model 
 >
 > **Transport choice.** A Trukk carries 12 models — perfect for a small, fast mob. A Battlewagon carries 20 and is much tougher. Match your transport to your mob size and battle plan.
 
-> **DESIGNER NOTES**
+### DESIGNER NOTES: Nobs
 >
 > **Nobz as a Platform.** The Nobz datasheet is intentionally the most customizable infantry unit in the Ork codex. By folding Meganobz into the Nobz unit as a per-model armour upgrade rather than a separate datasheet, players can build anything from a cheap, fast Choppa mob on Warbikes to a full squad of armoured Meganobz in a Battlewagon — or any combination in between. This flexibility reflects the lore: Nobz are the Ork upper class, and they kit themselves out with whatever they can afford, loot, or beat out of a Mek.
 >
