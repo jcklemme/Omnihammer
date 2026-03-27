@@ -1,0 +1,380 @@
+# **SHOOTING PHASE**
+
+![][image10]
+
+During the shooting phase, the active player follows the sequence below to shoot with their units that are eligible to make a ranged attack. The process below is used to resolve the shooting phase.
+
+#### **STEP 1\. DECLARE TARGETS & ENTER OVERWATCH**
+
+#### **STEP 2\. FIRST FIRE & OVERWATCH**
+
+#### **STEP 3\. NORMAL & RETURN FIRE**
+
+#### **STEP 4\. CASUALTY TEST**
+
+## **STEP 1: DECLARE TARGETS & ENTER OVERWATCH**
+
+In this step, the active player selects one of their units they want to make a ranged attack with, and **DECLARES TARGETS** that they wish to shoot at.  Instead of shooting the unit may **ENTER OVERWATCH** or choose not to make a ranged attack at all. Continue this process for each unit in their army, then proceed to the shooting step 2\.
+
+### Shooting Eligibility
+
+In order to declare a target for a shooting attack, the unit must be eligible to shoot.  Units cannot shoot (and cannot declare a target) if any of the following conditions apply to that unit:
+
+* The shooting unit is engaged with opposing units in a melee engagement.  
+* The shooting unit has no ranged weapons.  
+* The shooting unit performed an advanced move during its movement phase \- unless weapons or unit abilities allow it to advance and still shoot (e.g. assault weapons).
+
+### Declare Targets
+
+* **CHECK LINE OF SIGHT TO TARGET:** The active player selects a unit and declares one enemy unit that has at least one model visible to the unit making the ranged attack.   
+* Players may use numbered tokens or dice as desired to keep track of what target unit each attacking unit is shooting at.  
+* A shooting unit must make all of its ranged attacks against a single enemy unit, unless it chooses to **SPLIT FIRE**.  
+* **ENEMY OVERWATCH:** If the opposing player has any units on **OVERWATCH**, the unit’s controller must declare which targets they wish to shoot at after the active player finishes declaring their targets.    
+  * Units on overwatch may also attempt to split fire.  
+  * Units on overwatch may only declare an enemy unit as a target if it is within 24”.  
+* **SHOOTING INTO MELEE COMBAT:** A shooting unit may declare to shoot at a unit engaged in melee combat (see [SHOOTING INTO MELEE COMBAT](#shooting-into-melee)) below.
+
+### Entering Overwatch {#entering-overwatch}
+
+* Instead of declaring a target to shoot, the active player’s unit may instead enter **OVERWATCH**, which allows that unit to shoot during their opponent’s shooting phase. To enter overwatch the following conditions must be met:  
+  * The unit may not be a vehicle  
+  * The unit must have remained stationary during its movement phase.  
+  * The unit may not be under the effects of Limited Fire  
+  * The unit cannot be pinned or falling back.  
+* **DIRECTION OF FIRE**: When a unit is placed on overwatch, choose a direction of fire for the unit by using a token or nominating a model oriented in the desired direction.  Each model may only take overwatch fire at a unit within 90-degrees of its direction of fire.
+
+### Splitting Fire
+
+* **SPLIT FIRE TEST:** When a non-vehicle unit is deciding what unit to target, the active player may first perform a **LEADERSHIP TEST**. If the test is successful, the shooting unit may **SPLIT FIRE** and declare TWO different enemy units as targets.   
+* When splitting fire, you must declare which specific models in the shooting unit are attacking which target as a group.  At least one model in each group must have line of sight to their declared target.  
+* All of an individual model’s ranged attacks must be directed at the same target.   
+* **VEHICLES SPLITTING FIRE**: Vehicle units/models are assumed to have a leadership value of 10 when rolling to split fire.  If the leadership test is passed, the vehicle may fire at up to two different targets, provided the targets are within line of sight and within the firing arc of the applicable weapon.
+
+## **STEP 2: FIRST FIRE & ENEMY OVERWATCH**
+
+In this step, the following process is used:
+
+* **FIRST FIRE:** The active player selects one of their units that remained stationary and resolves its shooting attack against the unit(s) it declared fire against (see [RESOLVING SHOOTING ATTACKS](#resolving-shooting-attacks) below). A unit hit by a first fire shooting attack may choose to **TAKE COVER\!** (or use ***Jink*** or evade if allowed). The target may not Return Fire\!.  
+* Next, the opposing player chooses one of their units that is on overwatch and resolves its **OVERWATCH FIRE** attacks against its declared target(s).  The target of the overwatch fire may also choose to **TAKE COVER\!,** but may not Return Fire\!.  
+* Players alternate in this manner until all of the active player’s units that did not move and all of the opposing player’s units on overwatch have resolved their attacks.
+
+### Overwatch Fire
+
+Opposing units on overwatch resolve their ranged attacks during the active player’s shooting phase. Overwatch shooting attacks are resolved in the same manner as other shooting attacks (see [RESOLVING SHOOTING ATTACKS](#resolving-shooting-attacks)), with the following exceptions:
+
+* Overwatch shooting attacks may only target units that are within 24”.  
+* Models in a unit on overwatch can only shoot within a 90-degree forward arc of their position, as determined when the unit was chosen to enter overwatch (see [ENTERING OVERWATCH](#entering-overwatch)).  
+* Units hit by overwatch shooting attacks ARE affected by any **pinning** and **suppression** effects, and may have to make pinning tests as a result at the end of their turn.
+
+### Take Cover\! Reaction
+
+* Units that are targeted by First Fire, Overwatch Fire, or Normal Fire may choose to Take Cover\! as a reaction to being targeted, and immediately before the attacking player makes any hit rolls, so long as the unit has not shot already during the current shooting phase.  
+* Units that Take Cover\! **immediately** gain \+1 to any cover saves that models in the units might receive against shooting attacks for the remainder of the current turn.  Models in the unit that are not within cover, gain a 6+ cover save instead.  
+* Units that Take Cover\! Become automatically **PINNED** until the end of the unit’s next turn (see [PINNING](#pinning)).
+
+## **STEP 3: NORMAL & RETURN FIRE**
+
+In this step, the below process is used:
+
+* **NORMAL SHOOTING ATTACK:** The active player selects one of their units that moved and resolves its shooting attack against the unit(s) it declared fire against (ie. the “target”).  The target unit may choose to **TAKE COVER\!** (or use ***Jink** or **Evade*** abilities if allowed) or may **RETURN FIRE**\!  
+* **RETURN FIRE\!:** The unit targeted by normal shooting attack may perform a return fire reaction (see below). ***Casualties from the normal shooting attack and the return fire reaction occur simultaneously.***   
+* After any return fire is resolved, repeat the above process until all of the active player’s units that are able to shoot have resolved their attacks along with any return fire from opposing units.
+
+### Return Fire\! Reaction {#return-fire!-reaction}
+
+#### **WHEN CAN A UNIT TAKE A RETURN FIRE\! REACTION?**
+
+A unit may only perform the **RETURN FIRE\!** reaction in the following circumstances:
+
+* The unit was targeted with a normal shooting attack (not First Fire\! or Overwatch fire) by a unit that is within 24”. The Return Fire\! may only be resolved against the attacking unit and the reaction must be declared prior to the active player rolling any of their hit dice.   
+* The following additional restrictions apply to when a unit can perform a Return Fire\! reaction:   
+  * The target of the return fire attack must be within 24”  
+  * The unit may not have fired previously this turn.  
+  * The unit may not have Taken Cover\! (or Jinked/evaded) this turn.  
+  * The unit cannot be engaged in melee.  
+  * The unit may not split fire.  
+  * **VEHICLES** may never Return Fire\!
+
+
+#### **RESOLVING RETURN FIRE\!**
+
+* The unit resolving Return Fire\! Attacks do so using the **LIMITED FIRE** rules (see [LIMITED FIRE](#limited-fire))  
+* Return fire inflicts casualties simultaneously with the normal shooting attack that triggered the Return Fire\!.  
+* *IMPORTANT REMINDER:* Units shooting with limited fire as a result of the Return Fire\! Reaction must also shoot with limited fire on their own next turn and also suffer penalties in assaults during the current turn.
+
+## **STEP 4: MARK CASUALTY TEST**
+
+* After all shooting attacks have been resolved and casualties are removed, each non-vehicle unit that lost 25% or more of its **current strength** (i.e. the number of models in the unit at the start of the active player’s turn) must be marked for taking a **CASUALTY TEST** at the **END** of the current player turn.  
+* Units do not need to take a casualty test from shooting attacks in the following situations:  
+  * The unit becomes engaged in close combat during the assault phase of the current turn, regardless of the outcome of the close combat engagements (the unit may instead be forced to take a BREAK test if it loses close combat).  
+* **Reminder on Limited Fire**: Units may still be forced to take a casualty test, on their own turn, in response to taking limited fire (e.g. from a Return Fire\! reaction) but they do not suffer from pinning or suppression effects.
+
+### Casualty Test
+
+* **CASUALTY TEST:** Units taking a casualty test must pass a leadership test **at the end of the current player’s turn**, using the unit’s highest available leadership value, with the following modifiers:  
+  * \-1if the unit is at half-strength (i.e. below 50% of its starting strength)  
+  * \-1 if the unit is out of coherency  
+  * \-1 if the unit suffered any unsaved wounds from friendly-fire (for example due to scattering blast weapons or shooting into melee combat).  
+* **PASSED CASUALTY TEST**: If the test passes, nothing further happens.  
+* **FAILED CASUALTY TEST**: If the test fails, the unit becomes **BROKEN** and immediately **FAlLS BACK** 2D6” (see [FALLING BACK](#falling-back))
+
+## **RESOLVING SHOOTING ATTACKS** {#resolving-shooting-attacks}
+
+When a unit is called upon to resolve a shooting attack \- either **FIRST FIRE, OVERWATCH FIRE, NORMAL FIRE, or RETURN FIRE** \- the procedure below is used to determine what models are able to fire at which enemy models, how wounds are allocated, and ultimately how casualties or damage is inflicted.
+
+#### **1\) DETERMINE ELIGIBLE SHOOTING MODELS & WEAPONS**
+
+* When a unit shoots, all of its ranged attacks from all models are directed towards its declared target and are resolved simultaneously.   
+* If the shooting unit successfully **SPLIT FIRE**, all the models designated to attack one of the target units must resolve their attacks first, before attacks against the other declared target are resolved.  
+* Any shooting model that is in range of and has line of sight to at least one model in the enemy unit is eligible to shoot. Models that do not have line of sight to any enemy models in the target unit or that are completely out of range may not shoot.  
+* **Each model may only shoot with one ranged weapon** unless its type or special rules state otherwise. If they have more than one ranged weapon, the active player must decide which weapon to shoot with. Special rules affecting what weapons a model may shoot with include:  
+  * **RELENTLESS**: Models with the ***Relentless*** special ability always count as having remained stationary when shooting **HEAVY WEAPONS**, and may still charge in the assault phase even if they shot with heavy weapons.  
+  * **MONSTROUS CREATURES & FLYING MONSTERS:** These large models may always shoot with up to two weapons in the shooting phase and are also ***relentless***.  
+  * **VEHICLES**: Vehicle shooting is dependent on how fast the vehicle moved and the type of weapons being fired (see [VEHICLE SHOOTING](#heading=h.2tk17jkxs8r8)).
+
+#### **2\) DETERMINE HITTABLE MODELS**
+
+* **HITTABLE MODELS**: Determine which models in the target unit are able to be hit by shooting attacks.  
+  * Models that are out of sight from all shooting models are NOT a hittable model.  
+  * Models that are out of range from all shooting models are NOT a hittable model.  
+* **NO HITTABLE MODELS**: If the target unit has no hittable models, then no shooting attacks are resolved. This can be the result of a prior unit’s shooting attacks inflicting casualties on the target unit, leaving no hittable models remaining for the current unit to shoot.  
+  * **SHOOT THE WRECK\!**: If the declared target was a transport vehicle with passengers and the vehicle was wrecked from a prior shooting attack this turn, subsequent units targeting the transport may choose to redirect their fire on any disembarked passengers that are still alive and hittable. 
+
+#### **3\) ROLL TO HIT: RANGED ATTACKS**
+
+* Hit rolls from ALL of the shooting unit’s models against one target unit are rolled together at the same time.  
+* If different weapons profiles and/or ballistic skills are being used, use different color dice and denote which attacks to correspond to which dice.  
+* The shooting unit’s owner rolls to hit (See [ROLL TO HIT: RANGED ATTACKS](#roll-to-hit:-ranged-attacks))  
+* Take note if the unit or model’s within it are subject to shooting with **SNAP FIRE**  
+* **DETERMINE SCREENING:** Check to see if the target unit is **SCREENED** by intervening friendly or enemy units. If so, shots will hit the screening unit instead\! See SCREENING below).
+
+
+#### **4\) ROLL TO WOUND: RANGED ATTACKS**
+
+* The shooting unit’s owner rolls to wound for each successful hit. If there were multiple successful hits, roll to wound for all hits together at the same time.  
+* If weapons have different profiles, keep track of which dice correspond to which weapon hits.  
+* **MIXED TOUGHNESS IN TARGET UNIT:** If the target unit has hittable models with different toughness values, use the toughness value that is in the majority among hittable models in the target unit to determine the wound roll needed.  If no majority exists, use the highest toughness value from among the tied values of hittable models.  
+* Total up the number of Wounds you have caused with the weapons that are firing. Keep the dice that have scored Wounds and create a ‘pool’, where each dice represents a Wound. Sometimes an attack will gain a bonus or special rule depending on the results rolled [To Hit](https://scoolov.github.io/wh40000rules/the-rules/the-turn/the-shooting-phase#TOC-Roll-To-Hit) or [To Wound](https://scoolov.github.io/wh40000rules/the-rules/the-turn/the-shooting-phase#TOC-Roll-To-Wound) (for example, due to the [Rending](https://scoolov.github.io/wh40000rules/appendix/special-rules#TOC-Rending) special rule).  
+* If you caused any such Wounds, split them into separate Wound pools. All Wounds with exactly the same Strength, AP value and special rules must go into the same pool. If all the Wounds are the same, as will most often be the case, there will only be one Wound pool.
+
+
+#### **5\) ALLOCATE WOUNDS & REMOVE CASUALTIES**
+
+* To determine how many casualties are caused, you will need to allocate the Wounds from the Wound pool and resolve any saving throws the target is allowed. If several pools of Wounds need to be allocated, the player making the attacks decides the order in which they are allocated. **All of the Wounds from a single Wound pool must be allocated before moving on to the next Wounds pool.**  
+* The owner of the target unit selects a Hittable Model and applies a Wound to it.  When allocating wounds within a unit, any models that have already suffered wounds must have wounds applied to them first before any unwounded models can have wounds allocated to them.  
+* The model gets to make a saving throw, if it has one. If it fails, reduce that model’s Wounds by 1\. If the model is reduced to 0 Wounds, remove it as a casualty.  Saving throws fall into the following categories:  
+  * **Normal armor \-** Armor saves that are not penetrated by the ranged attack.  
+  * **Impacted Armor** \- Armor saves that are modified by an armor penetration roll (i.e. if the AP-value equals the armor save value, and the armor save suffers a \-1 to the roll)  
+  * **Penetrated armor** \- models that receive no saving throws  
+  * **Cover saves** \- Models in the target unit that are **OBSCURED** by terrain from the point of view of any eligible shooting model and receiving the same level of cover save.  
+  * **Invulnerable Save** \- models with an equivalent invulnerable armor save.   
+* The target unit’s owner may always choose to ignore using a cover or invulnerable armor save in lieu of their armor save if desired.  
+* Continue allocating Wounds to Hittable Models selected by the owner of the target unit, taking saves and removing casualties until the Wound pool is empty or all models in the unit have been removed as casualties.  
+* If none of the remaining models in a target unit are Hittable Models after removing a casualty, all remaining Wounds in the pool are lost.  
+* When the Wound pool is empty, select a remaining pool and allocate Wounds from it. Once all of the Wound pools for an attack are empty, attacks from the currently selected weapon have been completely resolved.  
+* After the attacks from the currently selected weapon have been completely resolved, if the firing unit is equipped with a differently named shooting weapon that has yet to fire, you can now select it and shoot with it at the same target unit.
+
+## **SPECIAL SHOOTING RULES**
+
+### Pinning {#pinning}
+
+Units that become **pinned**, either due to Take Cover\! Reactions, suppression, weapons that cause pinning, or other effects are forced to the ground. Units can become pinned automatically in certain situations or as a result of a failed **PINNING TEST**. 
+
+#### **PINNING TEST**
+
+* **PINNING TEST:** Some weapon attacks and other situations can require units to take a Pinning Test **at the end of the round**.  A pinning test is morale test using the unit’s highest available leadership value with the following modifiers:  
+  * \-1 if the unit at half strength (unless the unit is **All On Their Own**)  
+  * \-1 if the unit is out of coherency  
+  * \-1 for each suppression token on the unit (see [SUPPRESSION](#suppression))  
+* If the test fails, the unit becomes **PINNED**. If it succeeds the unit is not pinned.
+
+#### **EFFECTS OF BEING PINNED**
+
+* A pinned unit may only move a maximum of D3” on their next movement phase and may not advance.  
+* A pinned unit may shoot on their next turn, but only with **snap fire**.  
+* Pinned units are affected by cover as normal against shooting attacks, and gain a \+1 to their cover save (or a 6+ cover save if in the open).   
+* A pinned unit may not charge into close combat.  
+* A pinned unit may not enter overwatch or perform reactions (Take Cover\!, Return Fire\!, Stand & Shoot\!)  
+* If charged by an enemy, a pinned unit does not count as being in cover.   
+* **BROKEN UNITS & PINNING**: Units that are broken and become pinned, or that are pinned and become broken will fallback 2D6”on their movement phase (not limited to the D3”), as per a broken unit (see [BROKEN UNITS](#broken-units)), but also suffer the other effects of pinning as described above.
+
+#### **BECOMING UNPINNED**
+
+* A Pinned unit becomes unpinned (losing its Pinned status) in the following ways:  
+  * If engaged in an assault, the pinned unit will automatically become unpinned at the end of the current assault phase.   
+  * A pinned unit automatically becomes unpinned at the END of its own next turn.   
+    
+
+### Suppression & Crossfire
+
+#### **SUPPRESSION** {#suppression}
+
+* **Suppression Tokens:** Suppression tokens represent the volume of enemy fire a unit has taken, affecting its ability to operate effectively.  
+* **Gaining Suppression Tokens:** Units gain a suppression token in the following manner.  
+  * Each time the unit suffers ranged attacks from an enemy unit where the total number of shots fired from that unit exceeds the number of friendly models in the unit AND at least one unsaved wound occurs, the friendly unit gains a suppression token.  Use a D6 or tokens to track suppression tokens.  
+  * Units may not gain more than six (6) suppression tokens.  
+* **Effect of Suppression:** Suppression tokens have the following effects:  
+  * Each suppression token on a unit adds a \-1 modifier to all leadership tests the unit is required to make,  including all morale, pinning, split fire, and psychic tests.  
+  * When a unit gains three (3) or more suppression tokens, the unit must take a **pinning test** (see [PINNING](#pinning)) at the end of the current turn.  
+* **Losing Suppression Tokens**: A unit loses a suppression token in the following ways:  
+  * If a unit becomes pinned, due to failing a pinning test or through any other means (e.g. the Take Cover\! reaction), the unit loses all but one suppression token.  
+  * If a unit with suppression tokens becomes engaged in melee, the unit loses all but one suppression token.  
+  * At the END of each of the unit’s own turns, the unit loses one suppression token.  
+* **Fearless Units**: Units that are fearless, immune to pinning, and/or automatically pass pinning tests DO gain suppression tokens as normal. If they gain three suppression tokens they may choose to become pinned in order to remove suppression tokens as described above (this is an exception to fearless units not normally being allowed to Take Cover or become Pinned).  
+* **Monstrous Creatures**: Monstrous creatures are immune to the effects of suppression.  
+* **Vehicles**: When a vehicle suffers one or more glancing and/or penetrating hits from another unit’s shooting attacks, it gains a suppression token, which incurs a \-1 to the vehicles leadership (affecting split fire tests).    
+  * Vehicles clear ALL suppression tokens at the end of their own turn. 
+
+#### **CROSSFIRE**
+
+* **DETERMINING CROSSFIRE:** A unit is caught in a crossfire when two (or more) units are shooting the same target from its forward arc and from its rearward arc during the same shooting phase.  The process for determining forward/rearward arc is as follows:  
+  * When the first selected unit shoots at the target unit, before rolling to hit, determine which eligible shooting model and hittable target model are closest.  
+  * Draw an imaginary line between these two closest models.  
+  * Draw a secondary imaginary line, perpendicular to the first, intersecting on top of the nearest target model. In front of this line (towards the shooting model) is the forward arc, and behind this line is the rearward arc.  
+  * Subsequent units shooting at the target unit that are wholly within the rearward arc claim a crossfire bonus.  
+* **EFFECT OF CROSSFIRE**: When a unit suffering from a crossfire attack would gain a suppression token, it instead gains TWO suppression tokens.
+
+### Screening {#screening}
+
+#### **DETERMINING A SCREEN**
+
+* A target unit is considered screened if ALL of the possible lines of fire between eligible shooting models in the firing unit and hittable models in the target unit pass through the bases or between gaps in the bases of intervening opposing units and/or through or between bases on units engaged in melee belonging to either player.  
+  * **GAPS IN THE SCREEN:** An intervening unit does not count towards screening if any lines of fire pass through gaps between bases that are larger than 2” (i.e. the intervening unit is out of coherency).  
+  * **COMBINED SCREEN:** Multiple units can form a screen, so long as no lines of fire pass between gaps larger than 2”  
+* **LARGE MODELS:** Monstrous creatures, flying monsters, and vehicles never count as being screened unless all of the screening models are also monstrous creatures or flying monsters. Vehicles are never counted towards screening, as they are instead considered intervening terrain.  
+* Elevation differences that result in lines of fire passing over screened units prevent screening.  
+* Single model units never count towards screening.
+
+#### **EFFECT OF SCREENING UNITS**
+
+* When shooting a screened unit, all of the successful hits instead hit the screening unit.  
+* A unit can still declare fire against a target behind a screen, and if another unit’s firing invalidates the screen, the unit can then shoot at their declared target as normal.  
+* If multiple opposing units form a combined screen, all hits are resolved against the unit with a model closest to a model in the shooting unit.
+
+### Shooting Into Melee  {#shooting-into-melee}
+
+* A unit may declare shooting at a target that is engaged in close combat with a friendly unit, but there is a likelihood of hitting friendly models with the ranged attack\!  
+* When shooting into a melee engagement, friendly models in the engagement do not count as blocking line of sight nor do they count towards providing a screen.  
+* Roll to hit for the shooting attack as normal, and then follow the steps below:  
+  * For each successful hit, roll a D6.   
+  * On a 4+ the shot hits the intended target unit, otherwise it hits the shooting player’s own unit.   
+  * If the shooting player has multiple units that are engaged, the shots hit whichever unit has the most models.  In the case of a tie, the shots hit the friendly unit with the closest model to the shooting unit.  
+  * If shooting at a monstrous creature or walker, add \+1 to the die roll when determining which unit is hit by the shooting attacks.  
+  * If the shooting model has ***Precision Shots*** add \+1 to the die roll when determining which unit is hit by the shooting attacks.
+
+### Emergency Disembarkation
+
+* If a vehicle with embarked passengers suffers penetrating hits but is not destroyed, after the current attacks are resolved the embarked passengers may choose to immediately disembark.  
+  * Passengers disembarking in this manner may be subject to the effect of the vehicle being shaken or stunned and affected by snap fire shooting next turn.  
+  * If passengers disembark, any opposing units that declared fire against the transport but that have not yet shot, may choose instead to fire at the disembarked passengers.
+
+### Vehicle Shooting
+
+When vehicles shoot, the speed at which they last moved will impact its shooting attacks. See the [VEHICLE UNIT SUMMARY CHART](#vehicle-unit-types) for full details on how movement and vehicle type affects what weapons can shoot.
+
+* **RELENTLESS VEHICLES:** Vehicles always count as being ***relentless*** and may shoot heavy or rapid fire weapons without penalties even if moving (subject to below rules)  
+* **SPLITTING FIRE:** Vehicles may **SPLIT FIRE** and are treated as having Leadership 10 for the test. If the test is successful each weapon on the vehicle may shoot at a target of its choice within its own firing arc.  
+* **MAIN WEAPONS:** A vehicle’s “main weapons” are those with a **Strength of 6 or more.**  Weapons with multiple profiles use their highest Strength when determining if they are a Main Weapon or not.  
+* **DEFENSIVE WEAPONS:** A vehicle’s defensive weapons are those of **Strength 5 or less**.  Weapons with multiple profiles use their highest Strength when determining if they are a Defensive Weapon or not.  
+* **ORDNANCE WEAPONS:** An ordnance weapon always counts as a main weapon.  Furthermore, if the ordnance weapon is fired, no other weapons may be fired (even defensive weapons).  Superheavy Vehicles are not restricted to firing only an Ordnance Weapon and may fire their other weapons as normal.
+
+#### **EMBARKED PASSENGERS & FIRE PORTS**
+
+Transport vehicles may allow embarked models to shoot from the vehicle as it moves.
+
+* **FIRE PORTS**: If a vehicle's datasheet lists any fireports, ONE model may shoot from each listed fireport unless otherwise specified.  
+* **OPEN-TOPPED**: All embarked models can shoot, in any direction, out of an open-topped vehicle.  
+* **COUNT AS MOVING:**    
+  * If the vehicle moved (except for pivoting), then all embarked model’s count as having moved as well.    
+  * Embarked models do NOT benefit from vehicles being ***Relentless.***   
+  * If a vehicle moves at cruising speed, embarked passengers may NOT fire heavy weapons.  
+  * Embarked models may NOT fire at all if the vehicle moved Flat Out.
+
+![][image11]
+
+## **RANGED WEAPON TYPES**
+
+#### **ASSAULT**
+
+* **ASSAULT X:** Assault weapons fire X-number of times in the shooting phase.  
+* Units with models that shoot with an assault weapon are still eligible to charge in the assault phase.  
+* Models in units that advance in the movement phase are able to shoot with an assault weapon in the shooting phase, but only shoot with **SNAP FIRE**.
+
+#### **BARRAGE**
+
+* Barrage weapons or “G” (Guess-range weapons in older codex books) typically also count as **BLAST** weapons (see below), and can either be shot with **DIRECT FIRE** (treated as a blast weapon) or fired using **INDIRECT FIRE**.   
+* **INDIRECT FIRE:** When fired using indirect fire, the shooting model does not need line of sight to its target and does not use the shooting model’s ballistic skill. Instead, center a **BLAST** marker on a specific model in range and within the target unit and roll to scatter (2D6” \+ scatter dice). If a HIT is rolled the blast marker hits the target \- otherwise it scatters 2D6” in the direction indicated.   
+* **DIRECT FIRE**: If firing with direct fire, the weapon is subject to the normal shooting rules and may disregard any minimum shooting ranges.  
+* Any model fully under the template is automatically hit, models partially under are hit on a 4+.  
+* **PINNING**: Units suffering unsaved wounds from **INDIRECT FIRE** barrage attacks must take a pinning test.  
+* **MULTIPLE BARRAGE BLASTS:** Determine the location of a single barrage hit as normal.  For subsequent shots, roll the scatter dice only (no 2D6s) and place the subsequent templates touching the edge of the first template in the direction indicated. On a HIT, templates may be placed anywhere touching or overlapping the first.  
+* **STRUCTURES & BUILDING LEVELS:**  For **INDIRECT FIRE**, the blast marker only hits models on the top most level at the position of the marker.  If the center of the marker scatters over lower levels, move the blast marker to the next level exposed below the blast marker.  
+* **APOCALYPTIC BARRAGE:** An Apocalyptic Barrage follows all of the rules for a Barrage weapon, but uses the clover-shaped apocalyptic barrage marker. Before the marker is placed, the attacker is allowed to rotate the marker about its center to maximize the number of models that could potentially be hit. Place the marker and roll for scatter in the same way you would for a Blast. If the marker scatters, be careful to maintain the same orientation as you move it. Once the final position of the marker has been determined, roll a number of dice equal to the number of attacks on the weapon’s profile. So, for example, with a weapon with the type ‘Heavy 4, Apocalyptic Barrage’, you would roll four dice. Each dice roll corresponds to a ‘strike’ on one of the circles on the apocalyptic barrage marker. For example, each roll of a 2 indicates a strike on circle number 2\. If the marker you are using has numbered areas use those, otherwise use the center circle as circle number 1-2 and designate circle number 3 as any other circle on the barrage template and sequentially number the remaining circles proceeding clockwise. Resolve the strikes as for a Multiple Barrage, as if each were a Barrage attack that had landed on that circle and hit all the models underneath it. To determine Wound allocation armor facing, and cover saves, always assume the shot is coming from the center of the entire apocalyptic barrage marker.
+
+#### **BLAST**
+
+* Blast weapons use the circular blast markers to determine the number of hits by the weapon.  All sizes listed are for the diameter of the circle.  
+  * **Blast:**  Uses a 3” Blast Marker  
+  * **Large Blast:**  Uses a 5” Blast Marker  
+  * **Massive Blast:** Uses a 7” Blast Marker  
+  * **Apocalyptic Blast:** Uses a 10” Blast Marker  
+  * **Apocalyptic Mega-Blast:** Apocalyptic Mega-blast weapons have three Strength values and three AP values. Correspondingly, the apocalyptic blast marker is divided into three zones, 5”, 7”, and 10”, one for each Strength and AP value.  The Strength and AP of any hits depends on the zone where the target model is located. The first Strength and AP value are used for the inner zone, the second Strength and AP value are used for the middle zone, and the third Strength and AP value are used for the outer zone. Always use the best Strength and AP if a model straddles two or more zones. If a unit has models in several zones, work out the hits inflicted for each zone separately. Note that there will be a different Wound pool for each zone.
+
+![][image12]
+
+* When resolving a blast weapon attack, place the blast marker centered on a **hittable** model in the target unit. Then, roll to hit as normal using the shooting model’s BS, and apply the results below:  
+  * **If the shot hits:** Models wholly under the marker are hit, and models partially under are hit on a 4+.  
+  * **If the shot misses:** Roll a scatter dice and move the marker 2D6” in the direction indicated.  If a hit is rolled on the scatter dice, it is still moved in the direction of the smaller arrow on the “hit” dice face. Models wholly under the marker are hit, and models partially under are hit on a 4+.  
+  * **Maximum Scatter:** The maximum distance a blast weapon can scatter is equal to half of the distance between the shooting model and the target location.  If the 2D6” result is higher than this distance, use the maximum scatter distance instead of the 2D6” result.  
+* **ALLOCATING HITS & WOUNDS:** Hits and wounds resulting from blast weapons do not need to be allocated to the exact models “hit” by the blast marker or even to hittable models only. Hits and wounds can be allocated to any models in the unit. If models from multiple units are hit, hits are resolved separately for each unit.  
+* **MULTIPLE BLASTS:** If the attacking unit shoots with multiple blast weapons, roll to hit and scatter for each weapon once at a time to determine the number of hits made on the unit.  Then roll to wound for all of those hits along with any other weapon hits.  
+* **VEHICLES & BLASTS**: Vehicles touched by any part of the blast marker are hit automatically.  The facing hit is still determined based on the position of the shooting model relative to the vehicle’s facing arcs.  
+* **STRUCTURES & BUILDING LEVELS:**  The blast marker must be positioned over models at a chosen level within the structure.  If the shot hits, only models under the blast marker on that level are hit.  If the shot scatters, only models on that level are hit, and if no models are hit then the shot is a complete miss (it doesn’t hit models on a higher or lower level).  
+* **SHOOTING INTO ENGAGEMENTS:** Position blast markers as normal, making note of the total number of models hit by the template, regardless of which side the models are on.  After determining the total number hit, roll as described in SHOOTING INTO MELEE COMBAT to determine how many models in each unit are hit.
+
+#### **HEAVY**
+
+* **HEAVY X:** Heavy weapons fire X-number of times in the shooting phase.  
+* Heavy weapons may fire normally so long as the firing model has not moved (even if other models in the unit have moved during the turn).  
+* If a model with a heavy weapon moves during its movement phase, it may only fire with **SNAP FIRE**.  
+* Units with models firing heavy weapons may not charge in the assault phase.
+
+#### **ORDNANCE**
+
+* Figurine models cannot fire ordnance weapons if they moved in the movement phase (not even with snap fire)  
+* Units with models that fired with ordnance weapons cannot charge in the assault phase.  
+* Vehicle models that fire with ordnance weapons cannot fire, or have fired, any other weapons that turn.  
+* Ordnance weapons roll 2D6 on the vehicle damage table, picking the highest result.
+
+#### **PISTOLS**
+
+* **PISTOL X:** Pistol weapons fire X-number of times in the shooting phase.  
+* All pistol weapons also count as an **ASSAULT** weapon (see above).  
+* All pistol weapons count as a close combat weapon in Assault fights.  However, the pistol weapon itself is not actually fired and its weapon profile is not used.  
+* If a model is equipped with two or more **PISTOL** weapons, it may fire two **PISTOL** weapons when shooting.
+
+#### **RAPID FIRE**
+
+* **RAPID FIRE X:** Rapid fire weapons may shoot X-number of times at their maximum range or X-number times two at half of their maximum range.  
+* Units with models firing rapid fire weapons may not charge in the assault phase.
+
+#### **SALVO**
+
+* Salvo weapons have two numbers next to the Salvo tag, expressed as “Salvo X/Y”.  
+* A model that **moved** may fire a Salvo weapon a number of times equal to the first number (X) at up to **half** of the weapon’s maximum range.  
+* A model that **did not move** may fire a Salvo weapon a number of times equal to the second number (Y) at the weapon’s maximum range.   
+* Units with models firing salvo fire weapons may not charge in the assault phase.
+
+#### **TEMPLATE**
+
+* Template weapons use the teardrop shaped flamer template.   
+* The target for a template weapon attack must be declared as normal.  So long as at least one model in the target unit is hit, the template may be positioned to touch models from other units as well.    
+* The narrow end of the template is placed in base to base contact with the shooting model and aligned straight out from the model in a chosen direction.  
+* Models fully under the template are hit automatically, and models partially under are hit on a 4+.   
+* **IGNORES COVER**: Template weapons ignore the cover effects and models hit may not utilize cover saves.  
+* **ALLOCATING HITS:** Hits and wounds resulting from template weapons do not need to be allocated to the exact model “hit” by the template marker \- they can be allocated to any hittable models as normal.  
+* **SNAP FIRE:** If the shooting model is subject to shooting with SNAP FIRE, then all models wholly or partially under the template are only hit on a 4+.  
+* **STRUCTURES & BUILDING LEVELS:**  The template marker can be positioned to fire on the same level as the shooting model or one level higher or lower.  In all cases, keep the template marker flat horizontally when determining what models are struck.  
+* **SHOOTING INTO ENGAGEMENTS**: Same process used as for blast weapons.
+
+	
