@@ -47,7 +47,6 @@ CHANGELOG.md     — Append-only record of all rule changes
 ## Key Files to Check Each Session
 
 - `CHANGELOG.md` — What has changed recently
-- `SESSION_STATE.md` — Open issues, in-progress work, next tasks (create this file once work begins)
 - The relevant `/CORE RULES/*.md` chapter if working on a specific section
 - The relevant `/CODEX/*/*.md` files if working on faction specific information
 
