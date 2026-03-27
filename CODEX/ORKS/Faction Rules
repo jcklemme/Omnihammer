@@ -1,0 +1,214 @@
+# CODEX: ORKS — FACTION RULES
+
+---
+
+## ORK SPECIAL RULES
+
+### Mob Rule
+
+Orks don't run because they're scared — they run because nobody's watchin'. Or sometimes they don't run at all. Sometimes they do something much, much worse.
+
+**MOB SIZE AS LEADERSHIP:** An Ork unit may use the number of models currently in the unit as its **LEADERSHIP** value for **MORALE** and **PINNING** tests, up to a maximum of 10. The unit may always choose to use its base Leadership from its **DATASHEET** profile instead, if it is higher.
+
+**DA MOB AIN'T DONE YET:** If an Ork unit fails a **MORALE** or **PINNING** test even after applying Mob Rule, the unit does not fall back or become pinned as normal. Instead, roll on the **MOB RULE TABLE** below to determine what happens. The result replaces the normal consequences of the failed test.
+
+**Da Mob Rule Table (D20)**
+
+| D20 | Name | Result |
+| :---: | :---- | :---- |
+| 1 | **Every Ork for 'Imself!** | The mob scatters. The unit immediately falls back 2D6" as normal. Additionally, the unit may not use Mob Rule for the remainder of the game — they've properly lost their nerve. |
+| 2 | **Trampled in da Rush** | The boyz panic and stampede over each other. The unit suffers D3 Strength 4 AP— hits, randomly allocated, with no cover saves allowed. The unit then counts as **PINNED**. |
+| 3 | **'Oo's da Boss?** | Two Orks start arguing over who's in charge. The unit may not shoot or charge this turn and next turn while the argument is resolved. At the end of the following turn, the unit regains normal function. If the unit contains a **CHARACTER**, ignore this result and treat as **Got Sumfin' ta Prove** instead. |
+| 4 | **Shiny Fings!** | The boyz get distracted by the nearest piece of terrain or wreckage. The unit immediately moves D6" toward the nearest terrain feature (not occupied by enemy models), stopping if this would bring them into base contact with enemy models. The unit counts as having moved and may not shoot this phase. |
+| 5 | **Blame da Grot** | The Orks turn on the weakest member of the mob. Remove one model of the controlling player's choice from the unit (this does not cause further morale tests). The unit then passes the morale test and may act normally. |
+| 6 | **Grotz to da Front!** | Survival instinct kicks in. The unit immediately goes to ground (**TAKE COVER!**) whether they want to or not. They gain +2 to cover saves instead of the usual +1. |
+| 7 | **Leg It… Dat Way!** | The boyz run, but in the wrong direction. The unit moves 2D6" directly toward the nearest enemy unit. If this brings them into base contact with enemy models, they count as having charged (but gain no charge bonuses). |
+| 8 | **Da Boss Sez Stay!** | Nothing happens. The boyz mill about in confusion but hold their ground. The unit may not advance, shoot, or charge this turn but does not fall back. |
+| 9 | **Mork's Disapproval** | A strange feeling washes over the mob. All Ork units (friend and foe) within 6" must immediately take a **PINNING** test. The original unit counts as passing its morale test after this effect resolves. |
+| 10 | **Squig Loose!** | Something gets loose from someone's pack. Place a marker in base contact with the unit. The marker moves 2D6" in a random direction at the start of each subsequent Ork turn. Any unit (friend or enemy) it contacts suffers D3 Strength 3 AP— hits. The squig is removed if any model directs an attack at it (no roll needed) or at the end of the game. The original unit passes its morale test. |
+| 11 | **'Ere We Go!** | The boyz channel their fear into forward momentum. The unit immediately passes its morale test and gains ***Fleet*** until the end of the turn. If the unit is eligible to charge, it must attempt to charge the nearest enemy unit. |
+| 12 | **Ded 'Ard** | Orkish stubbornness kicks in. The unit passes its morale test and gains ***Fearless*** until the end of the next player turn. |
+| 13 | **Get Stuck In!** | The unit passes its morale test and immediately gains +1 Attack until the end of the turn. This bonus is cumulative with charge bonuses. |
+| 14 | **Loot Da Bodies!** | The boyz start picking through the carnage. The unit passes its morale test. If there are any destroyed vehicle wrecks or dead Monstrous Creature models within 6", the unit may immediately move up to 6" toward the nearest one. Models in the unit gain +1 to their armor save (to a maximum of 3+) for the remainder of the game, representing looted scrap armor. |
+| 15 | **Got Sumfin' ta Prove** | The boyz rally hard. The unit passes its morale test and gains +1 WS and +1 BS until the end of the turn as they fight to impress the Boss. |
+| 16 | **WAAAGH! Spark** | The near-rout ignites something primal. The unit passes its morale test. The controlling player gains +2 **WAAAGH! ENERGY**. |
+| 17 | **Seein' Red** | The boyz go berserk. The unit passes its morale test and gains ***Rage*** and ***Furious Charge*** until the end of the next player turn. However, if there is an enemy unit within charge range, the unit must attempt to charge it. |
+| 18 | **Da Green Tide Rises** | Reinforcements arrive from nowhere. The unit passes its morale test and D3+1 Ork Boyz models (armed with slugga and choppa) are immediately added to the unit, placed in coherency. These models may act normally starting next turn. The unit may not exceed its starting strength from this effect. |
+| 19 | **Gork (or Mork) is Watchin'!** | Divine orkish favor. The unit passes its morale test. All models in the unit gain a **6+ invulnerable save** (or improve an existing invulnerable save by 1, to a maximum of 4+) and ***Feel No Pain (6+)*** until the end of the next player turn. The controlling player gains +1 **WAAAGH! ENERGY**. |
+| 20 | **WAAAGH!!!** | The failed morale test triggers a localized WAAAGH! The unit passes its morale test and gains ***Fearless***, ***Rage***, ***Furious Charge***, and +1 Attack until the end of the next player turn. Additionally, all friendly Ork units within 12" immediately pass any ongoing morale or pinning tests and gain +1 Attack until the end of the turn. The controlling player gains +3 **WAAAGH! ENERGY**. |
+
+---
+
+### Klan Kultur
+
+Each Ork Klan has a distinct kultur that shapes how its boyz fight, what they value, and what they're rubbish at. When assembling your army, you must choose one of the Klanz listed in the **KLANZ OF DA ORKS** section. Each **DETACHMENT** in your army may only include Orks from a single Klan. An Ork model with the **Klan Kultur** special rule gains the benefits and drawbacks conferred by the detachment's chosen Klan.
+
+---
+
+### WAAAGH! Energy
+
+The collective psychic fury and excitement of an Ork horde is a palpable force — a rising tide of aggression that feeds on violence and builds toward something unstoppable. In OmniHammer, this is represented by **WAAAGH! ENERGY**, an army-wide resource that the Ork player accumulates through acts of violence and spends to unleash powerful effects.
+
+#### Generating WAAAGH! Energy
+
+The Ork player tracks their current WAAAGH! Energy on a counter or die visible to both players. WAAAGH! Energy is generated as follows:
+
+| Trigger | Energy Gained |
+| :---- | :---: |
+| An Ork unit successfully completes a charge move against an enemy unit | +1 |
+| An enemy unit is destroyed (reduced to 0 models or removed from play) by Ork attacks | +D3 |
+| An enemy **HQ** unit is destroyed | +3 |
+| The enemy **WARLORD** is slain | +5 |
+
+**Rules for Generating Energy:**
+- WAAAGH! Energy is generated immediately when the triggering event occurs.
+- A single event can only trigger one source of energy generation. If an Ork unit charges and subsequently destroys an enemy unit in the same assault phase, both triggers apply — the charge generates +1, and the destruction generates +D3 (or +3/+5 if the destroyed unit was an HQ/Warlord).
+- The Ork player's WAAAGH! Energy has no maximum cap.
+- WAAAGH! Energy persists between turns and is never lost unless spent.
+- Some results on the **MOB RULE TABLE** also generate WAAAGH! Energy.
+
+#### Spending WAAAGH! Energy
+
+WAAAGH! Energy may be spent **during any phase of the game** to activate effects from the **WAAAGH! ENERGY MENU**. The Ork player declares they are spending WAAAGH! Energy, names the effect, pays the cost, and resolves it immediately. Unless otherwise stated, each effect targets a single friendly Ork unit within 12" of the **WARLORD** or within 6" of any Ork **CHARACTER** model.
+
+**The same effect may not be applied to the same unit more than once per turn.** Different effects may be stacked on the same unit.
+
+**WAAAGH! ENERGY MENU**
+
+| Cost | Name | Phase | Effect |
+| :---: | :---- | :---- | :---- |
+| 1 | **Get Movin' Ya Gitz!** | Movement | Target unit gains ***Fleet*** until the end of the phase. |
+| 1 | **'Old da Line!** | Any | Target unit automatically passes its next **MORALE** or **PINNING** test this turn. |
+| 1 | **Dakka Dakka Dakka!** | Shooting | Target unit may re-roll all To Hit rolls of 1 during this shooting phase. |
+| 2 | **Stomp 'Arder!** | Assault | Target unit gains +1 Attack until the end of the phase. |
+| 2 | **More Dakka!** | Shooting | All Rapid Fire and Assault type weapons in the target unit fire an additional shot this phase (e.g. Rapid Fire 1 becomes Rapid Fire 2 at half range). |
+| 2 | **Feel Nuffin'!** | Any | Target unit gains ***Feel No Pain (6+)*** until the end of the turn. If the unit already has ***Feel No Pain***, improve it by 1 (to a maximum of 4+). |
+| 2 | **Rev It Up!** | Movement | Target **VEHICLE** or **BIKE** unit adds +D6" to its maximum movement this phase. If the unit rolls a 6 on this die, the vehicle or bike suffers a glancing hit at the end of its movement (something fell off). |
+| 3 | **Mob Up!** | Movement | Target unit that is within 2" of another friendly Ork **INFANTRY** unit of the same type may merge with it, forming a single unit. The merged unit uses the higher Leadership value. The combined unit may not exceed 30 models. |
+| 3 | **WAAAGH! Strike** | Assault | Target unit gains +1 Strength until the end of the phase. |
+| 3 | **Krump 'Em Good!** | Assault | Target unit gains ***Furious Charge*** until the end of the phase. If the unit already has ***Furious Charge***, it gains an additional +1 Strength and +1 Initiative when charging (for a total of +2/+2 from ***Furious Charge***). |
+| 3 | **Gork's Fist** | Psychic | Target friendly Ork **PSYKER** may immediately attempt to manifest one additional psychic power this turn, even if it has already manifested its maximum number of powers. The Psyker must still pass the psychic test as normal. |
+| 3 | **More Boyz!** | Movement | D6 Ork Boyz models (armed with slugga and choppa) are added to the target **INFANTRY** unit, placed in coherency. These models may act normally starting next turn. The unit may not exceed its starting strength. |
+| 4 | **Da Boss is Watchin'!** | Any | Target unit gains ***Fearless*** until the end of the turn. |
+| 4 | **We'z Harder Dan You!** | Any | Target unit gains a **6+ invulnerable save** (or improves an existing invulnerable save by 1, to a maximum of 4+) until the end of the turn. |
+| 5 | **Ramming Speed!** | Movement | Target Ork **VEHICLE** making a Ram or Tank Shock adds +D6 to its front armor value for resolving the Ram and doubles the Strength of the impact. The vehicle must move at least its full combat speed movement to use this effect. |
+| 6 | **DA BIG WAAAGH!** | Start of Turn | All friendly Ork units on the table gain +1 Attack, +1 WS, and ***Furious Charge*** until the end of the turn. This effect does not require range to a CHARACTER. May only be used once per game. |
+
+---
+
+### Warboss Ambition
+
+Every Warboss worth his teef has a plan. It might not be a *good* plan — but every Ork in the warband knows what the Boss wants, and they fight harder when they're getting it done.
+
+When assembling your army, choose one **WARBOSS AMBITION** for your **WARLORD**. The Ambition defines a condition that, when met during the game, provides an ongoing bonus to the army. The bonus persists as long as the condition remains true. **Warboss Ambitions have no effect if the Warlord is slain** — the boyz lose faith in the plan without the Boss around to enforce it.
+
+| Ambition | Condition | Bonus |
+| :---- | :---- | :---- |
+| **Biggest an' Strongest** | Your **WARLORD** has more Wounds remaining than any single enemy **CHARACTER** on the table. | All friendly Ork units within 12" of the Warlord gain +1 Leadership. The Warlord gains +1 Attack. |
+| **Krump Da Boss** | Your **WARLORD** is locked in close combat with an enemy **CHARACTER** or has personally destroyed an enemy **CHARACTER** this game. | The Warlord gains +1 WS and +1 Strength. All friendly Ork units within 12" gain ***Fearless*** while the Warlord is in a challenge. |
+| **Get Da Shiny Bitz** | Your army controls more **OBJECTIVES** than the enemy. | All friendly Ork **TROOPS** units gain ***Move Through Cover*** and +1" to their movement. The controlling player generates +1 WAAAGH! Energy at the start of each of their turns. |
+| **Stomp 'Em Flat** | More enemy units have been destroyed than friendly Ork units this game. | All friendly Ork units gain +1 to their charge distance rolls. The controlling player generates +1 WAAAGH! Energy each time an enemy unit is destroyed (in addition to the normal generation). |
+| **Build Da Fort** | You control at least one **OBJECTIVE** in your own deployment zone AND at least one **OBJECTIVE** outside your deployment zone. | All friendly Ork units within 6" of an objective you control gain +1 to cover saves. All friendly Ork **VEHICLES** gain ***It Will Not Die (6+)***. |
+| **Paint It Red** | At least 3 friendly Ork units have successfully completed a charge move this turn or are currently locked in close combat. | All friendly Ork units gain +1 Initiative. Friendly Ork units that charged this turn gain ***Hammer of Wrath***. |
+| **Da Great Loot** | Your army has destroyed at least one enemy **VEHICLE** or **MONSTROUS CREATURE**. | Ork **INFANTRY** models in the army gain +1 to their armor save (to a maximum of 3+) for the remainder of the game. Additionally, one Ork unit per turn may re-roll failed armor saves of 1. |
+| **Biggest WAAAGH! Eva** | The Ork player has accumulated 10 or more WAAAGH! Energy at any point during the game (whether or not it has been spent). | The Ork player gains an additional +1 WAAAGH! Energy from all generation triggers for the rest of the game. All friendly Ork units gain +1 to their WS for the rest of the game. This Ambition's bonus, once triggered, persists even if energy drops below 10. |
+
+---
+
+## KLANZ OF DA ORKS
+
+When constructing your army list, you must choose one of the following Klanz. Each Klan confers a **Signature Rule** and a **Drawback** to all models with the **Klan Kultur** special rule. Models without **Klan Kultur** (such as Gretchin and certain mercenary units) are not affected by either the Signature Rule or the Drawback.
+
+---
+
+### Goffs — Da 'Ardest Boyz
+
+*"We'z da biggest and da strongest! If you ain't fightin', you ain't nuffin'!"*
+
+The Goffs are the most brutal and warlike of all the Ork Klanz. They hold close combat above all other pursuits and consider shooting to be vaguely unorky — unless it's at point blank range, right before a charge.
+
+**Signature Rule — Born Scrappers:** Goffs models gain +1 WS when locked in close combat with a unit that has a higher WS than them. Additionally, Goffs units that successfully charge gain +1 Attack on the turn they charge (this is cumulative with the normal charge bonus, for a total of +2 Attacks on the charge).
+
+**Drawback — Shootin' is for Grots:** Goffs models suffer -1 BS (to a minimum of 1). This does not apply to weapons fired as part of ***Overwatch*** or ***Stand & Shoot!*** reactions.
+
+---
+
+### Evil Sunz — Da Speed Freeks
+
+*"RED ONES GO FASTA!"*
+
+The Evil Sunz are obsessed with speed. They paint everything red in the unshakeable belief that it makes things go faster — and, terrifyingly, Ork belief being what it is, it might actually work.
+
+**Signature Rule — Red Ones Go Fasta:** Evil Sunz **INFANTRY** models add +1" to their standard movement. Evil Sunz **VEHICLE** and **BIKE** models add +2" to all movement modes. Additionally, Evil Sunz units may ***Turbo-Boost*** or move ***Flat Out*** and still fire Snap Shots in the shooting phase.
+
+**Drawback — Can't Sit Still:** Evil Sunz units that did not move in their movement phase (i.e., they remained stationary) suffer -1 to all To Hit rolls during the shooting phase and -1 WS until the start of their next turn. They're too agitated to fight properly when standing still.
+
+---
+
+### Bad Moons — Da Richest Gitz
+
+*"We got da biggest gunz, da flashiest bitz, and more teef dan you'll ever see!"*
+
+Bad Moons are the wealthiest of Ork Klanz, blessed with the fastest-growing teef and an unquenchable appetite for ostentatious firepower. They festoon their equipment with gold plating, checkered patterns, and impractically large ammunition feeds.
+
+**Signature Rule — Flashy Gitz:** All Ranged weapons carried by Bad Moons models increase their maximum range by 6". Additionally, all Rapid Fire weapons carried by Bad Moons models gain +1 shot at half range (e.g. Rapid Fire 1 becomes Rapid Fire 2 at half range, Rapid Fire 2 becomes Rapid Fire 3 at half range).
+
+**Drawback — 'Eavy Pockets:** Bad Moons models are weighed down by all their flash gear. They suffer -1" to their charge distance rolls and may not use the ***Fleet*** special rule, even if it is granted by another effect (such as WAAAGH! Energy or the Mob Rule table). Bad Moons units may still charge normally — they just can't run and charge.
+
+---
+
+### Deathskulls — Da Lucky Gitz
+
+*"Iz not stealin', it's redistributin'! Gork sez it's mine now."*
+
+Deathskulls are notorious thieves, looters, and scavengers who paint themselves and their gear blue for luck. They have an uncanny knack for finding exactly what they need among the wreckage of battle, and their superstitious rituals seem to pay off with disturbing regularity.
+
+**Signature Rule — Lucky Blue Gitz:** Deathskulls models gain a **6+ invulnerable save**. Additionally, once per turn, the Ork player may re-roll a single die roll made for or against a Deathskulls unit (this includes To Hit, To Wound, saving throws, morale tests, charge distances, etc.). Declare the re-roll before any other dice are rolled.
+
+**Drawback — Sticky Fingerz:** Deathskulls units that end their movement phase within 3" of a destroyed vehicle wreck, crashed flyer, or dead Monstrous Creature must take a Leadership test. If failed, the unit spends the turn looting and may not shoot or charge in that turn. They're too busy nicking bitz.
+
+---
+
+### Blood Axes — Da Sneaky Gitz
+
+*"Tactics iz not un-orky! It's just krumpin' smarter!"*
+
+Blood Axes are considered deeply suspect by other Orks for their willingness to engage in "un-orky" behavior such as retreating, using camouflage, and even negotiating. They are the closest thing Orks have to professional soldiers, which isn't saying much.
+
+**Signature Rule — Taktikal Jeenyus:** Blood Axes units gain ***Scouts*** and ***Move Through Cover***. Additionally, Blood Axes units that choose to voluntarily fall back (before rolling on the Mob Rule Table) may fall back 3D6" and automatically regroup at the end of their fall back move, regardless of being below half strength. They are considered to have executed a "taktikal wivdrawl" and may act normally in their next turn.
+
+**Drawback — Iz Dey Even Orkz?:** Other Orks are suspicious of Blood Axes. Blood Axes units may not benefit from WAAAGH! Energy effects that originate from a CHARACTER that does not have the **Klan Kultur (Blood Axes)** special rule. The army's WAAAGH! Energy generation from charges is reduced to +0 (charges no longer generate WAAAGH! Energy) — Blood Axes charges are too calculated to get the boyz excited.
+
+---
+
+### Snakebites — Da Old Ways
+
+*"We don't need no stinkin' machines! Da old ways is da best ways!"*
+
+Snakebites are traditionalists who reject much of Ork "technology" in favor of beast-riding, squig-herding, and good old-fashioned Orky toughness. They're looked down upon by other Klanz as primitive, but Snakebites don't care — they're tough as nails and their squigs are hungrier than your trukk.
+
+**Signature Rule — 'Ard as Nails:** Snakebites **INFANTRY** and **CAVALRY** models gain +1 Toughness. Additionally, Snakebites models gain ***Feel No Pain (6+)***. Models that already have ***Feel No Pain*** improve it by 1 (to a maximum of 4+).
+
+**Drawback — No Trust in Mekwork:** Snakebites **VEHICLE** models (except Walkers and Chariots) suffer -1 BS and may not fire ***Overwatch***. Snakebites may not take more **VEHICLE** units (excluding Walkers and Chariots) than they have **INFANTRY** or **CAVALRY** units in the same detachment.
+
+---
+
+### Freebooterz — Da Flashest Pirates
+
+*"We fight for whoever's got da most teef! And if dey ain't got enough teef, we take 'em anyway!"*
+
+Freebooterz are Ork mercenaries, pirates, and adventurers who owe allegiance to no Klan. Their warbands are a motley collection of outcasts, fortune-seekers, and Orks who simply enjoy the pirate aesthetic. They fight for pay, plunder, and the sheer thrill of it.
+
+**Signature Rule — Showoffz:** Whenever a Freebooterz unit destroys an enemy unit, all other friendly Freebooterz units that can draw line of sight to the destroyed unit gain +1 BS and +1 WS until the end of the current phase. This effect is cumulative if multiple enemy units are destroyed in the same phase (to a maximum of +3 BS/WS). The boyz get fired up watching their mates krump the enemy.
+
+**Drawback — Pay Day or No Way:** At the start of each of the Ork player's turns, if no enemy units were destroyed during the previous battle round, all Freebooterz units must take a **MORALE** test with a -2 Leadership modifier. If the battle isn't profitable, the boyz start thinking about leaving. This drawback does not apply on the first battle round.
+
+---
+
+## DESIGNER NOTES
+
+> **Scope & Intent:** These faction rules are the first draft of the Ork Codex framework. Unit datasheets, wargear lists, psychic powers, and point values are not included and will be developed separately. The goal of this document is to establish the core mechanical identity of the Ork army — the rules that make them feel like Orks.
+>
+> **Balance Considerations:** The WAAAGH! Energy economy, Mob Rule table, Warboss Ambitions, and Klan rules are all subject to playtesting and iteration. Specific values (costs, bonuses, thresholds) are initial proposals and should be adjusted based on table experience.
+>
+> **Kitbashing & Modeling Notes:** The Klan system with signature rules and drawbacks is designed to encourage distinct visual identities for each Klan on the tabletop. Players are strongly encouraged to model their army to reflect their chosen Klan's kultur — Goffs should be covered in black and white checks, Evil Sunz should be red and fast-looking, Bad Moons should drip with gold and big guns, etc.
