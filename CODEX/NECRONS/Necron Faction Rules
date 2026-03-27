@@ -1,0 +1,11 @@
+# **NECRONS SPECIAL RULES**
+
+### **Living Metal**
+
+A model with this special rule ignores the effects of **Crew Shaken**. At the end of each of your turns, roll a D6 for each of your Heavy and **Super-Heavy**/LoW **Vvehicles** with this special rule that has less than its starting number of Structure Points, but which has not been destroyed. On a roll of 6, that model regains a Structure Point lost earlier in the game 
+
+### **Reanimation Protocols**
+
+When a model with this special rule suffers an unsaved Wound, it can make a special Reanimation Protocols roll to avoid being wounded. This is not a saving throw, and so can be used against attacks that state ‘no saving throws of any kind are allowed’. Reanimation Protocols rolls may even be taken against hits with the Instant Death special rule, but may not be used against hits taken from weapons that state a model is ‘removed from play’, or from weapons that have both S10 and the ***Terrible Weapon*** special rule.  
+Roll a D6 each time a model suffers an unsaved Wound, subtracting 1 if the hit that inflicted the wound had the Instant Death special rule. On a 5+ discount the unsaved wound \- treat it as having been saved. Certain special rules and wargear items can modify this dice roll, and these are cumulative, but the required dice roll can never be improved to better than 4+.  
+If a unit has both ***Reanimation Protocols*** and ***Feel No Pain***, you can choose to use one special rule or the other to attempt to avoid the wound, but not both. Choose which of the two special rules you will be using each time a model suffers an unsaved wound, on a wound-by-wound basis before resolving that wound.
