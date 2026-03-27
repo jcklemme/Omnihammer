@@ -714,8 +714,8 @@ A weapon with the ***Warp Displacement*** special rule causes hit models to be b
 
 |  | WS | BS | S | T | W | I | A | Ld | Sv | Inv | Type |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---- |
-| Ork Boy | 3 | 2 | 3 | 4 | 1 | 2 | 1 | 6 | 6+ | — | Infantry |
-| Ork Nob | 4 | 2 | 4 | 4 | 2 | 3 | 3 | 7 | 6+ | — | Infantry (Character) |
+| Ork Boy | 3 | 2 | 3 | 4 | 1 | 2 | 1 | 5 | 6+ | — | Infantry |
+| Ork Nob | 4 | 2 | 4 | 4 | 2 | 3 | 3 | 6 | 6+ | — | Infantry (Character) |
 
 A Boyz unit consists of 5–30 Ork Boy models.
 
@@ -763,8 +763,8 @@ Stikkbombs
 
 |  | WS | BS | S | T | W | I | A | Ld | Sv | Inv | Type |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---- |
-| Gretchin | 2 | 3 | 2 | 2 | 1 | 3 | 1 | 5 | — | — | Infantry |
-| Runtherd | 3 | 2 | 3 | 4 | 1 | 2 | 2 | 7 | 6+ | — | Infantry (Character) |
+| Gretchin | 2 | 3 | 2 | 2 | 1 | 3 | 1 | 3 | — | — | Infantry |
+| Runtherd | 3 | 2 | 3 | 4 | 1 | 2 | 2 | 5 | 6+ | — | Infantry (Character) |
 
 A Gretchin unit consists of 10–40 Gretchin models.
 
