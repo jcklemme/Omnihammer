@@ -1,0 +1,86 @@
+# **ORGANIZING A BATTLE**
+
+![][image20]
+
+Organizing and playing a battle takes place in two stages.  The first stage is **ASSEMBLING AN ARMY**, where each player uses their faction’s codex book to gather forces up to the point limit chosen for the game. The second stage is **MISSION SETUP**, where players determine which mission will be played, prepare the battlefield, and deploy their forces.
+
+## **ASSEMBLING AN ARMY** {#assembling-an-army}
+
+During this stage, players will assemble an army based on the point limit of the game to be played. Typically, players complete this stage of the game on their own time before sitting down to play.  A faction’s army book or **CODEX** book, describes the rules for how to assemble an army, in addition to the rules below.
+
+### Game Point Limit
+
+The following **POINT LIMIT** ranges are commonly used, but players may also choose whatever point limit they wish.[^1]
+
+* Small Games		Patrol			Up to 500 points  
+* Medium Games		Incursion		Up to 1000 points  
+* Large Games		Strike Force		Up to 2000 points *(common tournament format)*  
+* Huge Games		Onslaught		Up to 3000+ points
+
+### Force Organization Chart
+
+In a standard game, each player’s army will be organized into a single **DETACHMENT**. 
+
+* **DETACHMENT:**  A detachment is a set of units taken from the same faction’s **CODEX**, and organized using a **FORCE ORGANIZATION CHART**.   
+* In a standard game, players may only take a single detachment, and thus all selected units must fit into a single Force Organizational Chart.    
+* Each type of unit in a faction’s codex is described by a **DATASHEET** (or unit entry).
+
+#### **STANDARD FORCE ORGANIZATION CHART**
+
+The standard force organization chart contains a number of **SLOTS** available for different types of units. Each type contains a minimum and maximum number of units of that type that may be taken in that slot:
+
+| CATEGORY OF UNIT | MIN | MAX |
+| :---- | :---: | :---: |
+| **HQ** | **1** | **2** |
+| **TROOPS** | **2** | **6** |
+| **ELITE** | **0** | **3** |
+| **FAST ATTACK** | **0** | **3** |
+| **HEAVY SUPPORT** | **0** | **3** |
+| **LORD OF WAR** | **0** | **1** |
+| **FORTIFICATIONS** | **0** | **2** |
+
+* **DEDICATED TRANSPORTS:** Some units may have the option to take a **DEDICATED TRANSPORT** as part of the unit;s datasheet.  Dedicated transports do not take up a slot in the Force Organization Chart.    
+  * Dedicated transports are treated as part of the unit they were purchased alongside for deployment purposes, but once deployed on the table they are then treated as their own unit..
+
+#### **NON-STANDARD FORCE ORGANIZATION CHARTS & FORMATIONS**
+
+* Some codexes may require (or allow) alternative force organizational charts for a given detachment, which may be used instead of the normal force organizational chart. Any special rules related to these detachments may also be used.
+
+#### **MULTIPLE DETACHMENTS**
+
+Players may use multiple detachments, as follows:
+
+* One detachment must be designated as the first and primary detachment.  
+* Each detachment may only take units from a single codex book \- unless a special rule stipulates otherwise.  
+* If a second detachment is taken, it may use a different codex book, thus allowing for that player’s army to represent forces that are allied together for the battle.  
+* **Rare Units**: Units with the **Rare Unit** special rule may only be taken in non-primary detachments where the HQ slots are completely filled. The Rare Units taken in a primary detachment do not have an HQ requirement.  Multiples of the same Unique Character may not be taken this way.
+
+A second detachment of the same codex may be taken, however all TROOP slots in the first detachment must first be filled.
+
+### Strategy Points
+
+* **STARTING STRATEGY POINTS**: Armies gain strategy points at the start of the game based on size the army:
+
+| ARMY SIZE | STRATEGY POINTS |
+| :---- | :---: |
+| Up to 500 points | 1 |
+| 501 to 1000 points | 2 |
+| 1001 to 1500 points | 3 |
+| 1501 to 2000 points | 4 |
+| 2001 to 2500 points | 5 |
+| 2501+ points | 6 |
+
+* **USING STRATEGY POINTS**: Strategy points can be spent during mission setup and/or during the game itself to provide re-rolls or modifiers to STRATEGY ROLLS as described below:
+
+
+| STRATEGY ROLLS | EFFECT |
+| :---- | :---- |
+| **MISSION PARAMETER MODIFICATION** | Immediately after rolling for a specific mission parameter, each player may modify the result by spending one more STRATEGY POINTS. Each point spent modifies the result by \+1 or \-1 (player’s choice). Players alternate raising (or lowering) the results at will. Mission Parameter Rolls may include: Mission Archetype, Approach, Scoring Conditions, Deployment Zone Layouts, Picking Deployment Zones, Determining First Player  |
+| **RESERVE RE-ROLL** | Immediately after performing a reserve roll, the active player may spend a command point to re-roll it. The result of the re-roll stands. |
+| **LAST TURN RE-ROLL** | When playing with a variable game length, after rolling to check for the end of the turn, either or both players may spend a strategy point to re-roll the end of turn, starting with the active player. |
+| **LEADERSHIP RE-ROLL** | When the active player makes a leadership test of any type (except for Psychic tests), they may spend a Strategy Point to re-roll the result.  |
+| **COMMAND ACTION** | The active player, on their turn, may spend a STRATEGY POINT to do one of the following command on a unit in the active player’s army: Remove the unit’s pinned status Remove all suppression tokens from the unit Remove the unit’s limited fire status (can shoot normally this turn) Change a vehicle suffering from Crew Stunned into Crew Shaken |
+
+* **LIMITS:** Use of Strategy Points is further limited in the following ways:   
+  * Once the game begins, players cannot spend more STRATEGY POINTS in a single turn than the current battle round.  
+  * Each player may only re-roll a given die roll that they are eligible to re-roll once per turn.
