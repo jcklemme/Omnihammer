@@ -1,0 +1,256 @@
+# **MOVEMENT PHASE** {#movement-phase}
+
+![][image8]
+
+During the movement phase, the active player follows the sequence below and has an opportunity to move any of their forces that are eligible to move.
+
+#### **STEP 1: ROLL FOR RESERVES**
+
+#### **STEP 2: MOVE UNITS**
+
+#### 
+
+## **STEP 1: RESERVES**
+
+In STEP 1, the active player rolls to determine which, if any, of their reserve units become available to enter play.  After rolling for all units, those units that can enter must be moved onto the battlefield.  Once all available reserves are placed on the board, proceed to STEP 2\.
+
+### Rolling For Reserves
+
+Reserves are units that are not deployed at the start of the game, but instead kept in reserve.  The mission’s rules and/or unit’s special rules will stipulate whether it may be left in reserve and how it enters play. Units that are in reserve may not be moved or otherwise activated until they are placed on the battlefield.
+
+* **STARTING IN THE SECOND BATTLE ROUNDS:** At the start of the active player’s movement phase, roll one D6 for each of the active player’s units in reserve.  If the score is equal to or greater than the value in the chart below, depending on the current battle round, the unit is eligible to enter play during the current movement phase.
+
+| Battle Round | Turn 1 | Turn 2 | Turn 3 | Turn 4 or later |
+| ----: | ----- | :---: | :---: | :---: |
+| Reserve Roll Needed | 1st Player: No Roll 2nd Player: 4+ | 1st Player: 4+ 2nd Player: 3+ | 1st Player:  3+ 2nd Player: Automatically enters play | Automatically enters play |
+
+* **DELAYING RESERVES**: When a unit is available to enter from reserve, a player may elect to delay the reserves and prevent it from entering the board. The delayed unit must roll again for reserves as normal next turn.
+
+#### **MOVING RESERVES ONTO THE BATTLEFIELD**
+
+* #### Each unit that is eligible to enter play from reserves must enter before moving any units that were already on the table in STEP 2 (below).
+
+* #### Unless a special rule for the unit describes otherwise, when reserves enter play they move onto the board from their controlling player’s table edge, as defined by the mission and deployment zone layout.  
+
+* #### Units moving onto the table from a table edge may move onto the board and act normally.  They may move, advance, shoot, and charge as allowed normally.
+
+#### **ONGOING RESERVES**
+
+* If a player’s unit leaves play by moving off the table using a special rule, it may be allowed to enter **ONGOING RESERVES**, depending on the unit’s abilities.    
+* Units that enter ongoing reserves return back to the pool of units able to enter from reserves on a subsequent turn.  In this case, the unit automatically passes its reserve role and must be brought back into the battlefield following its rules for entering play.
+
+### Outflank
+
+* When a unit with the ***Outflank*** special rule is eligible to enter play from reserves, the owning player rolls a D6:  
+  * **On a 1-2:** The outflanking unit may enter play anywhere along the table edge to the **LEFT** of their longest deployment zone edge.  
+  * **On a 3-4:** The outflanking unit may enter play anywhere along the table edge to the **RIGHT** of their longest deployment zone edge.  
+  * **On a 5-6**: The outflanking player may choose to enter play from anywhere along either table edge to the  LEFT or RIGHT from their longest deployment zone edge.  
+* Alternatively, an outflanking unit may choose to enter from any table edge within their normal deployment zone.
+
+![][image9]
+
+### Deepstrike
+
+Units that enter play from reserves by Deepstriking are placed directly on the board and do not have to move onto the table from a table edge.  The following process is used to determine how a deepstriking unit enters play.
+
+#### **(1) DETERMINE TARGET LOCATION**
+
+When a unit with deepstrike is available to enter play from reserves, place one model (the “**center model**”) from the deepstriking unit anywhere on the table that is more than 2” from any enemy models.
+
+#### **(2) ROLL FOR DEEPSTRIKE SCATTERING**
+
+Roll a 2D6 \+ scatter die.
+
+* If a hit is rolled, place remaining models in the unit per step (3) below.  
+* If a scatter direction is rolled, determine the **adjusted location** for the center model, which is 2D6" in the direction shown by the scatter die (don't move the center model yet\!).
+
+       **Adjusted location**
+
+* If the center model's adjusted location would be on top of a friendly model, move the center model in the indicated direction stopping 2” short from the friendly model.  
+* If the center model's adjusted location falls in impassable terrain, off the table, or on top of or within 2" of an enemy model, a **DEEPSTRIKE MISHAP** occurs.  
+* **DEEPSTRIKE MISHAP:** If a deepstrike mishap occurs, the opposing player instead places the center model within 12” of the target location in any direction of their choosing.  
+  * The chosen direction cannot result in the adjusted location being on impassable terrain, off the table, within 2" of an enemy model, OR within 2” of its original position. If no viable direction exists, the unit returns to the reserve pool to be redeployed next turn.  
+  * The unit suffering a deepstrike mishap must also pass a **PINNING TEST** (see [PINNING](#pinning)) or will become pinned for the remainder of the turn.
+
+#### **(3) PLACE REMAINING MODELS**
+
+* Once a valid adjusted location is determined, move the center model to that location.   
+* Place all other models in the deepstriking unit within 2" of the center model.   
+* Models may not be placed on impassable terrain or within 2" of enemy models.   
+* Any models which cannot be placed within 2" of the center model may be placed in base-to-base contact with another model and as close to the center model as possible. Should there be no space available to place a given model, that model is destroyed.
+
+#### **USING DEEPSTRIKING UNITS**
+
+Once a deepstriking unit is placed on the table, it is subject to the following restrictions for the remainder of turn:
+
+* Models entering play via deepstriking or **disembarking from deepstriking vehicles**, may not take a normal move after arriving (or disembarking). However, the unit may shoot, advance D6”, or assault.  
+* **CHARGING AFTER DEEPSTRIKING:** Units charging on the turn that they arrived via deepstriking do not gain any bonus attacks for charging AND do not gain any benefits from having assault grenades.    
+* **DEEPSTRIKING VEHICLES:** Vehicles count as having moved at cruising speed on the turn they arrive.
+
+## **STEP 2: MOVE UNITS**
+
+In STEP 2, the active player selects and moves a unit of their choice.  After completing the move, the active player selects a subsequent unit.  Repeat this process until all of the active player’s units have taken a move or remained stationary, then proceed to the SHOOTING phase.
+
+### Select A Unit To Move
+
+The active player selects one of their units which hasn’t yet moved this turn and chooses to perform a **NORMAL MOVE**, **ADVANCE MOVE**, or **REMAIN STATIONARY**.  Each unit may only be moved once, and must fully resolve its move before a subsequent unit may be moved.
+
+* **ENGAGED UNITS:** The active player’s units that are **ENGAGED** in melee combat remain locked in combat and may not move during the movement phase.  The active player’s engaged units may attempt to **WITHDRAW** from melee combat at the start of their own assault phase (see [ASSAULT PHASE \- WITHDRAWING UNITS](#declare-withdrawals)).  
+* **BROKEN MORALE:** Units that have broken morale do not move normally, as they instead continue to fall back (and will have already done so at the start of their turn).  Units that have regrouped are allowed to make a limited D3” move (see MORALE).  
+* **PINNED:** Units which are Pinned (see [PINNING](#pinning)) may only take a normal move of D3”.
+
+#### **VEHICLE MOVEMENT**
+
+* **Vehicles may not advance.** When vehicles take a normal move, they instead have the option to move at different speeds: **COMBAT, CRUISING,** or **FLAT-OUT**  
+* The distances moved for each speed is dependent on the type of vehicle (see [UNIT TYPES](#unit-types-summary)).
+
+### Normal Moves
+
+* **NORMAL MOVE DISTANCE:** A unit performing a normal move, moves up to a specified number of inches depending on the types of models in the unit that are moving. Standard infantry move 6”.   
+* Models may not move within 1” of enemy models during any part of their normal move.  
+* The [UNIT TYPE SUMMARY](#unit-types-summary) provides details on the movement characteristics of different model types.  
+* Friendly models block movement for Infantry, Bikes, Cavalry, Beasts, and Monstrous Creatures without the Jump of Jetpack type.
+
+### Advance Move
+
+* **ADVANCE MOVE DISTANCE**: When a unit advances, roll a D6 and add that many inches to its allowed movement distance.    
+  * The unit does not have to move the maximum distance rolling the dice.  However, the entire unit will still count as having advanced regardless of the distance moved (even if the unit moves 0”).  
+* Models may not move within 1” of enemy models during any part of their advance move.  
+* **Units that advance cannot shoot or charge afterwards**, unless a special rule (e.g. ***Fleet***) allows otherwise.  
+* Some units' special rules may indicate that a unit may advance D6” without first performing a normal move.  
+* Some units' special rules may indicate that a unit may advance and then still shoot or shoot and then advance in the shooting phase.  In such cases, units should declare their intent to advance the D6” in the shooting phase.  They take a normal move in the movement phase, shoot as normal, and may then move an additional D6” in the shooting phase.
+
+### Remain Stationary
+
+* A unit may elect to remain stationary instead of moving.  No models in the unit may be moved.   
+* Models in a unit that remain stationary may be rotated on the spot and do not count as having moved.  
+* Any unit that did not move after the movement phase ends are assumed to have remained stationary.
+
+### Out of Coherency
+
+* Units that begin their movement phase out of coherency must take a move to regain coherency.    
+* If a unit cannot regain coherency, models in the unit must move as close as it can to regaining coherency without moving within 1” of an enemy.   
+* If any models in a unit are out of coherency, the entire unit is said to be **OUT OF COHERENCY**.
+
+## **MOVING THROUGH TERRAIN**
+
+### Difficult Terrain
+
+* **ENTERING DIFFICULT TERRAIN:** A unit with no models within difficult terrain at the start of its turn that wants to move into difficult terrain must roll a 2D6 and pick the highest result. Each model in the unit may move up to the difficult terrain as normal.  The models may then enter and continue moving through difficult terrain so long as the total distance moved does not exceed the highest value rolled.  
+* **STARTING IN DIFFICULT TERRAIN**: Units with models that begin their turn within difficult terrain must roll a 2D6 and pick the highest result.  No models in the unit that are in difficult terrain, or that move into difficult terrain, may move further than the highest value rolled. Any models that are entirely outside of difficult terrain may move their normal amount.  
+* **ADVANCING THROUGH DIFFICULT TERRAIN**: Advancing units are affected by difficult terrain for the first,  normal portion of their move.  The additional D6” moved for advancing is NOT affected by difficult terrain.
+
+#### **VEHICLES IN DIFFICULT TERRAIN**
+
+* Vehicles are not slowed by difficult terrain and do not need to take difficult terrain tests.  However, vehicles moving through difficult terrain instead treat that terrain as dangerous terrain (see [DANGEROUS TERRAIN](#dangerous-terrain)).  
+* **SKIMMERS & HOVERING FLYERS:** Skimmers and flyers in hover mode ignore underlying terrain when moving.  If they end their move in difficult terrain or dense terrain where any part of the terrain feature that at least reaches the bottom of the model’s hull in height, it must take a dangerous terrain test.  
+* **ZOOMING FLYERS:** Flyers that are moving in zooming mode completely ignore underlying terrain, and are assumed to always be moving above it. They do not need to take dangerous terrain tests.
+
+### Dangerous Terrain {#dangerous-terrain}
+
+* **DANGEROUS TERRAIN TEST:** Models in a unit that pass through dangerous terrain, or that are required to take a dangerous terrain test, must roll one D6 for each model in dangerous terrain. For each “1” that is rolled,  a model in difficult terrain suffers a single wound.  Armor saves and invulnerable saves are allowed, and if passed, negate the wound.  
+* **VEHICLES & DANGEROUS TERRAIN TESTS:** Vehicles moving through dangerous terrain also make a dangerous terrain test.  If a “1” is rolled, the vehicle becomes **IMMOBILIZED**.
+
+
+### Obstacles
+
+* **OBSTACLES:** All models can move over obstacles and barricades that are 1” or less in height OR less than half of the model’s **HEIGHT**, without having to take a difficult terrain test.
+
+### Impassable Terrain
+
+* Terrain defined as **IMPASSIBLE** does not allow any model to move through, or onto the terrain.    
+* Models that have abilities allowing them to ignore terrain (i.e. flying models) may move over impassable terrain..
+
+### Moving Up & Down Structures
+
+* Terrain pieces defined as **STRUCTURES** contain multiple levels that models may move between. Models may move through floors, as it is assumed there are ladders or other means of climbing between the levels.  
+* **VERTICAL DISTANCES:** Within the footprint of the structure, units may move between levels by moving directly up or down, adding the vertical distance to the total move.  
+  * If a model does not have enough movement distance left in its current move to move between levels, it may not be moved to the desired level.  
+  * Moving between floors is impacted by difficult terrain, if the structure itself counts as difficult terrain.  
+* **TYPE OF UNITS**: Only the following types models may up and down structures:  
+  * **INFANTRY, JUMP INFANTRY, JETPACK INFANTRY, JETBIKES, MONSTROUS CREATURES, FLYING CREATURES** and **WALKERS (VEHICLES)**.  
+  * If an upper level platform is not large enough to accommodate the base of a walker or monstrous creature without the model falling off or with more than 50% of the base hanging over the platform, then the model treats that part of the terrain as impassable terrain.  
+* **STAIRS & RAMPS**: Some terrain features may include multiple levels but also include impassable walls that prevent units from moving between levels. Such terrain may include stairs or ramps that provide a means of access.  Measure distances following along stairs and ramps.    
+  * **VEHICLES & RAMPS:** If ramps are wide enough to accommodate a given vehicle, that vehicle may use the ramp or stairs to move between levels.
+
+### Flying Models
+
+* Models that count as a **FLYING MODEL** are able to move over underlying terrain and underlying models without being slowed.  Flying models do not count the vertical distances that would be needed to clear underlying terrain.  Measure distances along a flat horizontal plane.  
+* Flying models may not land on top of friendly models, on top of or within 1” of enemy models, or on impassable terrain.
+
+### Ignore Terrain Abilities
+
+* Models with abilities that allow them to ignore terrain for movement and/or other specified purposes may be moved through terrain without being affected by difficult or dangerous terrain, or other obstacles.  These models may still move between levels of structures as normal. These models may move through or over impassable terrain but may not end their move inside of impassable terrain.
+
+
+## **SPECIAL MOVEMENT RULES**
+
+### Vehicle Movement 
+
+Vehicles may move up to their maximum movement mode distance, as detailed in the [Vehicle Unit Types](#vehicle-unit-types) section.  Unless noted in their movement mode, they may pivot at the beginning of their movement before they have moved and once in the middle of their movement or once at the end of their movement, for a maximum of two pivots during a move.  The amount they may pivot is detailed in their movement mode description.  
+Vehicles must be able to physically fit through any gaps they wish to pass through or they will be subject to a Dangerous Terrain Test.  If the gap is at least ¾ of the width of the vehicle wide, the vehicle may attempt the Dangerous Terrain Test and move through it.  If it is less than ¾ of the width of the vehicle wide, the gap is impassable.  
+A vehicle with the Tank type may choose to move over friendly models, but they are considered to be **DRIVEN OVER** as detailed in the **TANK SHOCK** rules.  
+Fast Vehicle, Chariots, and Walkers may not move over friendly models, unless they are Superheavy Vehicles.  If they are Superheavy Vehicles, the friendly models are considered to be **DRIVEN OVER** if they are moved over by the vehicle.
+
+* **VEHICLES & DIFFICULT TERRAIN**: Vehicles are not slowed by difficult terrain and do not need to take difficult terrain tests.  Instead, vehicles moving through difficult terrain treat that terrain as dangerous terrain.  
+* **SKIMMERS & HOVERING FLYERS:** Skimmers and hovering flyers ignore underlying terrain when moving.  If they end their move in difficult terrain or dense terrain where any part of the terrain feature reaches the bottom of the model’s hull in height, it must take a dangerous terrain test.  
+* **ZOOMING FLYERS:** Flyers that are moving in zooming mode completely ignore underlying terrain, and are assumed to always be moving above it.
+
+
+### Transports
+
+Vehicles that are **TRANSPORTS** allow specific types of models (typically infantry) to **EMBARK** or **DISEMBARK** from the vehicle over the course of the game by moving within proximity of a vehicle’s **ACCESS POINTS**.
+
+* **ACCESS POINTS:** A vehicle’s profile identifies the location of a vehicle’s access points.   
+  * **OPEN-TOPPED:** Open-topped vehicles treat the entire **HULL** of the vehicle as an access point.  
+* **TRANSPORT CAPACITY:** Each transport has a listed transport capacity in its profile. A unit may not embark onto a transport if the vehicle’s transport capacity is below the current number of models in the unit.  
+* A unit may not embark and disembark (or disembark and then embark) from transports in the same turn.  
+* **EMBARKING**: A whole unit may enter a transport if each model in the embarking unit can be moved to finish its move within 2” of one of the vehicle’s access points.   
+  * If able to embark, remove the unit from the table and note that the unit is embarked in that specific transport.  
+  * Units may embark before or after the vehicle has moved.  
+  * Only one unit can be transported at a time (including any attached INDEPENDENT CHARACTERS).  
+* **DISEMBARKING**: Units embarked on the vehicle may disembark as follows:  
+  Before the vehicle moves:   
+  * Place all models within 2” of the access points.  
+  * The disembarked unit acts as normal for the remainder of the turn and make make a normal move, advance move, shoot, and assault as normal.  
+  * The disembarked unit counts as having moved for the turn.
+
+  After the vehicles moved 12” or less
+
+  * Place all models within 2” of the access points.  
+  * The unit may NOT **ADVANCE** in the movement phase  
+  * The unit may shoot as normal in the shooting phase.  
+  * The unit may declare a charge in the assault phase but does not gain any bonus attacks from charging.  
+* **ASSAULT VEHICLES**: Vehicles listed as **ASSAULT** vehicles allow passengers to disembark, charge, AND receive their charge bonus as normal, even if the vehicle moved before passengers disembarked.  
+  * **OPEN-TOPPED:** Open-topped vehicles always count as **ASSAULT** vehicles as well.  
+* **USING DEDICATED TRANSPORTS**: Many units have an option to take a DEDICATED TRANSPORT as an option for the unit.  Only the unit that the transport was purchased for may be deployed in the transport at the start of the game.  Once the game begins, any unit may use the transport.
+
+### Tank Shock & Ramming
+
+**TANK VEHICLES** may attempt to drive over unengaged, non-monstrous enemy units.  The following process is used:
+
+* The controlling player turns the tank to face the desired direction (i.e. pointing at the opposing unit) and declares they are attempting to tank shock the unengaged enemy units and declares an end point for the tank’s move within its maximum movement range.  
+* **DRIVE PATH:** The controlling player identifies the **DRIVE PATH** of the tank, which is a band as wide as the tank’s hull and travels the length of the declared move.   
+  * The tank cannot move through friendly models, melee engagements, other vehicles, or monstrous creatures. The tank will immediately stop its move 1” away from such models.  
+  * The tank will then be moved along its DRIVE PATH up to within 1” of the first enemy unit in it’s drive path.  That unit must take a **TANK SHOCK TEST** and can attempt to make a **DEATH OR GLORY** attack.  After resolving those, the tank continues on its drive path, stopping at the next enemy unit for it to resolve a tank shock test, and so on until it comes to the end of its drive path.  
+  * **SKIMMERS TANK SHOCKING:** Instead of using a drive path, skimmers instead make a Crush From Above attempt.  Indicate the final placement and orientation of the tank within it’s legal movement.   Only the units with models under the tank in this final position must make a Tank Shock Test.  
+* May declare a tank shock when entering from reserve.
+
+#### **TANK SHOCK TEST**
+
+* Any enemy units, except for vehicles and monstrous creatures, that are in the **DRIVE PATH** must take a **TANK SHOCK TEST**. This is a standard leadership test for the unit, applying leadership modifiers as normal.  
+  * **If the test passes**: The models that are in the pathway of the tank are immediately moved the minimum distance needed to be outside of the drive path of the tank, up to a maximum of 6”.  This move can break the unit’s coherency if necessary. Models which cannot be moved out of the drive path are **DRIVEN OVER**.  
+  * **If the test fails:** The units become **BROKEN** and immediately **FALLS BACK** (see MORALE).  The unit must use its fallback move to get clear of the tank’s drive path first, and may then be used to fall back as normal (ignoring the tank’s relative to position).  Any models which cannot be moved out of the way are **DRIVEN OVER**.  
+  * Units which are already broken or falling back automatically fail tank shock tests.  
+* **DRIVEN OVER**: Models which are driven over suffer an automatic Strength 8 hit with no armor save.  Invulnerable saves may be taken. If the model survives, it remains in its prior position, unless it would be below the tanks final position, in which case place it within 1” of the nearest edge of the tank,    
+* **DEATH OR GLORY**: One model in a unit that is in the drive path may be nominated to make a death or glory attack.  They make a single attack (ranged or melee) that hits automatically, and uses the strength and properties of one of their equipped weapons or grenads.  If the attack results in CREW STUNNED, ENGINES DAMAGED, IMMOBILIZED, WRECKED, OR EXPLODES, the tank will stop at that model, otherwise the model is instantly killed and removed from play. The tank will continue to advance along its drive path.
+
+#### **RAMMING**
+
+* When declaring a tank shock, the controlling player may declare they intend to ram enemy vehicles that are within it’s drive path (as above). When the tank’s movement brings it into contact with an enemy vehicle, each vehicle inflicts an automatic hit on the contacted facing of the opposing model.  The strength of this hit equals:  
+  * \+1 per point of armor above 10 on the vehicle’s own side (i.e. the front armor of the ramming tank or the facing armor hit for the opposing vehicle).  
+  * \+1 for each full 3” of movement the ramming tank moved so far to the target (applies to both vehicles)  
+  * \+1 if the vehicle is a tank (always \+1 for the ramming model, might be for the opposing vehicle).  
+  * \+2 if the vehicle is a Superheavy Vehicle  
+* After determining the strength, roll for armor penetration for both vehicles and apply the results.  
+* The ramming tank will immediately end its move unless it inflicted an EXPLODES result on the ramming target.
