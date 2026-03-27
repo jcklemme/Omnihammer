@@ -17,7 +17,7 @@ Boyz have the following rules:
 ***Klan Kultur***
 ***Mob Rule***
 
-***Mob Frenzy:*** While this unit contains 10 or more models, all models in the unit gain +1 Attack.
+***Mob Frenzy:*** While this unit contains 20 or more models, all models in the unit gain +1 Attack.
 
 ***'Ere We Go!:*** Boyz units may re-roll one die when rolling for difficult terrain tests during a charge move.
 
@@ -246,7 +246,7 @@ Each model may carry up to one pistol and one non-pistol ranged weapon. A model 
 >
 > **Slugga or Shoota?** Slugga+Choppa Boyz get an extra melee attack from dual-wielding a pistol and melee weapon, making them devastating on the charge. Shoota Boyz trade that melee punch for 3 shots per model at 18", giving the mob serious ranged output while still being able to charge afterward (Assault type). Mixed mobs are allowed — a common configuration is mostly Slugga Boyz with a few Shootas in the back rank for covering fire.
 >
-> **Mob size matters.** The ***Mob Frenzy*** rule rewards keeping the mob at 10+ models — that extra attack across 20+ Boyz is enormous. Combined with Mob Rule (using mob size as Leadership), bigger mobs are more reliable and more dangerous. But bigger mobs are harder to maneuver, more expensive in points, and a juicier target for blast weapons.
+> **Mob size matters.** The ***Mob Frenzy*** rule rewards keeping the mob at 20+ models — that extra attack across 20+ Boyz is enormous. Combined with Mob Rule (using mob size as Leadership), bigger mobs are more reliable and more dangerous. But bigger mobs are harder to maneuver, more expensive in points, and a juicier target for blast weapons.
 >
 > **The Nob question.** Adding a Nob gives the unit a Character for wound allocation purposes, access to Power Klaws and Kombi-Weapons, and a higher Leadership value. But the Nob upgrade costs points you could spend on more Boyz. In larger mobs the Nob is almost always worth it; in small 5-man Trukk mobs, the points might be better spent elsewhere.
 >
