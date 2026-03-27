@@ -1,0 +1,67 @@
+# **ORDER OF PLAY**
+
+![][image7]
+
+This section of the rules describes the order of play once the mission begins.
+
+## **BATTLE ROUND**
+
+* The game is played over a series of battle rounds.  In each battle round, each player will alternate taking a **PLAYER TURN**, in which that player becomes the **ACTIVE PLAYER** and will perform actions for their entire army.    
+* **ACTIVE PLAYER**: The player who is currently taking a turn.  
+* **OPPOSING PLAYER**: The player who is not currently the active player.
+
+## **PLAYER TURN**
+
+### Turn Sequence
+
+Each player's turn follows the sequence below:
+
+#### **START OF TURN**
+
+* Game effects or abilities that specify that they occur at the start of a player’s turn take place.  
+* Units with broken morale may be able to **REGROUP** (see [MORALE](#morale)) or will continue to Fall Back.  
+* If multiple effects take place at the start of the turn, the active player decides the order in which they take place. 
+
+#### **MOVEMENT PHASE**
+
+* **STEP 1: RESERVES:**  The active player makes reserve rolls for units that are in reserve and eligible to enter play. If the reserve roll passes, the unit may be brought onto the battlefield or deferred.  
+* **STEP 2: MOVE UNITS:** The active player moves all of their units that they wish to move.  Units may take a Normal Move, Advance Move, or remain stationary.
+
+#### **SHOOTING PHASE**
+
+* **STEP 1: DECLARE TARGETS & ENTER OVERWATCH:** The active player declares which targets their units will shoot at, and the opposing player declares targets for any of their units that are on overwatch. The active player may also forgo shooting with a unit to place it on overwatch instead, provided the unit did not move.  
+* **STEP 2: FIRST FIRE & OVERWATCH:** The active player’s units that did not move and opposing units on overwatch alternate making shooting attacks, starting with the active player. Targeted units may choose to react by Taking Cover\! (or jinking/evading) and may also be subject to suppression and pinning.  
+* **STEP 3: NORMAL & RETURN FIRE:** The active player’s units that moved can now shoot at their declared target. Opposing units hit by normal fire may react by either Taking Cover\! (or jinking/evading) or making Return Fire\!. Hit units may be subject to suppression and pinning.  
+* **STEP 4: CASUALTY TEST:** Units which suffered 25% or more casualties, based on the unit’s current strength (at the start of the turn) may have to take a CASUALTY TEST at the end of the turn.
+
+#### **ASSAULT PHASE**
+
+* **STEP 1: DECLARE CHARGES:** The active player declares desired charges and withdrawal moves their units.  
+* **STEP 2: ASSAULT MOVES & REACTIONS:** The active player resolves their charge moves and withdrawal moves.  Opposing units that are charged and unengaged may choose to react with a **Stand & Shoot\!** reaction.  
+* **STEP 3: RESOLVE MELEE ENGAGEMENTS:** The active player chooses a melee engagement to resolve, with units on both sides attack opposing units in initiative order with melee attacks. After resolving the melee engagement, the active player chooses a subsequent engagement to resolve, and so on.  
+* **STEP 4: CLOSE COMBAT RESULTS:** The active player chooses a melee engagement to determine the outcome.  Units on the losing side must take a BREAK TEST, and if failed will Fall Back.  The winning units may choose to pursue or consolidate (and may consolidate into other opposing units if close enough).
+
+#### **END OF TURN**
+
+* Units suffering casualties may have to take a casualty test.  
+* Other game effects or abilities that specify that they occur at the end of a player’s turn take place.  
+* If multiple effects take place at the end of the turn, the active player decides the order in which they take place. 
+
+### Sequencing
+
+* If several rules must be resolved at the same time, the active player decides the order in which the actions are resolved.
+
+### Ending The Game
+
+* A game typically lasts 5-7 battle rounds.  The mission’s special rules will describe how many battle rounds the game lasts. The mission may specify an exact number of battle rounds to play, or the end may be variable and randomly decided.
+
+#### **VARIABLE END GAME**
+
+* Missions use a variable end game unless otherwise noted in the mission description.  
+* At the start of the fifth and each subsequent battle round, choose a player to roll a D6 and consult the chart below:
+
+| START OF... | D6 RESULT... |
+| :---- | :---- |
+| Battle Round 5 | **4+** the game ends at the END of battle round 5\. |
+| Battle Round 6 | **3+** the game ends at the END of the battle round 6\. |
+| Battle Round 7 | **Auto** \- The game ends automatically at the END of battle round 7\. |
