@@ -1,0 +1,37 @@
+# **OPTIONAL RULES**
+
+![][image21]
+
+Optional Rules can be used to add flavor to the game experience, and are not recommended for use when learning to play OmniHammer.  You should familiarize yourself with the standard ruleset before incorporating these into your game.
+
+## **ALTERNATE PERILS OF THE WARP**
+
+When rolling on the Perils of the Warp table, a player can elect to instead use one of the tables available in their Codex.  The Perils of the Warp table(s) that the army uses must be selected at the start of the game, and all units from that faction in the player’s army must use the same Perils of the Warp table regardless of if they are in the same detachment.
+
+### Orks
+
+Orks Armies may use the following table:
+
+| D6 | Result |
+| :---: | :---- |
+| **1** | **'Ead-BANG\!:** The psychic energy causes the Ork's head to swell and explode in a spectacular display of green gore. **Effect:** The Psyker must take a Leadership test. If the test is passed, the Psyker suffers 1 Wound/glancing hit with no saves of any kind allowed. If the test is failed, the Psyker is removed as a casualty.  In addition, all units within 6 inches must take a Pinning test due to the shocking spectacle. |
+| **2** | **Weirdboy Waaagh\!:** The raw Waaagh\! energy overwhelms the Weirdboy, causing him to release a massive psychic burst. **Effect:** The psyker and all units within 2D6 inches take D6 Randomly Allocated Strength 4 AP \- hits with no cover saves allowed. After resolving the hits, the psyker gains a 1D6+ (minimum 2+) invulnerable save until the end of its next turn due to the lingering Waaagh\! energy. |
+| **3** | **Gork's Grin**: The face of Gork (or possibly Mork) appears in the Warp, laughing maniacally and driving the Weirdboy into a frenzy. **Effect**: The psyker gains the Rage and Fearless special rules for the remainder of the game. |
+| **4** | **Mork's Muddle**: The psyker's connection to the Warp causes a chaotic burst of energy, scrambling his mind and those around him. **Effect:** The psyker and all friendly Ork units within 2D6 inches must take a Leadership test. If failed, they immediately move D6” in a random direction (determined by scatter dice), stopping if this would place them on top of other units or in impassable terrain. Units may become locked in combat if they end up in base to base contact with enemy models.  The unit counts as having moved if it is affected by this effect. |
+| **5** | **Waaagh\! Whirlwind:** A vortex of Waaagh\! energy forms around the Weirdboy, sucking in anything not bolted down. **Effect:** The psyker and all non-vehicle units within 3D6” are moved D6” (roll individually for each unit) directly towards the psyker (ignoring terrain and obstacles). If any models would end up overlapping, they stop just short in base to base contact. Units may become locked in combat if they end up in base to base contact with enemy models. The psyker suffers D3 Strength 3 hits with no armor saves allowed. |
+| **6** | **Brain Burna:** The Warp energy sets the Weirdboy's brain on fire, causing him to run around wildly. **Effect:** The psyker becomes affected by Soul Blaze and immediately runs 2D6 inches in a random direction (determined by scatter dice), potentially causing him to leave the battlefield. If the psyker runs into an enemy unit, he counts as charging but strikes at Initiative 1\. |
+
+### Space Marines
+
+Space Marines Armies may use the following tables based on their chapter.
+
+**IRON HANDS**
+
+| D6 | Result |
+| :---: | :---- |
+| 1 | **Mechanical Malfunction:** The Iron Hands' bionics react violently to the Warp's intrusion, causing intense pain and temporary malfunctions. **Effect:** The psyker suffers 1 wound with no saves of any kind allowed. Additionally, until the end of it’s next turn, the psyker's Weapon Skill and Ballistic Skill are reduced by 1 as they struggle to control their malfunctioning bionics. |
+| 2 | **Machine Rage:** The Warp energy causes the psyker's bionics to become hyper-aggressive, turning their enhancements into uncontrollable weapons. **Effect:** The psyker immediately makes a single melee attack against the nearest unit, friend or foe, with the following profile: Strength 6, AP 2, Melee. If no unit is in range, the psyker instead suffers a wound with no saves allowed. |
+| 3 | **Iron Within, Warp Without:** The psyker's mechanical parts are temporarily taken over by the Warp, causing them to lash out in random directions. **Effect:** The psyker and all units within 6 inches take D3 hits at Strength 4, AP \- with the Haywire special rule. |
+| 4 | **System Overload:** The psyker's systems are overloaded with Warp energy, causing them to shut down temporarily. **Effect:** The psyker is Stunned and is immediately Pinned. All units within 3 inches must take a Leadership test or be Pinned.  |
+| 5 | **Data Corruption:** The psyker's data feeds are corrupted by the Warp, flooding their minds with nonsensical and dangerous information. **Effect:** The psyker must take a Leadership test. If failed, the psyker suffers a wound with no saves allowed and is unable to use psychic powers for the rest of the game. |
+| 6 | **The Flesh is Weak, but the Warp is Weaker:** The Iron Hands' hatred for the weakness of the flesh fuels their resistance, but the Warp seeks to exploit any vulnerability. **Effect:** The psyker suffers D3 wounds with no saves of any kind allowed. If the psyker survives, they gain the Feel No Pain (4+) special rule for the rest of the game as their resolve to resist the Warp is strengthened. |
