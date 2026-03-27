@@ -40,7 +40,6 @@ Claude does not commit to design conclusions without your sign-off.
 /CODES/           — Folders for faction rules and profiles
 CLAUDE.md        — This file
 CHANGELOG.md     — Append-only record of all rule changes
-SESSION_STATE.md
 ```
 
 ---
@@ -50,6 +49,7 @@ SESSION_STATE.md
 - `CHANGELOG.md` — What has changed recently
 - `SESSION_STATE.md` — Open issues, in-progress work, next tasks (create this file once work begins)
 - The relevant `/CORE RULES/*.md` chapter if working on a specific section
+- The relevant `/CODEX/*/*.md` files if working on faction specific information
 
 ---
 
