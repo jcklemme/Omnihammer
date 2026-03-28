@@ -178,7 +178,7 @@ Blood Axes are considered deeply suspect by other Orks for their willingness to 
 
 **Signature Rule — Taktikal Jeenyus:** Blood Axes units gain ***Scouts*** and ***Move Through Cover***. Additionally, Blood Axes models may fire Assault and Rapid Fire weapons at their full Ballistic Skill after making an advance move (instead of the normal restriction of snap fire for Assault weapons and no shooting for Rapid Fire weapons). Heavy weapons may not be fired after advancing, even by Blood Axes. **This is an exception to the normal advance move rules.**
 
-**Drawback — Too Clever by 'Alf:** Blood Axes are too rigid in their planning. During the **DECLARE CHARGES** step of the assault phase, the Blood Axes player must declare ALL charges for all Blood Axes units before any charge moves are resolved. No Blood Axes charge declarations may be made or modified after the first Blood Axes charge move begins. Additionally, the army's WAAAGH! Energy generation from charges is reduced to +0 (Blood Axes charges do not generate WAAAGH! Energy) — their charges are too calculated to get the boyz excited.
+**Drawback — Too Clever by 'Alf:** Blood Axes are too rigid in their planning. During the **DECLARE CHARGES** step of the assault phase, the Blood Axes player must declare ALL charges for all Blood Axes units before any charge moves are resolved. No Blood Axes charge declarations may be made or modified after the first Blood Axes charge move begins. 
 
 ---
 
