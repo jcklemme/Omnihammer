@@ -152,7 +152,7 @@ The Evil Sunz are obsessed with speed. They paint everything red in the unshakea
 
 Bad Moons are the wealthiest of Ork Klanz, blessed with the fastest-growing teef and an unquenchable appetite for ostentatious firepower. They festoon their equipment with gold plating, checkered patterns, and impractically large ammunition feeds.
 
-**Signature Rule — Flashy Gitz:** All ranged weapons carried by Bad Moons models increase their maximum range by 6". Additionally, all Rapid Fire weapons carried by Bad Moons models gain +1 shot at half range (e.g., a Rapid Fire 1 weapon fires 2 shots at half range instead of the normal 1).
+**Signature Rule — Flashy Gitz:** All ranged weapons carried by Bad Moons models increase their maximum range by 6". Additionally, all Rapid Fire weapons carried by Bad Moons models gain +1 shot at half range (e.g., a Rapid Fire 1 weapon fires 3 shots at half range instead of the normal 2).
 
 **Drawback — 'Eavy Pockets:** Bad Moons models are weighed down by all their flash gear. Their charge range is reduced to 5" (instead of the standard 6") and they may not use the ***Fleet*** special rule, even if it is granted by another effect (such as WAAAGH! Energy or the Mob Rule table).
 
