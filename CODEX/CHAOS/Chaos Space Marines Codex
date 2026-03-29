@@ -7,6 +7,7 @@ A Chaos army is constructed using one or more **DETACHMENTS**. When adding a **D
 * **The Lost and the Damned:** Massive hordes of mortal cultists, mutants, and traitor Astra Militarum. 
 * **Daemonic Incursion:** Pure manifestations of the warp. Unlike Daemons taken as reserves in other detachments, units in this detachment are not required to use the ***Daemonic Summoning*** rule and may deploy normally or use standard **RESERVES**. 
 * **Dark Mechanicum:** The corrupted tech-priests of the Eye of Terror. This detachment prioritizes heavy armor, **WALKERS**, and **DAEMON ENGINES**.
+* **Traitoris Lance (Chaos Knights):** A specialized super-heavy detachment representing a fallen Knight house or dreadblades. Its Force Organization Chart consists of: 1 Mandatory **HQ** (Must be a Knight Character), 1-4 Optional **Troops** (War Dogs only), and 0-2 Optional **Lord of War** (Standard Knights).
 
 ---
 
@@ -26,7 +27,7 @@ Units with access to **VETERAN SKILLS** may purchase upgrades from the following
 * ***Tank Hunters***
 
 ***Daemonic Summoning***: Units with this special rule cannot be deployed on the battlefield at the start of the game and must be placed in **RESERVE**. When a unit with this rule arrives from **RESERVE**, it must enter play using the **DEEP STRIKE** rules with the following modifications:
-* The **CENTER MODEL** of the **DEEP STRIKE** must be placed within 6" of a friendly model equipped with a **Personal Icon** that was on the battlefield at the start of the current turn. 
+* The **CENTER MODEL** of the **DEEP STRIKE** must be placed within 6" of a friendly model equipped with a **Personal Icon** that was on the battlefield at the start of the current turn. *(Note: All models that possess the **Daemon** Universal Special Rule inherently count as having a Personal Icon).*
 * The unit does not roll for **SCATTER**. 
 * **If there are no friendly models with a Personal Icon on the battlefield when the unit arrives from reserve, the unit is destroyed.**
 
@@ -146,6 +147,8 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 * **Personal Icon:** A model equipped with a Personal Icon serves as a beacon. Friendly units with ***Daemonic Summoning*** may Deep Strike within 6" of this model without scattering. 
 * **Collar of Khorne:** Grants the equipped model and their unit the ***Adamantium Will*** special rule. May only be taken by models with the **Mark of Khorne**.
 * **Icon of Wrath:** A unit equipped with this icon may re-roll failed **Charge Distance** rolls. May only be taken by a unit with the **Mark of Khorne**.
+* **Instrument of Chaos:** If a melee engagement results in a tie (both sides inflicted an equal number of unsaved wounds), a unit equipped with an Instrument of Chaos counts as having won the combat by 1. This only applies if at least one unsaved wound was inflicted during the phase. If the opposing unit also possesses a rule that allows it to win tied combats, the rules cancel out and the combat is resolved as a tie.
+* **Daemonic Icon:** When a unit equipped with a Daemonic Icon fails a **Daemonic Instability Test**, reduce the number of unsaved wounds suffered by 1. Furthermore, if the unit takes a Daemonic Instability Test and rolls a natural 2, return D3 slain models to the unit.
 
 ---
 
@@ -187,3 +190,27 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 * The Berzerker Champion may replace his Bolt Pistol and/or melee weapon with items from the Chaos Melee Weapons or Ranged Weapons lists.
 * The Berzerker Champion may take Melta Bombs for X pts.
 * The Berzerker Champion may take up to X points of Daemonic Gifts.
+
+### BLOODLETTERS
+
+| Model | WS | BS | S | T | W | I | A | Ld | Save | Inv | Type |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Bloodletter | 5 | 0 | 4 | 4 | 1 | 4 | 1 | 10 | - | 5++ | Infantry |
+| Bloodreaper | 5 | 0 | 4 | 4 | 1 | 4 | 2 | 10 | - | 5++ | Infantry (Character) |
+
+**Unit Composition:** * 8-20 Bloodletters
+
+**Force Organization Role:** * Troops (Daemonic Incursion Detachment)
+* Elites (All other Chaos Detachments)
+
+**Wargear:**
+* Hellblade (S User, AP 3, ***Melee***, ***Shred***)
+
+**Special Rules:**
+* ***Daemon of Khorne*** *(Grants Daemon, Furious Charge, Rage, Fleet, Adamantium Will)*
+* ***Daemonic Summoning*** *(Requires Deep Strike via Personal Icon in non-Daemon detachments. Note: All models with the Daemon USR count as having a Personal Icon.)*
+
+**Options:**
+* One Bloodletter may be upgraded to a Bloodreaper for X pts.
+* One Bloodletter may carry an Instrument of Chaos for X pts.
+* One Bloodletter may carry a Daemonic Icon for X pts.
