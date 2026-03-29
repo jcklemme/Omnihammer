@@ -87,10 +87,13 @@ A **Chaos Space Marines** detachment may be fielded as a **World Eaters** detach
 
 ## 6. CHAOS WARGEAR
 
+***Restricted (Mark):*** Some weapons in the Chaos armory are favored by a specific dark god. If a weapon has the ***Restricted*** special rule followed by a specific Mark (e.g., *Restricted (Khorne)*), it may only be equipped by a model that possesses that exact Mark of Chaos, or by a model in a detachment entirely dedicated to that god (such as World Eaters). 
+
 #### **Ranged Weapons**
 | Weapon | Range | Str | AP | Type |
 | :--- | :---: | :---: | :---: | :--- |
 | **Bolt Pistol** | 12" | 4 | 5 | Pistol |
+| **Hand Flamer** | Template | 3 | 6 | Pistol |
 | **Bolter** | 24" | 4 | 5 | Rapid Fire |
 | **Combi-Bolter** | 24" | 4 | 5 | Rapid Fire, ***Twin-Linked*** |
 | **Plasma Pistol** | 12" | 7 | 2 | Pistol, ***Gets Hot!*** |
@@ -106,23 +109,81 @@ A **Chaos Space Marines** detachment may be fielded as a **World Eaters** detach
 | **Power Spear** | +1/User* | 2 | ***Melee***, ***Power Weapon*** |
 | **Power Fist** | x2 | 2 | ***Melee***, ***Power Weapon***, ***Unwieldy***, ***Specialist Weapon*** |
 | **Lightning Claw** | User | 2 | ***Melee***, ***Power Weapon***, ***Shred***, ***Specialist Weapon*** |
-| **Khornate Eviscerator** | x2 | 2 | ***Melee***, ***Shred***, ***Two-Handed***, ***Unwieldy***, ***Armorbane*** |
+| **Khornate Eviscerator** | x2 | 2 | ***Melee***, ***Shred***, ***Two-Handed***, ***Unwieldy***, ***Armorbane***, ***Restricted (Khorne)*** |
+| **Meteor Hammer** | +2 | 3 | ***Melee***, ***Two-Handed***, ***Concussive***, ***Restricted (Khorne)*** |
+| **Twin Falax Blades** | User | 3 | ***Melee***, ***Shred***, ***Specialist Weapon***, ***Restricted (Khorne)*** |
 
-*\* The first value (+1) is used only when charging.*
+*\* The first value (+1) is used only when charging. The Meteor Hammer grants +1 Initiative on the turn the wielder charges. Twin Falax Blades grant +2 Attacks for wielding two melee weapons instead of the standard +1.*
+
+#### **Daemon Weapons**
+* **Mastery Test:** At the start of each **ASSAULT PHASE** in combat, roll a **D6**. Add the result to the model's **Attack** characteristic for the phase. 
+* **The Rebellion:** If the Mastery Test is a **1**, the wielder immediately suffers an **Unsaved Wound** (no saves allowed) and makes no attacks for the remainder of that phase.
+* **Two-Handed & Warp-Sensed:** All Daemon Weapons are ***Two-Handed*** and their attacks count as **Magic/Warp**.
+
+| Weapon | Str | AP | Special Rules |
+| :--- | :---: | :---: | :--- |
+| **Axe of Khorne** | User | 2 | ***Melee***, ***Power Weapon***, ***Daemon Weapon***, ***Beheading Strike***, ***Restricted (Khorne)*** |
+| **Berzerker Glaive** | +1 | 2 | ***Melee***, ***Power Weapon***, ***Daemon Weapon***, ***Driven by the Nails***, ***Restricted (Khorne)*** |
+
+* ***Beheading Strike:*** To Hit rolls of a natural **6** generate one additional attack. These bonus attacks can continue to generate further attacks if they roll a **6**.
+* ***Driven by the Nails:*** The wielder may never join a unit and loses the **Independent Character** rule. They gain ***Feel No Pain (4+)*** and ***Fleet***. The model must always Advance towards the nearest enemy unit in the Movement Phase and must declare a charge if an enemy is in range.
 
 ---
 
 ## 7. DAEMONIC GIFTS
 Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance on the following gifts. These may only be taken once per model.
 
-* **Daemonic Strength (10 pts):** Model gains +1 Strength.
-* **Daemonic Mutation (10 pts):** Model gains +1 Attack.
-* **Daemonic Speed (15 pts):** Model gains the ***Fleet*** and ***Initiative (D6)*** rules for charging.
-* **Daemonic Resilience (20 pts):** Model gains the ***Feel No Pain (5+)*** special rule.
-* **Daemonic Flight (20 pts):** Model's unit type changes to **JUMP INFANTRY**.
-* **Daemonic Stature (25 pts):** Model's unit type changes to **MONSTROUS CREATURE**.
+* **Daemonic Strength (X pts):** Model gains +1 Strength.
+* **Daemonic Mutation (X pts):** Model gains +1 Attack.
+* **Daemonic Speed (X pts):** Model gains the ***Fleet*** and ***Initiative (D6)*** rules for charging.
+* **Daemonic Resilience (X pts):** Model gains the ***Feel No Pain (5+)*** special rule.
+* **Daemonic Flight (X pts):** Model's unit type changes to **JUMP INFANTRY**.
+* **Daemonic Stature (X pts):** Model's unit type changes to **MONSTROUS CREATURE**.
 
 ---
 
 ## 8. MISCELLANEOUS GEAR
-**Personal Icon:** A model equipped with a Personal Icon serves as a beacon for entities in the warp. Friendly units with the ***Daemonic Summoning*** special rule may use this model's position to enter the battlefield from **RESERVE** without **SCATTERING**.
+* **Personal Icon:** A model equipped with a Personal Icon serves as a beacon. Friendly units with ***Daemonic Summoning*** may Deep Strike within 6" of this model without scattering. 
+* **Collar of Khorne:** Grants the equipped model and their unit the ***Adamantium Will*** special rule. May only be taken by models with the **Mark of Khorne**.
+* **Icon of Wrath:** A unit equipped with this icon may re-roll failed **Charge Distance** rolls. May only be taken by a unit with the **Mark of Khorne**.
+
+---
+
+## 9. UNIT PROFILES
+
+### KHORNE BERZERKERS
+
+| Model | WS | BS | S | T | W | I | A | Ld | Save | Inv | Type |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Khorne Berzerker | 4 | 4 | 4 | 4 | 1 | 4 | 1 | 8 | 3+ | - | Infantry |
+| Berzerker Champion | 5 | 4 | 4 | 4 | 1 | 4 | 2 | 9 | 3+ | - | Infantry (Character) |
+
+**Unit Composition:** * 1 Berzerker Champion
+* 4-19 Khorne Berzerkers
+
+**Force Organization Role:** * Elites (Chaos Space Marines Detachment)
+* Troops (World Eaters Detachment)
+
+**Wargear:**
+* Power Armor
+* Bolt Pistol
+* Chainsword or Chainaxe
+* Frag Grenades
+* Krak Grenades
+
+**Special Rules:**
+* ***Veterans of the Long War***
+* **Mark of Khorne** *(Grants +1 Attack and Furious Charge)*
+* ***Fearless***
+* ***Rage***
+
+**Options:**
+* Any model may replace its Bolt Pistol with a Chainsword or Chainaxe (Free).
+* Any model may replace its Bolt Pistol and melee weapon with a Bolter (Free).
+* For every 5 models in the unit, one Khorne Berzerker may replace their Bolt Pistol with a Plasma Pistol or Hand Flamer for X pts.
+* For every 5 models in the unit, one Khorne Berzerker may replace their melee weapon with a Khornate Eviscerator for X pts.
+* The unit may take a Collar of Khorne for X pts. 
+* One Khorne Berzerker may take a Personal Icon for X pts or an Icon of Wrath for X pts.
+* The Berzerker Champion may replace his Bolt Pistol and/or melee weapon with items from the Chaos Melee Weapons or Ranged Weapons lists.
+* The Berzerker Champion may take Melta Bombs for X pts.
+* The Berzerker Champion may take up to X points of Daemonic Gifts.
