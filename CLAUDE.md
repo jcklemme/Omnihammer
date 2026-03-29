@@ -12,7 +12,7 @@ built on the Warhammer 40,000 3rd–7th edition rule set. It is not affiliated w
 
 **Repository:** https://github.com/jcklemme/Omnihammer
 
-**Core rules source:** `OmniHammer_Core_Rules.docx` (in project files)
+**Core rules source:** Omnihammer/CORE RULES/*.md
 Always read the source document before making claims about specific rules.
 Do NOT assume OmniHammer rules match any official Games Workshop edition.
 
