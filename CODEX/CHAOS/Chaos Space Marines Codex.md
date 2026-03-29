@@ -31,9 +31,10 @@ Units with access to **VETERAN SKILLS** may purchase upgrades from the following
 * The unit does not roll for **SCATTER**. 
 * **If there are no friendly models with a Personal Icon on the battlefield when the unit arrives from reserve, the unit is destroyed.**
 
-***Daemonic Possession (Greater Daemons)***: Greater Daemons are kept in **RESERVE** and do not roll to arrive normally. Instead, at the start of any of your **MOVEMENT PHASES**, you may choose to automatically summon a Greater Daemon by sacrificing a friendly model with the **Champion of Chaos** special rule. 
-* Remove the chosen Champion from the battlefield as a casualty. **No saves of any kind are allowed, and this does not trigger a casualty test.**
-* Place the Greater Daemon model so its base is occupying the exact position the Champion was in. The Greater Daemon counts as having arrived from **RESERVE** this turn.
+***Daemonic Possession (Greater Daemons)***: Greater Daemons are kept in **RESERVE** and do not roll to arrive normally. Instead, you must designate a friendly model with the **Champion of Chaos** special rule as the vessel before deployment. At the start of your **MOVEMENT PHASE** from Turn 2 onwards, you must roll a D6 for the vessel. On a 4+, the Greater Daemon bursts forth. If the Greater Daemon has not arrived by Turn 4, it arrives automatically at the start of that turn's Movement Phase. 
+When the Greater Daemon arrives:
+* Remove the vessel from the battlefield as a casualty. **No saves of any kind are allowed, and this does not trigger a casualty test.**
+* Place the Greater Daemon model so its base is occupying the exact position the vessel was in. The Greater Daemon counts as having arrived from **RESERVE** this turn.
 
 ***Daemonic Possession (Vehicles)***: A **VEHICLE** with this special rule ignores the effects of **CREW SHAKEN** and **CREW STUNNED** damage results on a D6 roll of a 2+. However, the vehicle suffers a -1 modifier to its **BALLISTIC SKILL** characteristic (to a minimum of BS 1).
 
@@ -137,12 +138,23 @@ A **Chaos Space Marines** detachment may be fielded as a **World Eaters** detach
 ## 7. DAEMONIC GIFTS
 Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance on the following gifts. These may only be taken once per model.
 
-* **Daemonic Strength (X pts):** Model gains +1 Strength.
-* **Daemonic Mutation (X pts):** Model gains +1 Attack.
-* **Daemonic Speed (X pts):** Model gains the ***Fleet*** and ***Initiative (D6)*** rules for charging.
-* **Daemonic Resilience (X pts):** Model gains the ***Feel No Pain (5+)*** special rule.
-* **Daemonic Flight (X pts):** Model's unit type changes to **JUMP INFANTRY**.
-* **Daemonic Stature (X pts):** Model's unit type changes to **MONSTROUS CREATURE**.
+* **Daemonic Armour (X pts):** The model's Armor Save is improved to 2+.
+* **Daemonic Aura (X pts):** The model gains a 5+ **INVULNERABLE SAVE**. *(If the model already has an Invulnerable Save, it is improved by 1, to a maximum of 3+).*
+* **Daemon Chains (X pts):** If this model is designated as the vessel for the ***Daemonic Possession (Greater Daemons)*** special rule, you may re-roll the D6 result to determine if the Greater Daemon arrives this turn.
+* **Daemonic Essence (X pts):** The model gains +1 Wound.
+* **Daemonic Fire (X pts):** The model gains a breath weapon that can be fired in the Shooting Phase: *(Range: Template, Str 4, AP 5, Assault 1)*. 
+* **Daemonic Flight (X pts):** The model's unit type changes to **JUMP INFANTRY**. *(If the model is a Monstrous Creature, its unit type changes to **FLYING MONSTERS**).*
+* **Daemonic Mutation (X pts):** The model gains +1 Attack.
+* **Daemonic Resilience (X pts):** The model gains +1 Toughness.
+* **Daemonic Rune (X pts):** The model gains the ***Eternal Warrior*** special rule (immune to Massive Wounds).
+* **Daemonic Stature (X pts):** The model's unit type changes to **MONSTROUS CREATURE**. *(Only available to Chaos Lords, Sorcerer Lords, and Daemon Princes).*
+* **Daemon Spawn (X pts):** If this model kills an enemy Character in a melee engagement, you may immediately place a **Chaos Spawn** model in base contact with the slain enemy before removing the casualty. This Spawn is under your control for the rest of the game.
+* **Daemon Steed (X pts):** The model is mounted on a daemonic beast. The model's unit type changes to **CAVALRY** and it gains +1 Toughness and the ***Fear*** special rule. 
+* **Daemonic Speed (X pts):** The model adds +6" to its normal move distance.
+* **Daemonic Strength (X pts):** The model gains +1 Strength.
+* **Daemonic Talons (X pts):** The model is equipped with a melee weapon with the following profile: *(Str User, AP 2, **Melee**, **Double Weapon**, **Rending**, **Armorbane**).*
+* **Daemon Venom (X pts):** The model may not have any other melee weapons. Its close combat attacks gain the ***Poison (2+)*** special rule. 
+* **Daemonic Visage (X pts):** The model gains the ***Fear*** special rule.
 
 ---
 
