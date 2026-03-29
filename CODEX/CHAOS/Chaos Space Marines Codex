@@ -214,3 +214,30 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 * One Bloodletter may be upgraded to a Bloodreaper for X pts.
 * One Bloodletter may carry an Instrument of Chaos for X pts.
 * One Bloodletter may carry a Daemonic Icon for X pts.
+
+### FLESH HOUNDS
+
+| Model | WS | BS | S | T | W | I | A | Ld | Save | Inv | Type |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Flesh Hound | 5 | 0 | 4 | 4 | 2 | 4 | 2 | 10 | - | 5++ | Beasts |
+| Gore Hound | 5 | 0 | 4 | 4 | 3 | 4 | 3 | 10 | - | 5++ | Beasts (Character) |
+
+**Unit Composition:** * 5-20 Flesh Hounds
+
+**Force Organization Role:** * Fast Attack (All Chaos Detachments)
+
+**Wargear:**
+* Massive Claws and Teeth (S User, AP 5, ***Melee***, ***Shred***)
+* Innate Collar of Khorne
+
+**Special Rules:**
+* ***Daemon of Khorne*** *(Grants Daemon, Furious Charge, Rage, Fleet, Adamantium Will)*
+* ***Daemonic Summoning***
+* ***Acute Senses***
+* ***Scouts***
+* **Hounds of the Blood God:** Flesh Hounds possess an Innate Collar of Khorne. A unit entirely composed of models with this rule passes **Deny the Witch** tests on a roll of 3+ instead of the standard 6+.
+
+**Options:**
+* One Flesh Hound may be upgraded to a Gore Hound for X pts.
+    * **The Gore Hound's Roar:** The Gore Hound possesses a breath weapon with the following profile: *(Range: Template, Str 4, AP 5, Assault 1, **Soul Blaze**)*. Note: Because Template weapons automatically hit all models under the template, the Gore Hound may fire this weapon despite having a Ballistic Skill of 0.
+    * **Scent of Burning Flesh:** If an enemy unit is currently suffering the effects of the ***Soul Blaze*** special rule, this unit gains the ***Preferred Enemy*** special rule against them.
