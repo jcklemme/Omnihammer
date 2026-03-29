@@ -33,7 +33,7 @@ Units with access to **VETERAN SKILLS** may purchase upgrades from the following
 
 ***Daemonic Possession (Greater Daemons)***: Greater Daemons are kept in **RESERVE** and do not roll to arrive normally. Instead, at the start of any of your **MOVEMENT PHASES**, you may choose to automatically summon a Greater Daemon by sacrificing a friendly model with the **Champion of Chaos** special rule. 
 * Remove the chosen Champion from the battlefield as a casualty. **No saves of any kind are allowed, and this does not trigger a casualty test.**
-* Place the Greater Daemon model so its base is occupying the exact position the Champion was in. 
+* Place the Greater Daemon model so its base is occupying the exact position the Champion was in. The Greater Daemon counts as having arrived from **RESERVE** this turn.
 
 ***Daemonic Possession (Vehicles)***: A **VEHICLE** with this special rule ignores the effects of **CREW SHAKEN** and **CREW STUNNED** damage results on a D6 roll of a 2+. However, the vehicle suffers a -1 modifier to its **BALLISTIC SKILL** characteristic (to a minimum of BS 1).
 
@@ -98,6 +98,8 @@ A **Chaos Space Marines** detachment may be fielded as a **World Eaters** detach
 | **Bolter** | 24" | 4 | 5 | Rapid Fire |
 | **Combi-Bolter** | 24" | 4 | 5 | Rapid Fire, ***Twin-Linked*** |
 | **Plasma Pistol** | 12" | 7 | 2 | Pistol, ***Gets Hot!*** |
+| **Lash of Khorne** | 12" | 6 | 3 | Assault 2, ***Fleshbane***, ***Restricted (Khorne)*** |
+| **Bloodflail** | 8" | 8 | 2 | Assault 1, ***Concussive***, ***Restricted (Khorne)*** |
 
 #### **Melee Weapons**
 | Weapon | Str | AP | Special Rules |
@@ -113,6 +115,7 @@ A **Chaos Space Marines** detachment may be fielded as a **World Eaters** detach
 | **Khornate Eviscerator** | x2 | 2 | ***Melee***, ***Shred***, ***Two-Handed***, ***Unwieldy***, ***Armorbane***, ***Restricted (Khorne)*** |
 | **Meteor Hammer** | +2 | 3 | ***Melee***, ***Two-Handed***, ***Concussive***, ***Restricted (Khorne)*** |
 | **Twin Falax Blades** | User | 3 | ***Melee***, ***Shred***, ***Specialist Weapon***, ***Restricted (Khorne)*** |
+| **Great Axe of Khorne** | x2 | 2 | ***Melee***, ***Two-Handed***, ***Armorbane***, ***Terrible Weapon***, ***Unwieldy***, ***Restricted (Khorne)*** |
 
 *\* The first value (+1) is used only when charging. The Meteor Hammer grants +1 Initiative on the turn the wielder charges. Twin Falax Blades grant +2 Attacks for wielding two melee weapons instead of the standard +1.*
 
@@ -241,3 +244,30 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 * One Flesh Hound may be upgraded to a Gore Hound for X pts.
     * **The Gore Hound's Roar:** The Gore Hound possesses a breath weapon with the following profile: *(Range: Template, Str 4, AP 5, Assault 1, **Soul Blaze**)*. Note: Because Template weapons automatically hit all models under the template, the Gore Hound may fire this weapon despite having a Ballistic Skill of 0.
     * **Scent of Burning Flesh:** If an enemy unit is currently suffering the effects of the ***Soul Blaze*** special rule, this unit gains the ***Preferred Enemy*** special rule against them.
+
+### BLOODTHIRSTER
+
+| Model | WS | BS | S | T | W | I | A | Ld | Save | Inv | Type |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Bloodthirster | 10 | 10 | 8 | 6 | 5 | 9 | 5 | 10 | 3+ | 4++ | Flying Monsters (Character) |
+
+**Unit Composition:** * 1 Bloodthirster
+
+**Force Organization Role:** * HQ (Daemonic Incursion Detachment)
+* HQ (All other Chaos Detachments, subject to Daemonic Possession limits)
+
+**Wargear:**
+* Brass Armour of Khorne (Provides 3+ Armor Save, 4+ Invulnerable Save)
+* Axe of Khorne
+* Lash of Khorne
+
+**Special Rules:**
+* ***Daemon of Khorne*** *(Grants Daemon, Furious Charge, Rage, Fleet, Adamantium Will)*
+* ***Daemonic Possession (Greater Daemons)*** *(In non-Daemon Detachments)*
+* ***Resistant to Small Arms***
+* **The 8th Host (Unfettered Fury):** The Bloodthirster is armed with an Axe of Khorne and a Lash of Khorne (included in profile).
+
+**Options:**
+* **Host Upgrades (Choose One):**
+    * **The 6th Host (Insensate Rage) (X pts):** Replace the Axe of Khorne and Lash of Khorne with a **Great Axe of Khorne**. Additionally, friendly units with the ***Daemon of Khorne*** special rule within 12" gain +2" to their charge distances.
+    * **The 3rd Host (Wrath of Khorne) (X pts):** Replace the Lash of Khorne with a **Bloodflail**. The Bloodthirster gains the ***Preferred Enemy (Characters)*** special rule.
