@@ -1,41 +1,29 @@
 # CODEX: CHAOS
 
-This codex provides the rules for fielding the forces of the Traitor Legions, Renegade Astartes, Daemonic hosts, and the mortal servants of the Dark Gods in OmniHammer.
-
----
-
-## BUILDING A CHAOS ARMY
-
+## 1. DETACHMENT FACTIONS
 A Chaos army is constructed using one or more **DETACHMENTS**. When adding a **DETACHMENT** to your army, you must select its **DETACHMENT FACTION**. This dictates the core units available, how it interacts with the **FORCE ORGANIZATION CHART**, and the specific special rules it utilizes. 
 
-A single army may include multiple **DETACHMENTS** of different factions.
-
-### Detachment Factions
 * **Chaos Space Marines:** The elite Traitor Legions and renegade chapters. Units in this detachment utilize the ***Veterans of the Long War*** and **Marks of Chaos** special rules. 
-* **The Lost and the Damned:** Massive hordes of mortal cultists, mutants, and traitor Astra Militarum. This detachment focuses on vast numbers of cheap infantry, heavy artillery, and rogue psykers. 
+* **The Lost and the Damned:** Massive hordes of mortal cultists, mutants, and traitor Astra Militarum. 
 * **Daemonic Incursion:** Pure manifestations of the warp. Unlike Daemons taken as reserves in other detachments, units in this detachment are not required to use the ***Daemonic Summoning*** rule and may deploy normally or use standard **RESERVES**. 
 * **Dark Mechanicum:** The corrupted tech-priests of the Eye of Terror. This detachment prioritizes heavy armor, **WALKERS**, and **DAEMON ENGINES**.
 
 ---
 
-## CHAOS FACTION RULES
-
-### Chaos Space Marine Special Rules
+## 2. CHAOS FACTION RULES
 
 ***Veterans of the Long War***: Models with this special rule increase their Leadership characteristic by +1 (to a maximum of 10) and possess the ***Hatred (Space Marines)*** special rule. Furthermore, any **UNIT** entirely composed of models with this rule is eligible to purchase **VETERAN SKILLS**. 
 
 **Note on Hatred targets:** For the purposes of this rule, "Space Marines" includes any **UNIT** drawn from Codex: Space Marines, Codex: Blood Angels, Codex: Dark Angels, Codex: Space Wolves, or the Indomitus Crusade Codex.
 
 #### **VETERAN SKILLS**
-Units with access to **VETERAN SKILLS** may purchase upgrades from the following list of Universal Special Rules at the points cost indicated in their unit entry. If purchased, all models in the **UNIT** gain the rule. 
+Units with access to **VETERAN SKILLS** may purchase upgrades from the following list of Universal Special Rules at the points cost indicated in their unit entry. 
 * ***Counter-Attack***
 * ***Furious Charge***
 * ***Infiltrate***
 * ***Monster Hunter***
 * ***Relentless***
 * ***Tank Hunters***
-
-### Daemons Universal Rules
 
 ***Daemonic Summoning***: Units with this special rule cannot be deployed on the battlefield at the start of the game and must be placed in **RESERVE**. When a unit with this rule arrives from **RESERVE**, it must enter play using the **DEEP STRIKE** rules with the following modifications:
 * The **CENTER MODEL** of the **DEEP STRIKE** must be placed within 6" of a friendly model equipped with a **Personal Icon** that was on the battlefield at the start of the current turn. 
@@ -45,13 +33,12 @@ Units with access to **VETERAN SKILLS** may purchase upgrades from the following
 ***Daemonic Possession (Greater Daemons)***: Greater Daemons are kept in **RESERVE** and do not roll to arrive normally. Instead, at the start of any of your **MOVEMENT PHASES**, you may choose to automatically summon a Greater Daemon by sacrificing a friendly model with the **Champion of Chaos** special rule. 
 * Remove the chosen Champion from the battlefield as a casualty. **No saves of any kind are allowed, and this does not trigger a casualty test.**
 * Place the Greater Daemon model so its base is occupying the exact position the Champion was in. 
-* The Greater Daemon counts as having arrived from **RESERVE** this turn and may move, shoot, and charge normally. 
 
-### Vehicle Special Rules
+***Daemonic Possession (Vehicles)***: A **VEHICLE** with this special rule ignores the effects of **CREW SHAKEN** and **CREW STUNNED** damage results on a D6 roll of a 2+. However, the vehicle suffers a -1 modifier to its **BALLISTIC SKILL** characteristic (to a minimum of BS 1).
 
-***Daemonic Possession:*** A **VEHICLE** with this special rule ignores the effects of **CREW SHAKEN** and **CREW STUNNED** damage results on a D6 roll of a 2+. However, the vehicle suffers a -1 modifier to its **BALLISTIC SKILL** characteristic (to a minimum of BS 1).
+---
 
-### Marks of Chaos
+## 3. MARKS OF CHAOS
 
 A **UNIT** may only ever have one Mark of Chaos. If a **UNIT** purchases a Mark, all models in the **UNIT** must be upgraded.
 
@@ -69,14 +56,9 @@ A **UNIT** may only ever have one Mark of Chaos. If a **UNIT** purchases a Mark,
 * **Mark of Tzeentch:** The vehicle gains a 6+ **COVER SAVE** against shooting. If already receiving a **COVER SAVE**, improve the save by +1.
 * **Mark of Chaos Undivided:** The vehicle automatically passes Leadership tests required to **SPLIT FIRE**.
 
-#### **Mark Restrictions & Daemonic Summoning**
-* **Characters:** An **INDEPENDENT CHARACTER** with a God-specific Mark may only join a **UNIT** with the same Mark or no Mark. 
-* **Summoning:** A **Personal Icon** may only be used as a beacon for Daemons sharing the same Mark as the icon bearer. Undivided/Unmarked icons may summon any Daemon.
-* **Conjuration:** Psykers may only summon Daemons aligning with their own Mark. 
-
 ---
 
-## KHORNE DAEMONS SPECIAL RULES
+## 4. KHORNE DAEMONS SPECIAL RULES
 
 ***Daemon of Khorne:*** A model with this rule is a Daemonic entity of the Blood God. They possess the following Universal Special Rules:
 * ***Daemon***
@@ -90,7 +72,7 @@ In the **ASSAULT PHASE**, if a unit entirely composed of ***Daemon of Khorne*** 
 
 ---
 
-## SPECIFIC LEGION: WORLD EATERS
+## 5. SPECIFIC LEGION: WORLD EATERS
 
 A **Chaos Space Marines** detachment may be fielded as a **World Eaters** detachment. 
 
@@ -103,6 +85,44 @@ A **Chaos Space Marines** detachment may be fielded as a **World Eaters** detach
 
 ---
 
-## CHAOS WARGEAR
+## 6. CHAOS WARGEAR
 
+#### **Ranged Weapons**
+| Weapon | Range | Str | AP | Type |
+| :--- | :---: | :---: | :---: | :--- |
+| **Bolt Pistol** | 12" | 4 | 5 | Pistol |
+| **Bolter** | 24" | 4 | 5 | Rapid Fire |
+| **Combi-Bolter** | 24" | 4 | 5 | Rapid Fire, ***Twin-Linked*** |
+| **Plasma Pistol** | 12" | 7 | 2 | Pistol, ***Gets Hot!*** |
+
+#### **Melee Weapons**
+| Weapon | Str | AP | Special Rules |
+| :--- | :---: | :---: | :--- |
+| **Chainsword** | User | - | ***Melee***, ***Shred*** |
+| **Chainaxe** | User | 4 | ***Melee***, ***Shred*** |
+| **Power Sword** | User | 2 | ***Melee***, ***Power Weapon*** |
+| **Power Axe** | +1 | 2 | ***Melee***, ***Power Weapon***, ***Unwieldy*** |
+| **Power Maul** | +2 | 2 | ***Melee***, ***Power Weapon***, ***Concussive*** |
+| **Power Spear** | +1/User* | 2 | ***Melee***, ***Power Weapon*** |
+| **Power Fist** | x2 | 2 | ***Melee***, ***Power Weapon***, ***Unwieldy***, ***Specialist Weapon*** |
+| **Lightning Claw** | User | 2 | ***Melee***, ***Power Weapon***, ***Shred***, ***Specialist Weapon*** |
+| **Khornate Eviscerator** | x2 | 2 | ***Melee***, ***Shred***, ***Two-Handed***, ***Unwieldy***, ***Armorbane*** |
+
+*\* The first value (+1) is used only when charging.*
+
+---
+
+## 7. DAEMONIC GIFTS
+Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance on the following gifts. These may only be taken once per model.
+
+* **Daemonic Strength (10 pts):** Model gains +1 Strength.
+* **Daemonic Mutation (10 pts):** Model gains +1 Attack.
+* **Daemonic Speed (15 pts):** Model gains the ***Fleet*** and ***Initiative (D6)*** rules for charging.
+* **Daemonic Resilience (20 pts):** Model gains the ***Feel No Pain (5+)*** special rule.
+* **Daemonic Flight (20 pts):** Model's unit type changes to **JUMP INFANTRY**.
+* **Daemonic Stature (25 pts):** Model's unit type changes to **MONSTROUS CREATURE**.
+
+---
+
+## 8. MISCELLANEOUS GEAR
 **Personal Icon:** A model equipped with a Personal Icon serves as a beacon for entities in the warp. Friendly units with the ***Daemonic Summoning*** special rule may use this model's position to enter the battlefield from **RESERVE** without **SCATTERING**.
