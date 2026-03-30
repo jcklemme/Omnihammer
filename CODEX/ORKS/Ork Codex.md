@@ -50,8 +50,7 @@ The Ork player tracks their current WAAAGH! Energy on a counter or die visible t
 - The Ork player's WAAAGH! Energy has no maximum cap.
 - WAAAGH! Energy persists between player turns and battle rounds and is never lost unless spent.
 - Result 20 on the **MOB RULE TABLE** also generates WAAAGH! Energy.
-
-* Certain special rules may also generate WAAAGH! Energy as noted in the relevant rule,
+- Certain special rules may also generate WAAAGH! Energy as noted in the relevant rule.
 
 **Spending WAAAGH! Energy:**
 WAAAGH! Energy may be spent **during any phase of the game** to activate effects from the **WAAAGH! ENERGY MENU**. Each effect targets a single friendly Ork unit within 12" of the **WARLORD** or within 6" of any Ork **CHARACTER** model. **The same effect may not be applied to the same unit more than once per player turn.** **WAAAGH! ENERGY MENU**
