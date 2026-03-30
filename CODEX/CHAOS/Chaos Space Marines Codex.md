@@ -79,7 +79,7 @@ In the **ASSAULT PHASE**, if a unit entirely composed of ***Daemon of Khorne*** 
 A **Chaos Space Marines** detachment may be fielded as a **World Eaters** detachment. 
 
 * **The Eightfold Path:** Every unit eligible for a Mark of Chaos must purchase the **Mark of Khorne**. 
-* **No Sorcery:** The detachment may not include any **PSYKERS**. 
+* **No Sorcery:** The detachment may not include any models with the **_Psyker_** or **_Brotherhood of Psykers_** Special Rules. 
 * **Blood for the Blood God:** Khorne Berserkers are **TROOPS** choices. You must include at least two units of Khorne Berserkers. 
 * **Daemonic Allies:** All summoned Daemons must be ***Daemons of Khorne***. 
 * **Blood Frenzy:** Units in this detachment never take **PINNING TESTS** and automatically pass **CASUALTY TESTS**. 
