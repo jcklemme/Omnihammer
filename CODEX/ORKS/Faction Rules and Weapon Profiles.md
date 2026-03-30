@@ -266,8 +266,8 @@ All Kombi-Weapons consist of a **Shoota** (18", S4, AP6, Assault 3) combined wit
 | :---- | :---- | :---- |
 | **Kombi-Skorcha** | Template, S4, AP5 | Assault 1, Gets Hot |
 | **Kombi-Rokkit** | 24", S8, AP3 | Assault 1, Gets Hot, Backblast |
-| **Kombi-Kustom Mega-Blasta** | 18", S8, AP1 | Assault 1, Gets Hot |
-| **Kombi-Skorcha-Rokkit** | See special rules below | See special rules below |
+| **Kombi-Kustom Mega-Blasta** | 18", S8, AP1 | Heavy 1, Gets Hot |
+| **Kombi-Skorcha-Rokkit** | See special rules below | Heavy, See special rules below |
 
 **Kombi-Skorcha:** The Shoota's secondary flamer attachment may be fired every turn but risks overheating.
 
