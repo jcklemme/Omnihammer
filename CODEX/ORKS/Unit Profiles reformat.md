@@ -112,7 +112,7 @@ Options:
   \- Kombi-Kustom Mega-Blasta	X pts  
 * Any model may replace its Choppa and all other weapons with a Big Shoota	X pts  
 * The entire unit may take Stikkbombs	X pts/model  
-* Any model may take Mega Armour (Armour save becomes 2+, gains a 5+ invulnerable save, the ***Slow and Purposeful*** special rule, and ***Bulky***. The model's Choppa and all other carried weapons are replaced with a Twin-Linked Shoota and a Power Klaw)	X pts  
+* Any model may take Mega Armour (The model's Choppa and all other carried weapons are replaced with a Twin-Linked Shoota and a Power Klaw)	X pts  
   \- A model in Mega Armour may replace its Power Klaw with a Kill Saw	X pts  
   \- A model in Mega Armour may replace its Twin-Linked Shoota with one of the following: Skorcha, Kombi-Skorcha, Kombi-Rokkit, Kombi-Kustom Mega-Blasta, Kombi-Skorcha-Rokkit, or Kustom Mega-Blasta	X pts  
 * Any model without Mega Armour may take 'Eavy Armour (5+ Save)	X pts  
