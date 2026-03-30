@@ -244,7 +244,7 @@ Freebooterz are Ork mercenaries, pirates, and adventurers who owe allegiance to 
 | **Shoota** | 18" | 4 | 6 | Assault 3 |
 | **Kustom Shoota** | 24" | 4 | 6 | Assault 3 |
 | **Twin-Linked Shoota** | 18" | 4 | 6 | Assault 3, Twin-Linked |
-| **Dakkagun** | 18" | 4 | 6 | Assault 3, Twin-Linked |
+| **Dakkagun** | 18" | 4 | 6 | Assault 4, Twin-Linked |
 | **Looted 'Umie Bolter** | 24" | 4 | 5 | Rapid Fire 1 |
 | **Sawn-Off Shotgun** | Template | 3 | — | Assault D3 |
 
