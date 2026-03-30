@@ -85,7 +85,7 @@
 
 ### Big Mek
 
-*HQ - 33 Points*
+*HQ - X Points*
 
 |  | WS | BS | S | T | W | I | A | Ld | Sv | Inv | Type |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---- |
@@ -146,7 +146,7 @@ Big Mek's Tools
   - Bionik Arm (+1 Strength) — X pts
   - Bionik Leg (+1" movement) — X pts
   - Bionik Eye (+1 BS) — X pts
-- The Big Mek may take an Iron Gob — 1 pts
+- The Big Mek may take an Iron Gob — X pts
 - The Big Mek may take a Shield — X pts
 - The Big Mek may take a Bosspole — X pts
 - The Big Mek may take an Ammo Runt — X pts
