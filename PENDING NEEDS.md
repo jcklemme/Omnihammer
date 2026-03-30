@@ -1,0 +1,1 @@
+Daemon Spawn — "If this model kills an enemy Character in a melee engagement, place a Chaos Spawn model in base contact." No Chaos Spawn profile exists in the codex yet. This is a placeholder gap — the gift references a unit that hasn't been written. Flag for when Chaos Spawn is drafted.
