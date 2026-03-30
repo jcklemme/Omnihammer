@@ -85,7 +85,7 @@
 
 ### Big Mek
 
-*HQ - X Points*
+*HQ - 33 Points*
 
 |  | WS | BS | S | T | W | I | A | Ld | Sv | Inv | Type |
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---- |
@@ -116,48 +116,50 @@ Big Mek's Tools
 
 **Ranged Weapons:**
 - The Big Mek may replace his Slugga with one of the following:
-  - Kustom Mega-Slugga — X pts
-  - Six-Shoota — X pts
-  - Kustom Shoota — X pts
-  - Kombi-Skorcha — X pts
-  - Kombi-Rokkit — X pts
-  - Kombi-Kustom Mega-Blasta — X pts
-  - Kustom Mega-Blasta — X pts
+  - Kustom Mega-Slugga — 2 pts
+  - Six-Shoota — 1 pts
+  - Kustom Shoota — 2 pts
+  - Kombi-Skorcha — 5 pts
+  - Kombi-Rokkit — 5 pts
+  - Kombi-Kustom Mega-Blasta — 6 pts
+  - Kustom Mega-Blasta — 7 pts
+  - Shokka Pistol - 9 pts
 - The Big Mek may replace his Slugga and Choppa with a Shokk Attack Gun — X pts *(replaces both weapons; the Shokk Attack Gun requires both hands to operate)*
 
 **Melee Weapons:**
-- The Big Mek may replace his Choppa with one of the following:
-  - Big Choppa — X pts
-  - Power Klaw — X pts
-  - Kill Saw — X pts
+- The Big Mek may replace his Choppa and/or Slugga with one of the following:
+  - Power Klaw — 17 pts
+  - Kill Saw — 16 pts
+- The Big Mek may replace his Choppa and Slugga with one of the following: 
+  - Big Choppa — 5 pts
 
 **Armour:**
-- The Big Mek may take 'Eavy Armour (5+ Save) — X pts
-- The Big Mek may take Mega Armour (2+ Save, 5+ Invulnerable Save, ***Slow and Purposeful***) — X pts
+- The Big Mek may take 'Eavy Armour (5+ Save) — 1 pts
+- The Big Mek may take Mega Armour (2+ Save, 5+ Invulnerable Save, ***Slow and Purposeful***) — 19 pts
   - A Big Mek in Mega Armour replaces his Slugga with a Twin-Linked Shoota (free).
   - A Big Mek in Mega Armour may take a Tellyport Blasta — X pts
   - A Big Mek in Mega Armour may not take a Warbike, Rokkit Pack, or Shield.
 
 **Wargear:**
-- The Big Mek may take a Kustom Force Field — X pts
+- The Big Mek may take a Kustom Force Field — 2 pts
 - The Big Mek may take Electric Armour — X pts
-- The Big Mek may take a Cybork Body — X pts
+- The Big Mek may take a Cybork Body — 3 pts
 - The Big Mek may take any of the following Bionik Upgrades (each may only be taken once):
-  - Bionik Arm (+1 Strength) — X pts
-  - Bionik Leg (+1" movement) — X pts
-  - Bionik Eye (+1 BS) — X pts
-- The Big Mek may take an Iron Gob — X pts
-- The Big Mek may take a Shield — X pts
-- The Big Mek may take a Bosspole — X pts
-- The Big Mek may take an Ammo Runt — X pts
-- The Big Mek may take an Attack Squig — X pts
-- The Big Mek may take a Gitfinda — X pts
+  - Bionik Arm (+1 Strength) — 1 pts
+  - Bionik Leg (+1" movement) — 2 pts
+  - Bionik Eye (+1 BS) — 2 pts
+- The Big Mek may take an Iron Gob — 1 pts
+- The Big Mek may take a Shield — 1 pts
+- The Big Mek may take a Bosspole — 2 pts
+- The Big Mek may take an Ammo Runt — 3 pts
+- The Big Mek may take an Attack Squig — 2 pts
+- The Big Mek may take a Gitfinda — 2 pts
 - The Big Mek may take up to two Super Stikkbombs — X pts each
 
 **Mobility:**
-- The Big Mek may take a Warbike — X pts *(model's type becomes Bike; may not join Infantry units)*
-- The Big Mek may take a Rokkit Pack — X pts *(model gains Jump Infantry type modifier)*
-- The Big Mek may take a Tellyporta — X pts
+- The Big Mek may take a Warbike — 7 pts *(model's type becomes Bike, gains +1 Toughness; may not join Infantry units)*
+- The Big Mek may take a Rokkit Pack — 5 pts *(model gains Jump Infantry type modifier)*
+- The Big Mek may take a Tellyporta — 2 pts
 
 **Dedicated Transport:**
 - The Big Mek may select a Trukk, Battlewagon, or Mekboy Junka as a **DEDICATED TRANSPORT**.
