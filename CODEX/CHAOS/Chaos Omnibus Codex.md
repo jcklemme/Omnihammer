@@ -266,7 +266,7 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 
 | Model | WS | BS | S | T | W | I | A | Ld | Save | Inv | Type |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Bloodthirster | 10 | 5 | 8 | 6 | 5 | 9 | 5 | 10 | 3+ | 4++ | Flying Monsters (Character) |
+| Bloodthirster | 10 | 5 | 8 | 6 | 8 | 9 | 5 | 10 | 3+ | 4++ | Flying Monsters (Character) |
 
 **Unit Composition:** * 1 Bloodthirster
 
