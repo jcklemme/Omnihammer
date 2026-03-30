@@ -151,8 +151,8 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 * **Daemonic Rune (X pts):** The model gains the ***Eternal Warrior*** special rule (immune to Massive Wounds).
 * **Daemonic Stature (X pts):** The model's unit type changes to **MONSTROUS CREATURE**. The model loses the **INDEPENDENT CHARACTER** special rule — it may no longer join other units, and other units may no longer join it. _(Only available to Chaos Lords, Sorcerer Lords, and Daemon Princes)._
 * **Daemon Spawn (X pts):** If this model kills an enemy Character in a melee engagement, you may immediately place a **Chaos Spawn** model in base contact with the slain enemy before removing the casualty. This Spawn is under your control for the rest of the game.
-* **Daemon Steed (X pts):** The model is mounted on a daemonic beast. The model's unit type changes to **CAVALRY** and it gains +1 Toughness and the ***Fear*** special rule. 
-* **Daemonic Speed (X pts):** The model adds +6" to its normal move distance.
+* **Daemon Steed (X pts):** The model is mounted on a daemonic beast. The model's unit type changes to **CAVALRY**, replacing all previous movement rules for the model with those of the Cavalry type as described in the Core Rules Unit Types. The model gains +1 Toughness and the **_Fear_** special rule. 
+* **Daemonic Speed (X pts):** The model adds +6" to its **NORMAL MOVE** distance only. This bonus does not affect Advance Move distances, charge distances, fallback distances, or any other movement type.
 * **Daemonic Strength (X pts):** The model gains +1 Strength.
 * **Daemonic Talons (X pts):** The model is equipped with a melee weapon with the following profile: *(Str User, AP 2, **Melee**, **Double Weapon**, **Rending**, **Armorbane**).*
 * **Daemon Venom (X pts):** The model may not have any other melee weapons. Its close combat attacks gain the ***Poison (2+)*** special rule. 
