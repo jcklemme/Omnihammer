@@ -1,7 +1,5 @@
 # **UNIVERSAL SPECIAL RULES**
 
-![][image17]
-
 ### Movement/Deployment
 
 * **Acute Senses**: Unit can re-roll which random table edge it arrives on from reserves.  
