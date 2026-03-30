@@ -28,12 +28,12 @@ Units with access to **VETERAN SKILLS** may purchase upgrades from the following
 
 ***Daemonic Summoning***: Units with this special rule cannot be deployed on the battlefield at the start of the game and must be placed in **RESERVE**. When a unit with this rule arrives from **RESERVE**, it must enter play using the **DEEP STRIKE** rules with the following modifications:
 * The **CENTER MODEL** of the **DEEP STRIKE** must be placed within 6" of a friendly model equipped with a **Personal Icon** that was on the battlefield at the start of the current turn. *(Note: All models that possess the **Daemon** Universal Special Rule inherently count as having a Personal Icon).*
-* The unit does not roll for **SCATTER**. 
+* The unit does not roll for **SCATTER**. This replaces the normal **DEEP STRIKE** scatter procedure described in the Core Rules — no scatter dice or 2D6" are rolled. If the placement would otherwise cause a **DEEP STRIKE MISHAP** (e.g. the center model would land on impassable terrain, off the table, or within 2" of an enemy model), the unit is instead destroyed.. 
 * **If there are no friendly models with a Personal Icon on the battlefield when the unit arrives from reserve, the unit is destroyed.**
 
 ***Daemonic Possession (Greater Daemons)***: Greater Daemons are kept in **RESERVE** and do not roll to arrive normally. Instead, you must designate a friendly model with the **Champion of Chaos** special rule as the vessel before deployment. At the start of your **MOVEMENT PHASE** from Turn 2 onwards, you must roll a D6 for the vessel. On a 4+, the Greater Daemon bursts forth. If the Greater Daemon has not arrived by Turn 4, it arrives automatically at the start of that turn's Movement Phase. 
 When the Greater Daemon arrives:
-* Remove the vessel from the battlefield as a casualty. **No saves of any kind are allowed, and this does not trigger a casualty test.**
+* Remove the vessel from the battlefield as a casualty. No saves of any kind are allowed. This removal does not count as a casualty for the purposes of Casualty Tests — the vessel's unit does not need to check for having lost 25% or more of its strength as a result of this removal.
 * Place the Greater Daemon model so its base is occupying the exact position the vessel was in. The Greater Daemon counts as having arrived from **RESERVE** this turn.
 
 ***Daemonic Possession (Vehicles)***: A **VEHICLE** with this special rule ignores the effects of **CREW SHAKEN** and **CREW STUNNED** damage results on a D6 roll of a 2+. However, the vehicle suffers a -1 modifier to its **BALLISTIC SKILL** characteristic (to a minimum of BS 1).
@@ -83,7 +83,7 @@ A **Chaos Space Marines** detachment may be fielded as a **World Eaters** detach
 * **Blood for the Blood God:** Khorne Berserkers are **TROOPS** choices. You must include at least two units of Khorne Berserkers. 
 * **Daemonic Allies:** All summoned Daemons must be ***Daemons of Khorne***. 
 * **Blood Frenzy:** Units in this detachment never take **PINNING TESTS** and automatically pass **CASUALTY TESTS**. 
-* **The Nails:** At the start of the **MOVEMENT PHASE**, if an enemy unit is in line of sight, the unit must move towards the closest enemy. In the **ASSAULT PHASE**, if an enemy is in range, the unit must declare a **CHARGE**.
+* **The Nails:** At the start of the **MOVEMENT PHASE**, if an enemy unit is in line of sight, the unit must make a **NORMAL MOVE** towards the closest visible enemy unit. This compelled move is always a Normal Move, never an Advance Move, and does not prevent the unit from charging in the Assault Phase. In the **ASSAULT PHASE**, if an enemy unit is within charge distance, the unit must declare a **CHARGE** against the closest eligible target.
 
 ---
 
@@ -114,11 +114,13 @@ A **Chaos Space Marines** detachment may be fielded as a **World Eaters** detach
 | **Power Fist** | x2 | 2 | ***Melee***, ***Power Weapon***, ***Unwieldy***, ***Specialist Weapon*** |
 | **Lightning Claw** | User | 2 | ***Melee***, ***Power Weapon***, ***Shred***, ***Specialist Weapon*** |
 | **Khornate Eviscerator** | x2 | 2 | ***Melee***, ***Shred***, ***Two-Handed***, ***Unwieldy***, ***Armorbane***, ***Restricted (Khorne)*** |
-| **Meteor Hammer** | +2 | 3 | ***Melee***, ***Two-Handed***, ***Concussive***, ***Restricted (Khorne)*** |
-| **Twin Falax Blades** | User | 3 | ***Melee***, ***Shred***, ***Specialist Weapon***, ***Restricted (Khorne)*** |
+| **Meteor Hammer**** | +2 | 3 | ***Melee***, ***Two-Handed***, ***Concussive***, ***Restricted (Khorne)*** |
+| **Twin Falax Blades***** | User | 3 | ***Melee***, ***Shred***, ***Specialist Weapon***, ***Restricted (Khorne)*** |
 | **Great Axe of Khorne** | x2 | 2 | ***Melee***, ***Two-Handed***, ***Armorbane***, ***Terrible Weapon***, ***Unwieldy***, ***Restricted (Khorne)*** |
 
-*\* The first value (+1) is used only when charging. The Meteor Hammer grants +1 Initiative on the turn the wielder charges. Twin Falax Blades grant +2 Attacks for wielding two melee weapons instead of the standard +1.*
+* Power Spear: The +1 Strength value applies only on the turn the model charges; in subsequent rounds of combat, use the User Strength value.
+** Meteor Hammer: The wielder gains +1 Initiative on the turn they charge.
+*** Twin Falax Blades: These grant +2 Attacks for wielding two melee weapons (instead of the standard +1 Attack bonus).
 
 #### **Daemon Weapons**
 * **Mastery Test:** At the start of each **ASSAULT PHASE** in combat, roll a **D6**. Add the result to the model's **Attack** characteristic for the phase. 
@@ -147,7 +149,7 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 * **Daemonic Mutation (X pts):** The model gains +1 Attack.
 * **Daemonic Resilience (X pts):** The model gains +1 Toughness.
 * **Daemonic Rune (X pts):** The model gains the ***Eternal Warrior*** special rule (immune to Massive Wounds).
-* **Daemonic Stature (X pts):** The model's unit type changes to **MONSTROUS CREATURE**. *(Only available to Chaos Lords, Sorcerer Lords, and Daemon Princes).*
+* **Daemonic Stature (X pts):** The model's unit type changes to **MONSTROUS CREATURE**. The model loses the **INDEPENDENT CHARACTER** special rule — it may no longer join other units, and other units may no longer join it. _(Only available to Chaos Lords, Sorcerer Lords, and Daemon Princes)._
 * **Daemon Spawn (X pts):** If this model kills an enemy Character in a melee engagement, you may immediately place a **Chaos Spawn** model in base contact with the slain enemy before removing the casualty. This Spawn is under your control for the rest of the game.
 * **Daemon Steed (X pts):** The model is mounted on a daemonic beast. The model's unit type changes to **CAVALRY** and it gains +1 Toughness and the ***Fear*** special rule. 
 * **Daemonic Speed (X pts):** The model adds +6" to its normal move distance.
@@ -261,7 +263,7 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 
 | Model | WS | BS | S | T | W | I | A | Ld | Save | Inv | Type |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Bloodthirster | 10 | 10 | 8 | 6 | 5 | 9 | 5 | 10 | 3+ | 4++ | Flying Monsters (Character) |
+| Bloodthirster | 10 | 5 | 8 | 6 | 5 | 9 | 5 | 10 | 3+ | 4++ | Flying Monsters (Character) |
 
 **Unit Composition:** * 1 Bloodthirster
 
