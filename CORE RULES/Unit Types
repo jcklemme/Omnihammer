@@ -126,7 +126,8 @@ Models with the **INDEPENDENT CHARACTER** type are special in that they are allo
   * May **JOIN** a unit by moving within coherency of the unit and declaring they wish to join the unit after completing their move.  The joined unit may not move after being joined by the independent character.  
   * May **LEAVE** a joined unit by declaring they wish to leave before moving the unit or character.  
   * A character may not join and leave (or leave and join) a unit in the same turn.  
-  * An independent character cannot leave a unit that is **engaged in melee**, **BROKEN**, or **PINNED.**  
+  * An independent character cannot leave a unit that is **engaged in melee**, **BROKEN**, or **PINNED.**
+  * **Independent Characters and Unit Type Differences**: An Independent Character whose unit type differs from the unit they have joined (for example, a Cavalry character joining an Infantry unit) moves at their own unit type's speed. The unit must maintain coherency at the end of the move as normal. See **MOVEMENT PHAS**E for rules on mixed-type units.
 * **DURING SHOOTING**: Independent characters joined to a unit may always declare and resolve shooting against a different target than the joined unit, whether or not the joined unit SPLITS FIRE.  
 * **DURING ASSAULT PHASE**:  
   * If joined to a unit, independent characters must charge with that unit and get into base-to-base contact with an enemy model if possible.  
