@@ -145,7 +145,7 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 * **Daemon Chains (X pts):** If this model is designated as the vessel for the ***Daemonic Possession (Greater Daemons)*** special rule, you may re-roll the D6 result to determine if the Greater Daemon arrives this turn.
 * **Daemonic Essence (X pts):** The model gains +1 Wound.
 * **Daemonic Fire (X pts):** The model gains a breath weapon that can be fired in the Shooting Phase: *(Range: Template, Str 4, AP 5, Assault 1)*. 
-* **Daemonic Flight (X pts):** The model's unit type changes to **JUMP INFANTRY**. *(If the model is a Monstrous Creature, its unit type changes to **FLYING MONSTERS**).*
+* **Daemonic Flight (X pts):**  The model's unit type changes to **JUMP INFANTRY**, replacing all previous movement rules for the model with those of the Jump Infantry type modifier as described in the Core Rules Unit Types. _(If the model is a Monstrous Creature, its unit type changes to **FLYING MONSTER**, replacing all previous movement rules with those of the Flying Monsters type.)_
 * **Daemonic Mutation (X pts):** The model gains +1 Attack.
 * **Daemonic Resilience (X pts):** The model gains +1 Toughness.
 * **Daemonic Rune (X pts):** The model gains the ***Eternal Warrior*** special rule (immune to Massive Wounds).
