@@ -273,6 +273,17 @@ All Kombi-Weapons consist of a **Shoota** combined with one or more secondary we
 | **Grabbin' Klaw** | — | 8 | 3 | Melee (Special: Grab an' Drag) |
 | **Mega-Choppa** | — | User x2 | 1 | Melee, Terrible Weapon, Two-Handed, Shred |
 
+**Shokka Mishap Table**
+
+| Doubles Rolled | Strength | Result |
+| :---: | :---: | :---- |
+| Double 1s | (S2) | **Warp Backfire:** The shot collapses back on the firer. The firer suffers a S10 AP1 hit with no cover saves allowed. The weapon is destroyed and may not be used for the rest of the game. |
+| Double 2s | (S4) | **Warp Displacement:** The firer is yanked through the warp. Immediately move the firer D6" in a random direction (scatter dice). If this places the model inside impassable terrain or off the table, the model is removed as a casualty. The shot is lost. If this moves the model out of coherency, the model must restore coherency at the start of its next movement phase. |
+| Double 3s | (S6) | **Warp Burn-Out:** The weapon overloads and shorts out. The shot resolves normally at S6, but the weapon may not be used for the rest of the game. |
+| Double 4s | (S8) | **Unstable Tunnel:** A warp rift flickers open. The shot resolves normally at S8. Additionally, place a Blast (3") marker centered on the target. All models (friend and foe) partially or fully under the marker suffer a S4 AP— hit. |
+| Double 5s | (S10) | **Warp Surge:** The snotlings arrive supercharged. The shot resolves at S10 AP1 and gains ***Terrible Weapon***. |
+| Double 6s | (S12) | **Miniature Vortex:** A warp rift tears open. Instead of the normal shot, place a Blast (3") marker centered on the target model. Resolve hits at S10 AP1 with ***Vortex***. The marker remains in play per the ***Vortex*** special rules. |
+
 ---
 
 ## 4. ORK EQUIPMENT
