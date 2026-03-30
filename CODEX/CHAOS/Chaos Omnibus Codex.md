@@ -268,7 +268,7 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Bloodthirster | 10 | 5 | 8 | 6 | 8 | 9 | 5 | 10 | 3+ | 4++ | Flying Monsters (Character) |
 
-**Unit Composition:** * 1 Bloodthirster
+**Unit Composition:** * 1 Bloodthirster (411 pts)
 
 **Force Organization Role:** * HQ (Daemonic Incursion Detachment)
 * HQ (All other Chaos Detachments, subject to Daemonic Possession limits)
