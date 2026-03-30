@@ -178,8 +178,9 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 | Khorne Berzerker | 4 | 4 | 4 | 4 | 1 | 4 | 1 | 8 | 3+ | - | Infantry |
 | Berzerker Champion | 5 | 4 | 4 | 4 | 1 | 4 | 2 | 9 | 3+ | - | Infantry (Character) |
 
-**Unit Composition:** * 1 Berzerker Champion
-* 4-19 Khorne Berzerkers
+**Unit Composition:** 
+* 1 Berzerker Champion (33 points)
+* 4-19 Khorne Berzerkers (28 pts each)
 
 **Force Organization Role:** * Elites (Chaos Space Marines Detachment)
 * Troops (World Eaters Detachment)
@@ -187,7 +188,7 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 **Wargear:**
 * Power Armor
 * Bolt Pistol
-* Chainsword or Chainaxe
+* Chainsword
 * Frag Grenades
 * Krak Grenades
 
@@ -198,9 +199,11 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 * ***Rage***
 
 **Options:**
-* Any model may replace its Bolt Pistol with a Chainsword or Chainaxe (Free).
+* Any model may replace its Bolt Pistol with a Chainsword (1 pts).
+* Any model may replace its Bolt Pistol with a Chainaxe (5 pts).
+* Any model may replace its Chainsword with a Chainaxe (4 pts).
 * Any model may replace its Bolt Pistol and melee weapon with a Bolter (Free).
-* For every 5 models in the unit, one Khorne Berzerker may replace their Bolt Pistol with a Plasma Pistol or Hand Flamer for X pts.
+* For every 5 models in the unit, one Khorne Berzerker may replace their Bolt Pistol with a Plasma Pistol or Hand Flamer for 2 pts.
 * For every 5 models in the unit, one Khorne Berzerker may replace their melee weapon with a Khornate Eviscerator for X pts.
 * The unit may take a Collar of Khorne for X pts. 
 * One Khorne Berzerker may take a Personal Icon for X pts or an Icon of Wrath for X pts.
