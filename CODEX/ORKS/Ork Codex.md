@@ -280,7 +280,7 @@ All Kombi-Weapons consist of a **Shoota** combined with one or more secondary we
 | Wargear | Effect |
 | :---- | :---- |
 | **'Eavy Armour** | Model's armour save becomes **5+**. |
-| **Mega Armour** | Model's armour save becomes **2+**. Model gains a **5+ invulnerable save** and the ***Slow and Purposeful*** special rule. |
+| **Mega Armour** | Model's armour save becomes **2+**. Model gains a **5+ invulnerable save**, ***Slow and Purposeful***, and **_Bulky_**. |
 | **Cybork Body** | Model gains ***Feel No Pain (5+)***. |
 | **Bionik Arm** | Model gains **+1 Strength**. |
 | **Bionik Leg** | Model gains **+1"** to its normal movement distance. |
