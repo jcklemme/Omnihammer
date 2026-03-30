@@ -215,7 +215,7 @@ Characters with the **CHAMPION OF CHAOS** rule may spend their points allowance 
 | Bloodletter | 5 | 0 | 4 | 4 | 1 | 4 | 1 | 10 | - | 5++ | Infantry |
 | Bloodreaper | 5 | 0 | 4 | 4 | 1 | 4 | 2 | 10 | - | 5++ | Infantry (Character) |
 
-**Unit Composition:** * 8-20 Bloodletters
+**Unit Composition:** * 8-20 Bloodletters (27 pts each)
 
 **Force Organization Role:** * Troops (Daemonic Incursion Detachment)
 * Elites (All other Chaos Detachments)
