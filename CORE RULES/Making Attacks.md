@@ -11,6 +11,7 @@ When a model attempts to **HIT** a target with a ranged or shooting attack, it u
 | Hits On… | 6 | 5+ | 4+ | 3+ | 2+ | 1/6+ | 1/5+ | 1/4+ | 1/3+ | 1/2+ |
 
 * **BS OF 6 OR MORE:** At BS of 6 or greater, hits that roll a “1” may be re-rolled and will then hit if equal to or greater than the second number indicated after the “ / “.
+* **Note on BS 0:** Models with a Ballistic Skill of 0 may not make ranged attacks of any kind, including snap fire. They have no capacity for aimed shooting. Template and Torrent weapons that auto-hit are an exception — such weapons bypass the To Hit roll entirely and may be used by BS 0 models as noted in their weapon profiles.
 
 See [RESOLVING SHOOTING ATTACKS](#resolving-shooting-attacks) for additional details on determining line of sight and eligibility to shoot.
 
