@@ -9,7 +9,7 @@
 | Stormboy | 3 | 2 | 3 | 4 | 1 | 3 | 1 | 6 | 6+ | — | Jetpack Infantry |
 | Stormboy Nob | 4 | 2 | 4 | 4 | 2 | 3 | 3 | 7 | 6+ | — | Jetpack Infantry (Character) |
 
-A Stormboyz unit consists of 5–30 Stormboy models.
+A Stormboyz unit consists of 5–30 Stormboy models (11 pts/model).
 
 ---
 
@@ -41,7 +41,7 @@ Rokkit Pack
 
 - The entire unit may take Krak Stikkbombs — 1 pt/model
 - The entire unit may upgrade to 'Eavy Armour (5+ Save) — X pts/model
-- One Stormboy may be upgraded to a Stormboy Nob — X pts
+- One Stormboy may be upgraded to a Stormboy Nob — 9 pts
 - A Stormboy Nob may replace his Slugga and/or Choppa with one of the following:
   - Big Choppa — X pts
   - Power Klaw — X pts
