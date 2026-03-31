@@ -136,9 +136,9 @@ A Custom House selects one of the following Traditions for its detachment:
 | :---- | :---- |
 | **Data-Hunger Protocols** | When this model destroys an enemy **VEHICLE** or **MONSTROUS CREATURE**, the controlling player immediately gains 1 Strategy Point (this cannot exceed the army's starting Strategy Point total). |
 | **Isotopic Targeting Arrays** | This model ignores cover saves when making ranged attacks. All ranged attacks made by this model have the ***Pinning*** special rule. |
-| **Seismic Stabilization Rites** | This model may fire all weapons as if it remained stationary regardless of how far it moved this turn. This model may not make **FLAT OUT** moves. |
-| **Aggressor Interrupt Subroutine** | This model may fire Overwatch at its full Ballistic Skill rather than snap fire. This model may make Overwatch reactions even if it moved during its prior Movement Phase. |
-| **Blessed Ferromantic Shielding** | All of this model's Armor Values are increased by +1 (maximum 14). When this model suffers a Glancing Hit, apply a -1 modifier to the damage roll result. |
+| **Seismic Stabilization Rites** | If this model remained stationary during its Movement Phase (pivoting in place does not count as moving), it gains **+1 Ballistic Skill** until the start of its next Movement Phase. |
+| **Aggressor Interrupt Subroutine** | This model may enter **OVERWATCH** during its Shooting Phase despite being a vehicle, following all other Overwatch rules as normal (must have remained stationary, 90-degree forward arc, targets within 24"). |
+| **Blessed Ferromantic Shielding** | The first time this model suffers an **Engine Damaged**, **Weapon Destroyed**, or **Immobilized** result during the game, that result is treated as **Crew Stunned** instead. This ability is expended after its first use. |
 | **Arcane Locomotive Rites** | This model has the ***Scouts*** special rule and gains the ***Outflank*** ability. This model may re-roll failed **DANGEROUS TERRAIN TESTS**. |
 
 ---
