@@ -113,6 +113,12 @@ Units consisting of multiple vehicles are called **SQUADRONS** and are subject t
 | 2-5 | **KERR-SMASH**: The Superheavy Vehicle adds D6 to the armor penetration roll for the ram. |
 | 6 | **FLIPPED**: The vehicle being rammed scatters D6” and then suffers an EXPLODES\! result from the Penetrating Hit table. |
 
+**Superheavy Walkers in Melee**
+Superheavy Walkers are massive war engines whose sheer scale makes positional warfare against them a meaningful tactical consideration. Unlike standard Walkers, which are small enough that facing in close combat is abstracted to the front armor, Superheavy Walkers use the standard vehicle facing rules in melee combat.
+When a Superheavy Walker is hit by a melee attack, determine the facing hit using the attacking model's position relative to the Superheavy Walker, as described in STEP 1: DETERMINE VEHICLE FACE HIT. This replaces the standard Walker rule that all melee attacks hit the FRONT ARMOR.
+* **Grenades against Superheavy Walkers:** Grenade attacks against non-immobilized Superheavy Walkers hit on a 4+ instead of the standard 6+ for regular Walkers.
+All other Walker melee rules — including determining close combat results, damaged Walker penalties, and voluntary withdrawal — still apply to Superheavy Walkers as normal.
+
 
 ## **INDEPENDENT CHARACTERS** {#independent-characters}
 
