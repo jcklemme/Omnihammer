@@ -112,7 +112,9 @@ This model adds +2" to its movement at **COMBAT SPEED**. When this model moves a
 
 House Mortan and Forge World Graia share a cold and absolute conviction: ground taken is ground kept. A Mortan Knight holding an objective is a mathematical certainty. It will not yield. The calculation does not permit it. Other houses speak of honor and courage. House Mortan speaks of optimal positional efficiency and acceptable casualty thresholds. The outcomes are often identical, and Mortan Knights find this unremarkable.
 
-This model has the ***Stubborn*** special rule. When this model is within 3" of an objective marker, it counts as two models for the purposes of scoring and contesting that objective. When this model suffers a **CREW SHAKEN** or **CREW STUNNED** damage result, roll a D6; on a **4+**, the result is ignored.
+At the start of this model's **MOVEMENT PHASE**, if it is within 3" of an objective marker, it may declare **TERRITORIAL ANCHOR**. While Anchored, this model may not move but may still pivot in place. Additionally, while Anchored, penetrating hits against this model are reduced to glancing hits on a **5+**. The Anchored status ends at the start of the model's next Movement Phase, at which point the controlling player may re-declare it.
+
+When this model is within 3" of an objective marker, it counts as two models for the purposes of scoring and contesting that objective. When this model suffers a **CREW SHAKEN** or **CREW STUNNED** damage result, roll a D6; on a **4+**, the result is ignored.
 
 ---
 
