@@ -64,7 +64,7 @@ The current number of Overload Tokens affects the Ion Shield as follows:
 
 **Passive Recovery:** At the start of each of the model's **MOVEMENT PHASES**, remove one Overload Token from the model.
 
-**Emergency Field Regeneration:** At the start of the model's **SHOOTING PHASE**, before declaring any targets, the controlling player may declare that this model is performing an Emergency Field Regeneration. Remove all Overload Tokens from the model. The model may make no shooting attacks this turn.
+**Emergency Field Regeneration:** At the start of the model's **SHOOTING PHASE**, before declaring any targets, the controlling player may declare that this model is performing an Emergency Field Regeneration. Remove all Overload Tokens from the model. The model may make no shooting attacks this turn and fights at Initiative 1 this turn.
 
 ---
 
