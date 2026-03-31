@@ -182,3 +182,92 @@ This model has the ***Interceptor*** special rule. This model may never be the t
 Once per game, at the start of a Shooting Phase or Assault Phase of the controlling player's choice, this model may enter **PEAK PREDATOR CALCULUS**. For the duration of that phase, this model may re-roll all To Hit rolls and all failed armor penetration rolls against a single nominated enemy **VEHICLE** or **MONSTROUS CREATURE** target. Declare the nominated target and activate **PEAK PREDATOR CALCULUS** before any dice are rolled.
 
 ---
+
+# QUESTORIS KNIGHT — DATASHEET DRAFT v0.1
+
+---
+
+## Questoris Knight
+
+|  | WS | BS | S | AVF | AVS | AVR | I | A | SP |
+| :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Questoris Knight | 4 | 4 | 8 | 13 | 13 | 12 | 4 | 4 | 4 |
+
+**Unit Composition:** 1 Questoris Knight — X pts
+
+**Type:** Superheavy Walker
+
+**Force Organization Role:** TBD (pending Knights FOC definition)
+
+---
+
+**Special Rules:**
+
+- **QUESTOR MECHANICUS** *(grants ***Machine Communion***, ***Cold Intellect***)*
+- **Ion Shield**
+
+---
+
+**Wargear:**
+
+A Questoris Knight must select two weapons from the **Arm Weapons** list below (one for each arm mount). The same weapon may be selected for both arms. A Questoris Knight may additionally select one weapon from the **Carapace Weapons** list.  A Questoris Knight is equipped with a Heavy Stubber.
+
+---
+
+### Arm Weapons
+
+#### Ranged
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Rapid-Fire Battle Cannon | 72" | 8 | 3 | Ordnance 2, Large Blast |
+| Thermal Cannon | 36" | 9 | 1 | Heavy 1, Large Blast, ***Melta*** |
+| Avenger Gatling Cannon | 36" | 6 | 3 | Heavy 12 |
+
+#### Melee
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Reaper Chainsword | Melee | ×2 (max 10) | 3 | Melee, ***Shred*** |
+| Thunderstrike Gauntlet | Melee | ×2 (max 10) | 1 | Melee, ***Unwieldy*** |
+
+***Hurl:*** When a model armed with a Thunderstrike Gauntlet destroys a **VEHICLE** or **MONSTROUS CREATURE** in melee, the controlling player may hurl the wreckage. Choose a point within D6" of the destroyed model and place a Large Blast template centered on that point. Every model under the template (friend and foe) suffers a S9 AP— hit. Resolve these hits after the destroyed model is removed.
+
+---
+
+### Carapace Weapons
+
+A Questoris Knight may select one of the following. All carapace weapons are optional.
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Heavy Stubber | 36" | 4 | 6 | Heavy 3 |
+| Stormspear Rocket Pod | 48" | 8 | 3 | Heavy 3 |
+| Ironstorm Missile Pod | 72" | 5 | 4 | Heavy 1, Large Blast, ***Barrage*** |
+| Icarus Autocannons | 48" | 7 | 4 | Heavy 2, ***Twin-linked***, ***Skyfire***, ***Interceptor*** |
+
+---
+
+### Options
+
+- Select two weapons from the Arm Weapons list (one per arm mount) — X pts each
+- May select one Carapace Weapon — X pts
+- May replace Torso-Mounted Heavy Stubber with Meltagun - X Points
+
+---
+
+## NAMED LOADOUTS
+
+*The following traditional loadout names are provided for reference. Players are not restricted to these configurations.*
+
+| Pattern Name | Arm 1 | Arm 2 | Character |
+| :---- | :---- | :---- | :---- |
+| **Knight Paladin** | Rapid-Fire Battle Cannon | Reaper Chainsword | Balanced fire and melee |
+| **Knight Errant** | Thermal Cannon | Reaper Chainsword | Anti-armor specialist |
+| **Knight Warden** | Avenger Gatling Cannon | Reaper Chainsword | Anti-infantry volume fire |
+| **Knight Gallant** | Thunderstrike Gauntlet | Reaper Chainsword | Dedicated close combat |
+| **Knight Crusader** | Rapid-Fire Battle Cannon *or* Thermal Cannon | Avenger Gatling Cannon | Dedicated ranged platform |
+
+---
+
+
