@@ -15,3 +15,10 @@ Unit datasheets
 
 - ION SHIELD - IT HAS DIFFERENT SAVES BASED ON FACING, BUT DOESN'T SPECIFY REGARDING MELEE.  THIS SHOULD BE AN EXCEPTION TO THE MELEE AUTO HITS THE FRONT FACE.  IN FACT, SUPERHEAVY VEHICLES SHOULD USE THE FACE THE ATTACKING MODEL IS IN BASE CONTACT WITH INSTEAD OF THE FRONT FACE AUTOMATICALLY.  CHECK THE CORE RULES AND SEE IF THIS IS ALREADY APPLIED.  IF NOT, WE NEED TO WRITE IT.
 - ION SHIELD - WHEN IS THE SAVE MADE?  IS THIS A NON-ISSUE AND THE CORE RULES COVER THIS?
+- House Mortan - Vehicles do not use Morale, Stubborn is pointless. - FAILURE TO COMPLY WITH CLAUDE.MD - MAJOR ISSUE!!!!
+- Data-Hunger Protocols - Strategy Points don't exists - FAILURE TO COMPLY WITH CLAUDE.MD - MAJOR ISSUE!!!!
+- Seismic Stabilization Rites - Walkers can't move flat-out - FAILURE TO COMPLY WITH CLAUDE.MD - MAJOR ISSUE!!!!
+- Aggressor Interrupt Subroutine - is overwatch at snap fire?  If not - FAILURE TO COMPLY WITH CLAUDE.MD - MAJOR ISSUE!!!!
+- Blessed Ferromantic Shielding - WAY too strong
+- All the Forgeworld Blessings are stronger than the pre-made houses and you ALSO get the House tradition on top of that.  Waaaaay too strong.
+- 
