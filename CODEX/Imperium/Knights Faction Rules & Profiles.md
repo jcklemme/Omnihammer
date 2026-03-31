@@ -151,13 +151,11 @@ The controlling player must designate one model in a **QUESTOR MECHANICUS** deta
 
 A **CUSTOM HOUSE** selects one Blessing from the named options below.
 
----
-
 ### Blessing of Mars
 
 *The Fabricator-General's inner circle has taken personal interest in this Knight's campaigns. Its machine spirit has been recalibrated at the highest level of the Martian priesthood, its repair rituals elevated to sacred scripture.*
 
-Once per game, when this model would suffer a **WRECKED** or **EXPLODES!** result on the Vehicle Damage Table and before spending any Structure Points, roll a D6. On a **3+**, reduce the damage result by 2 steps (for example: **EXPLODES!** becomes **Weapon Destroyed + Crew Stunned**; **WRECKED** becomes **Immobilized**). Additionally, while this model has fewer Structure Points remaining than it started the game with, its ***Machine Communion*** repair roll is improved to **3+**.
+Once per game, when this model would suffer a **WRECKED** or **EXPLODES!** result on the Vehicle Damage Table and before spending any **STRUCTURE POINTS**, roll a D6. On a **3+**, reduce the damage result by 2 steps (for example: **EXPLODES!** becomes **Weapon Destroyed + Crew Stunned**; **WRECKED** becomes **Immobilized**).
 
 ---
 
@@ -165,7 +163,7 @@ Once per game, when this model would suffer a **WRECKED** or **EXPLODES!** resul
 
 *Metalica's combat Magi have tuned this Knight's targeting systems beyond standard operational parameters. Its weapon spirit and optical cogitators operate in perfect synchronization, each output refined to a precision that most Forge Worlds consider wasteful. Metalica considers it optimal.*
 
-This model has **+1 Ballistic Skill**. This model generates **OVERLOAD TOKENS** only when it fails Ion Shield saves against **PENETRATING HITS** — failed saves against Glancing Hits do not generate Overload Tokens. When this model fires at two different targets in the same Shooting Phase via **SPLIT FIRE**, it may re-roll all failed To Hit rolls against the second declared target.
+This model has **+1 Ballistic Skill**.
 
 ---
 
@@ -173,7 +171,7 @@ This model has **+1 Ballistic Skill**. This model generates **OVERLOAD TOKENS** 
 
 *Graia's gift is certainty of position. The Warlord Knight is designated a Territorial Anchor — its presence creates a zone of calculated fire dominance that enemy commanders cannot safely ignore.*
 
-This model has the ***Interceptor*** special rule. This model may never be the target of **TANK SHOCK**. Once per game, at the start of any Shooting Phase, before either player shoots, this model may perform a single **Priority Overwatch** — it fires as if in Overwatch at any one enemy unit within range and line of sight, regardless of whether that unit is charging. This attack is resolved using the model's full Ballistic Skill.
+This model has the ***Interceptor*** special rule. This model may never be the target of **TANK SHOCK**.
 
 ---
 
