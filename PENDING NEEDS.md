@@ -1,3 +1,5 @@
+ASCERTAIN IF VEHICLES ARE SUBJECT TO PINNING OR OTHER MORALE CHECKS.  IF THIS IS NOT EXPLICIT IN THE RULES, WE NEED TO UPDATE THAT
+
 Daemon Spawn — "If this model kills an enemy Character in a melee engagement, place a Chaos Spawn model in base contact." No Chaos Spawn profile exists in the codex yet. This is a placeholder gap — the gift references a unit that hasn't been written. Flag for when Chaos Spawn is drafted.
 
 Mark of Nurgle (Vehicle): Grants +1 Structure Point. The Core Rules Structure Points section calculates SPs from armor values at list-building time — there's no mechanism for adding SPs as wargear. We should replace this with something else as it is far too strong.
