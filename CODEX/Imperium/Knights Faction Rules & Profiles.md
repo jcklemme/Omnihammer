@@ -182,27 +182,3 @@ This model has the ***Interceptor*** special rule. This model may never be the t
 Once per game, at the start of a Shooting Phase or Assault Phase of the controlling player's choice, this model may enter **PEAK PREDATOR CALCULUS**. For the duration of that phase, this model may re-roll all To Hit rolls and all failed armor penetration rolls against a single nominated enemy **VEHICLE** or **MONSTROUS CREATURE** target. Declare the nominated target and activate **PEAK PREDATOR CALCULUS** before any dice are rolled.
 
 ---
-
-# DESIGN NOTES
-
-*This section documents design decisions and rationale for future reference.*
-
-### Questor Mechanicus Identity
-
-The two universal rules — ***Machine Communion*** and ***Cold Intellect*** — are intended to make the faction feel meaningfully different from Questor Imperialis even before any Household Tradition is applied. Cold Intellect is deliberately not Fearless (Knights can still break if the math is bad enough) but it strips out all the emotional manipulation effects that enemies might use to engineer those breaks. Machine Communion creates a passive repair loop that rewards the opponent for focusing fire to force multiple damage results faster than the Knight can clear them.
-
-### Ion Shield Design
-
-The hybrid overload system rewards smart positioning (front arc 3+ vs. other arcs 4+) while creating a meaningful decision tree for both players. The attacker must decide whether to concentrate fire to generate Overload Tokens — accepting that they're hitting the strongest save — or flank to hit weaker saves but slower token generation. The Emergency Field Regeneration creates a high-stakes turn where the Knight goes cold (no shooting) but resets entirely. Passive recovery (one token per turn) means a Knight that survives a turn of heavy fire will slowly recover, but sustained pressure over multiple turns will keep it strained.
-
-### Household Tradition Differentiation
-
-The four named houses are designed around distinct battlefield roles: House Taranis (survivability and repair), House Raven (aggressive advance), House Mortan (objective control and durability), House Krast (heavy target specialist). Custom house options in the table provide additional archetypes for players who want to build thematically distinct forces.
-
-### Forge World Blessings vs. Household Traditions
-
-Traditions are army-wide (all Knights in the detachment), making them affect overall strategy. Blessings affect only the Warlord Knight, making them feel like a personal designation rather than a doctrinal difference. This separation is intentional — it means the Warlord Knight feels specially commissioned by the Forge World while the rest of the household operates on standard Forge World doctrine.
-
-### Points Values
-
-All points costs deferred until unit datasheets are complete and can be costed holistically.
