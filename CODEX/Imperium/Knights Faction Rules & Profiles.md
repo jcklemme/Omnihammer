@@ -1,6 +1,6 @@
 # CODEX: IMPERIAL KNIGHTS (QUESTOR MECHANICUS)
 
-**WORKING DRAFT v0.1**
+**WORKING DRAFT v0.2**
 
 *In service to the Omnissiah, by the will of the Forge*
 
@@ -29,7 +29,7 @@ Certain **HOUSEHOLD TRADITIONS** and **FORGE WORLD BLESSINGS** improve the requi
 
 The Throne Mechanicum of a Questor Mechanicus house is engineered to suppress volatile emotional states in the pilot, replacing passionate impulse with cold, efficient computation. The pilot does not feel fear. They perform threat assessment. The distinction, to the Mechanicus, is everything.
 
-A model with ***Cold Intellect*** is immune to the ***Fear*** special rule and automatically passes all **PINNING TESTS**. When this model is required to take any morale test, negative Leadership modifiers originating from enemy special rules (such as ***Fear***, ***Terror***, or equivalent effects) do not apply. Modifiers from the model's own condition — such as being at reduced strength or out of coherency — still apply normally.
+A model with ***Cold Intellect*** is immune to the ***Fear*** special rule and automatically passes all **PINNING TESTS**. When this model is required to take any morale test, negative Leadership modifiers originating from enemy special rules (such as ***Fear*** or equivalent effects) do not apply. Modifiers from the model's own condition — such as being at reduced strength or out of coherency — still apply normally.
 
 **A model with *Cold Intellect* may never choose to voluntarily fail a morale test.**
 
@@ -94,6 +94,8 @@ The Knights of House Taranis are the oldest and most revered of the Questor Mech
 
 This model's ***Machine Communion*** repair roll is improved to **4+** instead of 5+. Additionally, when this model uses **Emergency Field Regeneration**, it may simultaneously remove one **Engine Damaged**, **Weapon Destroyed**, or **Immobilized** result without making a roll.
 
+**Note:** The ***Machine Communion*** improvement applies only to models that have ***Machine Communion*** — models with ***Repair Autosimulacra*** (such as the Knight Magaera) are not affected. The **Emergency Field Regeneration** bonus applies to any model with that ability, regardless of shield type (Ion Shield, Ionic Flare Shield, etc.).
+
 ---
 
 ### House Raven — *Bonded to Metalica*
@@ -102,7 +104,7 @@ This model's ***Machine Communion*** repair roll is improved to **4+** instead o
 
 House Raven's doctrine is the doctrine of Metalica itself — relentless advance, overwhelming suppression, continuous fire. A Raven Knight does not slow its advance for the convenience of its targeting systems. It improves both simultaneously. The Forge World has invested considerable resources into ensuring this is not merely an aspiration but a measurable operational fact.
 
-This model adds +2" to its movement at **COMBAT SPEED**. When this model moves at **CRUISING SPEED**, it may fire its Main Weapons using **SNAP FIRE** rather than being prohibited from firing Main Weapons entirely. Defensive weapons may still be fired normally at Cruising Speed.
+This model adds +2" to its normal move distance. When this model makes an **ADVANCE** move, it may fire its Main Weapons using **SNAP FIRE** in addition to any assault weapons it would normally be permitted to fire. Defensive weapons may still be fired normally after an Advance move.
 
 ---
 
@@ -151,6 +153,8 @@ The controlling player must designate one model in a **QUESTOR MECHANICUS** deta
 
 A **CUSTOM HOUSE** selects one Blessing from the named options below.
 
+---
+
 ### Blessing of Mars
 
 *The Fabricator-General's inner circle has taken personal interest in this Knight's campaigns. Its machine spirit has been recalibrated at the highest level of the Martian priesthood, its repair rituals elevated to sacred scripture.*
@@ -183,7 +187,29 @@ Once per game, at the start of a Shooting Phase or Assault Phase of the controll
 
 ---
 
-# QUESTORIS KNIGHT — DATASHEET DRAFT v0.1
+# KNIGHT WEAPON SPECIAL RULES
+
+The following special rules are used by weapons in this codex and are not defined in the OmniHammer Core Rules. All other weapon special rules (***Melta***, ***Shred***, ***Gets Hot***, ***Unwieldy***, etc.) use their definitions from the Core Rules USR section.
+
+### Luminagen
+
+A unit hit by one or more attacks with the ***Luminagen*** special rule has its cover saves reduced by 1 (to a minimum of no cover save) until the end of the current turn. This effect does not stack with itself.
+
+### Rad-Phage
+
+Models that suffer one or more unsaved wounds from a weapon with this rule have their **Toughness permanently reduced by 1** for the remainder of the game (to a minimum of 1). This effect does not stack — a model's Toughness can only be reduced by 1 from Rad-Phage regardless of how many times it is wounded by Rad-Phage weapons.
+
+### Siege Strike (Hekaton Siege Claw only)
+
+Instead of making its normal melee attacks, a model armed with a Hekaton Siege Claw may declare a **Siege Strike**. The model makes a **single** attack at **S10 AP1**. If this attack scores a penetrating hit against a **VEHICLE**, add **+2** to the damage roll result. Against **BUILDINGS** and **FORTIFICATIONS**, the attack automatically counts as a penetrating hit (no armor penetration roll is made).
+
+### Hurl (Thunderstrike Gauntlet only)
+
+When a model armed with a Thunderstrike Gauntlet destroys a **VEHICLE** or **MONSTROUS CREATURE** in melee, the controlling player may hurl the wreckage. Choose a point within D6" of the location where the destroyed model was positioned and place a Large Blast template centered on that point. Every model under the template (friend and foe) suffers a S9 AP— hit. Resolve these hits after the destroyed model is removed.
+
+---
+
+# UNIT DATASHEETS
 
 ---
 
@@ -197,7 +223,7 @@ Once per game, at the start of a Shooting Phase or Assault Phase of the controll
 
 **Type:** Superheavy Walker
 
-**Force Organization Role:** TBD (pending Knights FOC definition)
+**Force Organization Role:** TBD
 
 ---
 
@@ -210,13 +236,9 @@ Once per game, at the start of a Shooting Phase or Assault Phase of the controll
 
 **Wargear:**
 
-A Questoris Knight must select two weapons from the **Arm Weapons** list below (one for each arm mount). The same weapon may be selected for both arms. A Questoris Knight may additionally select one weapon from the **Carapace Weapons** list.  A Questoris Knight is equipped with a Heavy Stubber.
+A Questoris Knight must select two weapons from the **Arm Weapons** list below (one for each arm mount). The same weapon may be selected for both arms. A Questoris Knight may additionally select one weapon from the **Carapace Weapons** list.
 
----
-
-### Arm Weapons
-
-#### Ranged
+### Arm Weapons — Ranged
 
 | Name | Range | S | AP | Type |
 | :---- | :---: | :---: | :---: | :---- |
@@ -224,50 +246,78 @@ A Questoris Knight must select two weapons from the **Arm Weapons** list below (
 | Thermal Cannon | 36" | 9 | 1 | Heavy 1, Large Blast, ***Melta*** |
 | Avenger Gatling Cannon | 36" | 6 | 3 | Heavy 12 |
 
-#### Melee
+**Thermal Cannon and Melta:** For the purposes of the ***Melta*** rule, measure range from the firing model to the center of the blast template to determine whether the target is at half range or less.
+
+### Arm Weapons — Melee
 
 | Name | Range | S | AP | Type |
 | :---- | :---: | :---: | :---: | :---- |
 | Reaper Chainsword | Melee | ×2 (max 10) | 3 | Melee, ***Shred*** |
-| Thunderstrike Gauntlet | Melee | ×2 (max 10) | 1 | Melee, ***Unwieldy*** |
+| Thunderstrike Gauntlet | Melee | ×2 (max 10) | 1 | Melee, ***Unwieldy***, ***Hurl*** |
 
-***Hurl:*** When a model armed with a Thunderstrike Gauntlet destroys a **VEHICLE** or **MONSTROUS CREATURE** in melee, the controlling player may hurl the wreckage. Choose a point within D6" of the destroyed model and place a Large Blast template centered on that point. Every model under the template (friend and foe) suffers a S9 AP— hit. Resolve these hits after the destroyed model is removed.
-
----
-
-### Carapace Weapons
-
-A Questoris Knight may select one of the following. All carapace weapons are optional.
+### Carapace Weapons (optional, select one)
 
 | Name | Range | S | AP | Type |
 | :---- | :---: | :---: | :---: | :---- |
 | Heavy Stubber | 36" | 4 | 6 | Heavy 3 |
+| Meltagun | 12" | 8 | 1 | Assault 1, ***Melta*** |
 | Stormspear Rocket Pod | 48" | 8 | 3 | Heavy 3 |
 | Ironstorm Missile Pod | 72" | 5 | 4 | Heavy 1, Large Blast, ***Barrage*** |
 | Icarus Autocannons | 48" | 7 | 4 | Heavy 2, ***Twin-linked***, ***Skyfire***, ***Interceptor*** |
-
----
 
 ### Options
 
 - Select two weapons from the Arm Weapons list (one per arm mount) — X pts each
 - May select one Carapace Weapon — X pts
-- May replace Torso-Mounted Heavy Stubber with Meltagun - X Points
+
+### Named Loadouts (Reference Only)
+
+| Pattern Name | Arm 1 | Arm 2 |
+| :---- | :---- | :---- |
+| **Knight Paladin** | Rapid-Fire Battle Cannon | Reaper Chainsword |
+| **Knight Errant** | Thermal Cannon | Reaper Chainsword |
+| **Knight Warden** | Avenger Gatling Cannon | Reaper Chainsword |
+| **Knight Gallant** | Thunderstrike Gauntlet | Reaper Chainsword |
+| **Knight Crusader** | Rapid-Fire Battle Cannon *or* Thermal Cannon | Avenger Gatling Cannon |
 
 ---
 
-## NAMED LOADOUTS
+## Knight Defender
 
-*The following traditional loadout names are provided for reference. Players are not restricted to these configurations.*
+|  | WS | BS | S | AVF | AVS | AVR | I | A | SP |
+| :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Knight Defender | 4 | 4 | 8 | 13 | 13 | 12 | 4 | 4 | 4 |
 
-| Pattern Name | Arm 1 | Arm 2 | Character |
-| :---- | :---- | :---- | :---- |
-| **Knight Paladin** | Rapid-Fire Battle Cannon | Reaper Chainsword | Balanced fire and melee |
-| **Knight Errant** | Thermal Cannon | Reaper Chainsword | Anti-armor specialist |
-| **Knight Warden** | Avenger Gatling Cannon | Reaper Chainsword | Anti-infantry volume fire |
-| **Knight Gallant** | Thunderstrike Gauntlet | Reaper Chainsword | Dedicated close combat |
-| **Knight Crusader** | Rapid-Fire Battle Cannon *or* Thermal Cannon | Avenger Gatling Cannon | Dedicated ranged platform |
+**Unit Composition:** 1 Knight Defender — X pts
+
+**Type:** Superheavy Walker
+
+**Force Organization Role:** TBD
 
 ---
 
+**Special Rules:**
 
+- **QUESTOR MECHANICUS** *(grants ***Machine Communion***, ***Cold Intellect***)*
+- **Void Shield Generator** *(replaces Ion Shield — see below)*
+
+---
+
+**Wargear (fixed loadout — no options):**
+
+- Plasma Executor
+- Conversion Beam Obliterator with underslung Twin Incendine Combustor
+- Phosphor Blaster
+- Void Shield Generator
+
+---
+
+### Void Shield Generator
+
+The Knight Defender is equipped with a Luminox-class Void Shield Generator rather than a standard Ion Shield. Ancient and only partially understood, this device projects a flickering energy dome that absorbs incoming fire before it can reach the Knight's hull — and can extend its protection to nearby allies.
+
+**The Knight Defender does not have an Ion Shield. It has no Ion Shield save and does not use Overload Tokens.**
+
+The Knight Defender has **1 Void Shield**. While the Void Shield is active:
+
+- When a ranged attack hits the Knight Defender, or hits a friendly model within **6"** of the Knight Defender, roll to hit as normal against the declared target. Then, instead of rolling f
