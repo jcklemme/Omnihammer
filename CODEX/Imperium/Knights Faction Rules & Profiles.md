@@ -193,7 +193,7 @@ The following special rules are used by weapons in this codex and are not define
 
 ### Luminagen
 
-A unit hit by one or more attacks with the ***Luminagen*** special rule has its cover saves reduced by 1 (to a minimum of no cover save) until the end of the current turn. This effect does not stack with itself.
+**_Blind_**, A unit hit (regardless of wounds/armour penetration) by one or more attacks with the ***Luminagen*** special rule has its cover saves reduced by 1 (to a minimum of no cover save) until the end of the current turn. This effect does not stack with itself.
 
 ### Rad-Phage
 
@@ -219,7 +219,7 @@ When a model armed with a Thunderstrike Gauntlet destroys a **VEHICLE** or **MON
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Questoris Knight | 4 | 4 | 8 | 13 | 13 | 12 | 4 | 4 | 4 |
 
-**Unit Composition:** 1 Questoris Knight — X pts
+**Unit Composition:** 1 Questoris Knight — 218 pts
 
 **Type:** Superheavy Walker
 
@@ -236,7 +236,7 @@ When a model armed with a Thunderstrike Gauntlet destroys a **VEHICLE** or **MON
 
 **Wargear:**
 
-A Questoris Knight must select two weapons from the **Arm Weapons** list below (one for each arm mount). The same weapon may be selected for both arms. A Questoris Knight may additionally select one weapon from the **Carapace Weapons** list.
+A Questoris Knight must select two weapons from the **Arm Weapons** list below (one for each arm mount). The same weapon may be selected for both arms. A Questoris Knight may additionally select one weapon from the **Carapace Weapons** list.  A Questoris Knight is equipped with a torso-mounted Heavy Stubber.
 
 ### Arm Weapons — Ranged
 
@@ -259,16 +259,30 @@ A Questoris Knight must select two weapons from the **Arm Weapons** list below (
 
 | Name | Range | S | AP | Type |
 | :---- | :---: | :---: | :---: | :---- |
-| Heavy Stubber | 36" | 4 | 6 | Heavy 3 |
-| Meltagun | 12" | 8 | 1 | Assault 1, ***Melta*** |
 | Stormspear Rocket Pod | 48" | 8 | 3 | Heavy 3 |
 | Ironstorm Missile Pod | 72" | 5 | 4 | Heavy 1, Large Blast, ***Barrage*** |
-| Icarus Autocannons | 48" | 7 | 4 | Heavy 2, ***Twin-linked***, ***Skyfire***, ***Interceptor*** |
+| Twin-linked Icarus Autocannons | 48" | 7 | 4 | Heavy 2, ***Twin-linked***, ***Skyfire***, ***Interceptor*** |
+
+### Torso Mount Weapons
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Heavy Stubber | 36" | 4 | 6 | Heavy 3 |
+| Meltagun | 12" | 8 | 1 | Assault 1, ***Melta*** |
 
 ### Options
 
-- Select two weapons from the Arm Weapons list (one per arm mount) — X pts each
-- May select one Carapace Weapon — X pts
+- Select two weapons from the Arm Weapons list (one per arm mount)
+  - Reaper Chainsword - 77 pts
+  - Thunderstrike Gauntlet - 77 pts
+  - Rapid-Fire Battle Cannon - 127 pts
+  - Thermal Cannon - 64 pts
+  - Avenger Gatling Cannon - 163 pts
+- May select one Carapace Weapon
+  - Stormspear Rocket Pod - 61 pts
+  - Ironstorm Missile Pod - 30 pts
+  - Twin-linked Icarus Autocannons - 28 pts
+- Replace Heavy Stubber with Meltagun - 11 pts
 
 ### Named Loadouts (Reference Only)
 
@@ -288,7 +302,7 @@ A Questoris Knight must select two weapons from the **Arm Weapons** list below (
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Knight Defender | 4 | 4 | 8 | 13 | 13 | 12 | 4 | 4 | 4 |
 
-**Unit Composition:** 1 Knight Defender — X pts
+**Unit Composition:** 1 Knight Defender — 375 pts
 
 **Type:** Superheavy Walker
 
@@ -372,7 +386,7 @@ When firing the Conversion Beam Obliterator, measure the range to the target and
 | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Knight Magaera | 4 | 4 | 8 | 13 | 13 | 12 | 4 | 4 | 4 |
 
-**Unit Composition:** 1 Knight Magaera — X pts
+**Unit Composition:** 1 Knight Magaera — 481 pts
 
 **Type:** Superheavy Walker
 
@@ -393,8 +407,14 @@ When firing the Conversion Beam Obliterator, measure the range to the target and
 **Wargear:**
 
 - Lightning Cannon
-- Hekaton Siege Claw with Rad Cleanser *or* Reaper Chainsword
+- Hekaton Siege Claw with Rad Cleanser
 - Phased-Plasma Fusil
+
+---
+
+**Options:**
+
+- May replace Hekaton Siege Claw with Rad Cleanser with Reaper Chainsword - Free
 
 ---
 
@@ -454,7 +474,7 @@ Remove the model and replace it with a suitably-sized crater, which provides har
 
 | Name | Range | S | AP | Type |
 | :---- | :---: | :---: | :---: | :---- |
-| Lightning Cannon | 48" | 7 | 5 | Heavy 6, ***Shred*** |
+| Lightning Cannon | 48" | 7 | 5 | Heavy 6, ***Shred***, ***Haywire*** |
 
 **Hekaton Siege Claw**
 
@@ -466,7 +486,7 @@ Remove the model and replace it with a suitably-sized crater, which provides har
 
 | Name | Range | S | AP | Type |
 | :---- | :---: | :---: | :---: | :---- |
-| Rad Cleanser | Template | 2 | 5 | Assault 1, ***Fleshbane***, ***Rad-Phage*** |
+| Rad Cleanser | Template | 2 | 5 | Assault 1, ***Rad-Phage***, ***Poison (2+)***, ***Ignores Cover*** |
 
 **Reaper Chainsword** *(alternative to Hekaton Siege Claw)*
 
