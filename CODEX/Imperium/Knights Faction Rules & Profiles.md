@@ -320,4 +320,219 @@ The Knight Defender is equipped with a Luminox-class Void Shield Generator rathe
 
 The Knight Defender has **1 Void Shield**. While the Void Shield is active:
 
-- When a ranged attack hits the Knight Defender, or hits a friendly model within **6"** of the Knight Defender, roll to hit as normal against the declared target. Then, instead of rolling f
+- When a ranged attack hits the Knight Defender, or hits a friendly model within **6"** of the Knight Defender, roll to hit as normal against the declared target. Then, instead of rolling for armor penetration against the target's actual Armor Value, roll against the Void Shield's **Armor Value of 12**.
+- A **Glancing Hit**, **Penetrating Hit**, or any hit from a weapon with the ***Terrible Weapon*** special rule collapses the Void Shield. No further damage roll is made — the shield simply collapses.
+- Hits that fail to equal or exceed AV12 are absorbed harmlessly.
+- Once the Void Shield collapses, all remaining hits in the same phase (and all subsequent hits) are resolved against the target's actual Armor Values as normal.
+- **Close combat attacks bypass the Void Shield entirely.**
+
+**Note:** The Void Shield's AV12 is lower than the Knight Defender's own front armor (AV13). This is intentional — the Void Shield's value lies in its omnidirectional coverage, its immunity to small arms fire (anything below S6 cannot reach AV12), and its 6" protective aura for nearby allies.
+
+**Regeneration:** At the end of the Knight Defender's turn, if the Void Shield has collapsed, roll a D6. On a **5+**, the Void Shield is restored.
+
+**Friendly models within 6":** While the Void Shield is active, ranged hits against friendly models within 6" of the Knight Defender are resolved against the Void Shield first. Once the shield collapses, friendly models lose this protection and are hit normally. When multiple units under the Void Shield's protection are targeted simultaneously, resolve all hits against the Void Shield in the order chosen by the Knight Defender's controlling player. If the shield collapses partway through, remaining hits resolve against their targets normally.
+
+---
+
+### Weapon Profiles
+
+**Plasma Executor**
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Plasma Executor | 48" | 9 | 2 | Heavy 3 |
+
+**Conversion Beam Obliterator**
+
+| Range Bracket | S | AP | Type |
+| :---- | :---: | :---: | :---- |
+| 0–18" | 6 | — | Heavy 1 |
+| 18–42" | 8 | 4 | Heavy 1, Blast |
+| 42–72" | 10 | 1 | Heavy 1, Large Blast |
+
+When firing the Conversion Beam Obliterator, measure the range to the target and use the corresponding profile. If models in the target unit fall within different range brackets, use the bracket corresponding to the closest model in the target unit.
+
+**Twin Incendine Combustor** *(underslung on Conversion Beam Obliterator)*
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Twin Incendine Combustor | Template | 6 | 6 | Assault 1, ***Twin-linked*** |
+
+**Phosphor Blaster**
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Phosphor Blaster | 24" | 5 | 4 | Heavy 2, ***Luminagen*** |
+
+---
+
+## Knight Magaera
+
+|  | WS | BS | S | AVF | AVS | AVR | I | A | SP |
+| :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Knight Magaera | 4 | 4 | 8 | 13 | 13 | 12 | 4 | 4 | 4 |
+
+**Unit Composition:** 1 Knight Magaera — X pts
+
+**Type:** Superheavy Walker
+
+**Force Organization Role:** TBD
+
+---
+
+**Special Rules:**
+
+- **QUESTOR MECHANICUS** *(grants ***Cold Intellect*** only — ***Machine Communion*** is replaced by ***Repair Autosimulacra***)*
+- **Ionic Flare Shield** *(replaces Ion Shield — see below)*
+- **Repair Autosimulacra**
+- **Atomantic Radiation Hazard**
+- **Atomantic Detonation**
+
+---
+
+**Wargear:**
+
+- Lightning Cannon
+- Hekaton Siege Claw with Rad Cleanser *or* Reaper Chainsword
+- Phased-Plasma Fusil
+
+---
+
+### Ionic Flare Shield
+
+The Knight Magaera is equipped with an Ionic Flare Shield rather than a standard Ion Shield. This ancient defensive system projects a crackling, omnidirectional energy field that is particularly effective at dispersing the concussive force of explosive weaponry.
+
+**The Knight Magaera does not have a standard Ion Shield.**
+
+A model equipped with an **IONIC FLARE SHIELD** gains a **4+ invulnerable save** against all ranged attacks, regardless of the facing arc of the attack. This save is not directional. **The Ionic Flare Shield provides no protection against melee attacks.**
+
+Additionally, any weapon with the ***Blast***, ***Large Blast***, ***Apocalyptic Blast***, ***Template***, or ***Barrage*** special rule has its **Strength reduced by 1** (to a minimum of 1) when resolving hits against a model with an Ionic Flare Shield.
+
+**Overload Tokens:** The Ionic Flare Shield uses the **OVERLOAD TOKEN** system. Each time a model with an Ionic Flare Shield **fails an Ionic Flare Shield save**, place one **OVERLOAD TOKEN** on the model.
+
+| Overload Tokens | Shield Status | Effect |
+| :---- | :---- | :---- |
+| **0–1** | **Stable** | Ionic Flare Shield operates normally (4+) |
+| **2** | **Strained** | Ionic Flare Shield save worsened to **5+** |
+| **3+** | **Overloaded** | Ionic Flare Shield provides no invulnerable save whatsoever |
+
+**Note:** The Strength reduction against Blast/Template weapons is lost when the shield is Overloaded.
+
+**Passive Recovery:** At the start of each of the model's **MOVEMENT PHASES**, remove one Overload Token.
+
+**Emergency Field Regeneration:** At the start of the model's **SHOOTING PHASE**, before declaring any targets, the controlling player may declare Emergency Field Regeneration. Remove all Overload Tokens. The model may make no shooting attacks this turn and fights at Initiative 1 this turn.
+
+---
+
+### Repair Autosimulacra
+
+At the start of each **MOVEMENT PHASE**, this model may attempt to repair one damaged system. Roll a D6: on a **3+**, remove one **Engine Damaged**, **Weapon Destroyed**, or **Immobilized** result currently affecting this model. ***Repair Autosimulacra*** may not restore lost **STRUCTURE POINTS**.
+
+**This rule replaces ***Machine Communion***. This model does not benefit from ***Machine Communion*** and is not affected by rules that modify the ***Machine Communion*** roll (such as Household Traditions or Forge World Blessings that reference ***Machine Communion***).**
+
+---
+
+### Atomantic Radiation Hazard
+
+At the start of each of this model's **MOVEMENT PHASES**, every non-vehicle unit (friend and foe) within **3"** of this model suffers **D3** S2 AP— hits. Saving throws may be taken as normal.
+
+---
+
+### Atomantic Detonation
+
+If this model suffers an **EXPLODES!** result (after spending any remaining Structure Points), replace the standard Superheavy Vehicle explosion with the following:
+
+All models within **D6+3"** of the hull take an automatic **S10 AP2** hit. All models within **D6+6"** of the hull take an automatic **S6 AP3** hit. All models within **3D6+6"** (minimum 13") of the hull take a **S4 AP5** hit.
+
+Remove the model and replace it with a suitably-sized crater, which provides hard cover and counts as **DANGEROUS TERRAIN**.
+
+---
+
+### Weapon Profiles
+
+**Lightning Cannon**
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Lightning Cannon | 48" | 7 | 5 | Heavy 6, ***Shred*** |
+
+**Hekaton Siege Claw**
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Hekaton Siege Claw | Melee | ×2 (max 10) | 2 | Melee, ***Unwieldy***, ***Siege Strike*** |
+
+**Rad Cleanser** *(built into Hekaton Siege Claw)*
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Rad Cleanser | Template | 2 | 5 | Assault 1, ***Fleshbane***, ***Rad-Phage*** |
+
+**Reaper Chainsword** *(alternative to Hekaton Siege Claw)*
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Reaper Chainsword | Melee | ×2 (max 10) | 3 | Melee, ***Shred*** |
+
+**Phased-Plasma Fusil**
+
+| Name | Range | S | AP | Type |
+| :---- | :---: | :---: | :---: | :---- |
+| Phased-Plasma Fusil | 18" | 6 | 3 | Assault 3 |
+
+### Options
+
+- May replace the Hekaton Siege Claw (and built-in Rad Cleanser) with a Reaper Chainsword — X pts
+
+---
+
+# RULES AUDIT — CORE RULES COMPLIANCE CHECK
+
+*The following issues were identified during a thorough review of all rules in this codex against the OmniHammer Core Rules.*
+
+---
+
+## ISSUE 8: Magaera Repair Autosimulacra + Household Tradition Interactions (MINOR)
+
+**Affected unit:** Knight Magaera — Repair Autosimulacra
+
+**Problem:** Repair Autosimulacra explicitly states it replaces Machine Communion and is not affected by rules that modify Machine Communion. This cleanly handles House Taranis (which improves Machine Communion to 4+). But what about other Household Traditions that might interact? Currently none do beyond Taranis, but this should be confirmed as future-proof.
+
+**Recommendation:** No action needed now. The explicit "does not benefit from Machine Communion" clause is sufficient. Flagged for awareness when adding new Household Traditions.
+
+---
+
+## ISSUE 9: Conversion Beam Obliterator — Ordnance Type Missing? (MINOR)
+
+**Affected unit:** Knight Defender — Conversion Beam Obliterator
+
+**Problem:** The Conversion Beam Obliterator is typed as "Heavy 1" at all range brackets. Historically, conversion beamers in 40K have been Heavy weapons. However, for a Superheavy Vehicle (which is always treated as stationary for shooting), Heavy vs. Ordnance is largely irrelevant — the SH rule bypasses both movement restrictions and the ordnance "can't fire other weapons" restriction. No mechanical issue exists, but worth confirming Heavy is the correct type.
+
+**Recommendation:** No action needed. Heavy 1 is correct for the weapon's role and creates no conflicts with Superheavy Vehicle rules.
+
+---
+
+## ISSUE 10: Atomantic Radiation Hazard — Timing with Machine Communion/Autosimulacra (MINOR)
+
+**Affected unit:** Knight Magaera
+
+**Problem:** Both Repair Autosimulacra and Atomantic Radiation Hazard trigger "at the start of each of this model's MOVEMENT PHASES." If both trigger simultaneously, the controlling player should be able to choose the order. This is likely covered by the core rules' general timing rule ("the active player decides the order in which they take place"), but confirming the interaction is clean.
+
+**Recommendation:** No action needed. The core rules' active player timing priority handles this.
+
+---
+
+## SUMMARY
+
+| Issue | Severity | Status |
+| :---- | :---- | :---- |
+| 1. Gets Hot on vehicles (Plasma Executor) | **CRITICAL** | **RESOLVED** — Single S9 profile, no Gets Hot |
+| 2. Terror USR undefined | Minor | **RESOLVED** — Reference removed |
+| 3. Ionic Flare Shield melee coverage | **Moderate** | **RESOLVED** — Ranged-only, explicit text added |
+| 4. Void Shield hit resolution sequence | **Moderate** | **RESOLVED** — Sequence clarified, AV12 < AV13 confirmed intentional |
+| 5. Thermal Cannon Melta + Large Blast | Minor | **RESOLVED** — Clarifying note added |
+| 6. House Raven Cruising Speed vs Walker Advance | **Moderate** | **RESOLVED** — Reworded to Advance |
+| 7. House Taranis + non-Ion-Shield Knights | Minor | **RESOLVED** — Clarifying note added to tradition |
+| 8. Autosimulacra + future Traditions | Minor | No action needed — flagged for awareness |
+| 9. Conversion Beam weapon type | Minor | No action needed |
+| 10. Atomantic timing | Minor | No action needed |
