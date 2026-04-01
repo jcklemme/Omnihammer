@@ -27,11 +27,11 @@ Certain **HOUSEHOLD TRADITIONS** and **FORGE WORLD BLESSINGS** improve the requi
 
 ### Cold Intellect
 
-The Throne Mechanicum of a Questor Mechanicus house is engineered to suppress volatile emotional states in the pilot, replacing passionate impulse with cold, efficient computation. The pilot does not feel fear. They perform threat assessment. The distinction, to the Mechanicus, is everything.
+The Throne Mechanicum of a Questor Mechanicus house is engineered to suppress volatile emotional states in the pilot, replacing passionate impulse with cold, efficient computation. Where a lesser pilot would flinch, hesitate, or lose focus under fire, the Mechanicus pilot's neural link filters the shock and reroutes cognitive resources to immediate threat response. The machine does not care that it was hit. Neither, therefore, does the pilot.
 
-A model with ***Cold Intellect*** is immune to the ***Fear*** special rule and automatically passes all **PINNING TESTS**. When this model is required to take any morale test, negative Leadership modifiers originating from enemy special rules (such as ***Fear*** or equivalent effects) do not apply. Modifiers from the model's own condition — such as being at reduced strength or out of coherency — still apply normally.
+When this model suffers a **CREW SHAKEN** or **CREW STUNNED** damage result, roll a D6. On a **6+**, the result is ignored.
 
-**A model with *Cold Intellect* may never choose to voluntarily fail a morale test.**
+If this model has another rule that also ignores **CREW SHAKEN** or **CREW STUNNED** results (such as a Household Tradition), use the best available roll rather than rolling multiple times.
 
 ---
 
@@ -116,7 +116,7 @@ House Mortan and Forge World Graia share a cold and absolute conviction: ground 
 
 At the start of this model's **MOVEMENT PHASE**, if it is within 3" of an objective marker, it may declare **TERRITORIAL ANCHOR**. While Anchored, this model may not move but may still pivot in place. Additionally, while Anchored, penetrating hits against this model are reduced to glancing hits on a **5+**. The Anchored status ends at the start of the model's next Movement Phase, at which point the controlling player may re-declare it.
 
-When this model is within 3" of an objective marker, it counts as two models for the purposes of scoring and contesting that objective. When this model suffers a **CREW SHAKEN** or **CREW STUNNED** damage result, roll a D6; on a **4+**, the result is ignored.
+When this model is within 3" of an objective marker, it counts as two models for the purposes of scoring and contesting that objective. When this model suffers a **CREW SHAKEN** or **CREW STUNNED** damage result, roll a D6; on a **4+**, the result is ignored (this replaces the ***Cold Intellect*** roll for this purpose).
 
 ---
 
@@ -492,6 +492,48 @@ Remove the model and replace it with a suitably-sized crater, which provides har
 
 ---
 
+## ISSUE 1: Gets Hot Has No Effect on Vehicles — RESOLVED
+
+**Resolution:** Removed the dual-profile (Standard/Overcharge) from the Plasma Executor. The weapon now has a single profile at S9 AP2 Heavy 3 with no Gets Hot. The weaker Standard mode was removed entirely since the Overcharge mode had no meaningful downside on a vehicle.
+
+---
+
+## ISSUE 2: Terror Is Not a Defined USR — RESOLVED
+
+**Resolution:** Cold Intellect was fully reworked (see Issue 11). The old text referencing Fear, Terror, Pinning, and morale tests has been entirely replaced. The Terror reference no longer exists.
+
+---
+
+## ISSUE 3: Ionic Flare Shield — Melee Coverage — RESOLVED
+
+**Resolution:** Confirmed as intentional — the Ionic Flare Shield is ranged-only. Explicit text added: "The Ionic Flare Shield provides no protection against melee attacks." This creates a meaningful vulnerability for the Magaera in close combat, rewarding opponents who close to assault range.
+
+---
+
+## ISSUE 4: Void Shield — Hit Resolution Sequence — RESOLVED
+
+**Resolution:** Clarified the Void Shield rules text to specify: (1) roll to hit against the declared target normally, then roll armor penetration against AV12 instead of the target's actual AV; (2) once collapsed, all remaining hits in the same phase resolve normally; (3) added explicit note confirming that AV12 being lower than the Knight's own AV13 front is intentional — the Void Shield's value is omnidirectional coverage, small arms immunity, and the 6" aura, not raw frontal durability.
+
+---
+
+## ISSUE 5: Thermal Cannon — Melta + Large Blast Interaction — RESOLVED
+
+**Resolution:** Added clarifying note to the Questoris Knight Arm Weapons section: "For the purposes of the ***Melta*** rule, measure range from the firing model to the center of the blast template to determine whether the target is at half range or less."
+
+---
+
+## ISSUE 6: House Raven — Cruising Speed vs Walker Advance — RESOLVED
+
+**Resolution:** Reworded House Raven tradition to use Walker terminology. "Combat Speed" changed to "normal move distance." "Cruising Speed" changed to "Advance move." The tradition now reads: "This model adds +2" to its normal move distance. When this model makes an ADVANCE move, it may fire its Main Weapons using SNAP FIRE in addition to any assault weapons it would normally be permitted to fire."
+
+---
+
+## ISSUE 7: House Taranis — Emergency Field Regeneration on Non-Ion-Shield Knights — RESOLVED
+
+**Resolution:** Added clarifying note to the House Taranis tradition: "The Machine Communion improvement applies only to models that have Machine Communion — models with Repair Autosimulacra (such as the Knight Magaera) are not affected. The Emergency Field Regeneration bonus applies to any model with that ability, regardless of shield type." This confirms both interactions explicitly.
+
+---
+
 ## ISSUE 8: Magaera Repair Autosimulacra + Household Tradition Interactions (MINOR)
 
 **Affected unit:** Knight Magaera — Repair Autosimulacra
@@ -522,12 +564,28 @@ Remove the model and replace it with a suitably-sized crater, which provides har
 
 ---
 
+## ISSUE 11: Cold Intellect Is Entirely Non-Functional on Vehicles — RESOLVED (CRITICAL)
+
+**Affected rule:** Cold Intellect (Questor Mechanicus faction-wide rule)
+
+**Problem:** Every line of Cold Intellect referenced mechanics that do not apply to vehicles:
+- Immunity to ***Fear*** — Fear requires a Leadership test; vehicles have no Leadership characteristic.
+- Automatically passes all Pinning Tests — core rules state pinning/casualty tests apply to "non-vehicle units" only.
+- Negative Leadership modifiers from enemy special rules do not apply — no Leadership characteristic exists.
+- May not voluntarily fail a morale test — vehicles do not take morale tests; Walkers do not take break tests.
+
+The entire rule was non-functional. This was half the faction's universal identity.
+
+**Resolution:** Cold Intellect fully reworked as a damage mitigation rule. When this model suffers a Crew Shaken or Crew Stunned result, roll a D6; on a 6+, the result is ignored. Non-stacking clause added: if the model has another rule that also ignores Crew Shaken/Stunned (such as House Mortan's 4+), use the best available roll. House Mortan's tradition updated with an explicit parenthetical confirming it replaces the Cold Intellect roll.
+
+---
+
 ## SUMMARY
 
 | Issue | Severity | Status |
 | :---- | :---- | :---- |
 | 1. Gets Hot on vehicles (Plasma Executor) | **CRITICAL** | **RESOLVED** — Single S9 profile, no Gets Hot |
-| 2. Terror USR undefined | Minor | **RESOLVED** — Reference removed |
+| 2. Terror USR undefined | Minor | **RESOLVED** — Superseded by Issue 11 rework |
 | 3. Ionic Flare Shield melee coverage | **Moderate** | **RESOLVED** — Ranged-only, explicit text added |
 | 4. Void Shield hit resolution sequence | **Moderate** | **RESOLVED** — Sequence clarified, AV12 < AV13 confirmed intentional |
 | 5. Thermal Cannon Melta + Large Blast | Minor | **RESOLVED** — Clarifying note added |
@@ -536,3 +594,4 @@ Remove the model and replace it with a suitably-sized crater, which provides har
 | 8. Autosimulacra + future Traditions | Minor | No action needed — flagged for awareness |
 | 9. Conversion Beam weapon type | Minor | No action needed |
 | 10. Atomantic timing | Minor | No action needed |
+| 11. Cold Intellect non-functional on vehicles | **CRITICAL** | **RESOLVED** — Full rework to 6+ ignore Crew Shaken/Stunned |
