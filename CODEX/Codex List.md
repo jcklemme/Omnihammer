@@ -18,7 +18,6 @@ CODEX: Mechanicus
 CODEX: Necrons
 CODEX: Orks  
 CODEX: Space Marines
-CODEX: Squats/Votann
 CODEX: Tau \- Includes Auxiliaries    
 CODEX: Tyranid Hive
 
@@ -34,6 +33,7 @@ CODEX: Chaos Knights
 CODEX: Collegia Titanicus  
 CODEX: Imperial Knights  
 CODEX: Legion of the Damned  
+CODEX: Squats/Votann
 CODEX: Thunder Warriors
 
 More coming soon\!  
