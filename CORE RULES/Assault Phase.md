@@ -133,6 +133,44 @@ In STEP 3, both players’ units that are engaged in close combat have an opport
 * **VEHICLES**: Non-Walker Vehicles in base-to-base (or hull-to-hull) contact count as engaged in close combat, but are not locked in close combat (i.e. they are free to move out of close combat in their own movement phase).  
   * **WALKERS** ARE engaged AND locked in close combat (the same as for figurine models).
 
+### Declare Heroic Duels
+
+*In the heat of battle, champions step forth to challenge their opposite number in mortal combat. Such duels are as much a test of will as of arms — and to refuse one is to invite shame upon oneself and doubt among one's warriors.*
+
+#### **Declaring a Heroic Duel**
+
+After **ENGAGED MODELS** have been determined for a melee engagement, but before attacks are resolved, any **CHARACTER** model on the active player's side that is engaged in the melee engagement may declare a Heroic Duel.
+
+* Only one Heroic Duel may be declared per melee engagement per Assault Phase.  
+* Only **CHARACTER** models may declare or accept a Heroic Duel.  
+* A model may only declare a Heroic Duel if there is at least one enemy **CHARACTER** model engaged in the same melee engagement.
+
+#### **Accepting a Heroic Duel**
+
+The opposing player may accept the Heroic Duel with any one of their engaged **CHARACTER** models in the same melee engagement. The opposing player chooses which of their characters accepts.  
+If accepted, the two characters are now locked in a Heroic Duel for the duration of this Assault Phase. Resolve the duel as described below.
+
+#### **Declining a Heroic Duel**
+
+If the opposing player declines, the player who declared the Heroic Duel nominates one enemy **CHARACTER** model (from among those that could have accepted) to bear the shame of refusal. The nominated character suffers the following penalties for the remainder of this Assault Phase:
+
+* The declining character may not make any attacks this Assault Phase.  
+* The declining character's Leadership value may not be used by their unit for any purpose for the remainder of the Assault Phase (including Break Tests, Daemonic Instability Tests, Fear tests, and any other Leadership-based tests). The unit must use the next highest Leadership value available.
+
+The character who declared the duel fights normally — their attacks are directed at the enemy unit as usual, with no restrictions.
+
+#### **Resolving a Heroic Duel**
+
+When a Heroic Duel is accepted, the two characters fight exclusively:
+
+1. **Exclusive Combat:** The two dueling characters may only direct their attacks against each other. They resolve their attacks at their normal **INITIATIVE** steps during the engagement's Attack Order (they are not removed from the Initiative sequence).  
+2. **Protected from the Melee:** Wounds inflicted by other models in the engagement may not be allocated to either dueling character. The duelists are set apart from the swirling melee — only their opponent's blows can harm them.  
+3. **Duel Ends on Death:** If one duelist is slain, the duel ends immediately.  
+   * The surviving duelist's remaining attacks (if they have attacks at a later Initiative step, or unresolved attacks in the current step) may be directed at the enemy unit as normal for the remainder of this Assault Phase. These attacks follow standard wound allocation rules.  
+   * The surviving duelist is no longer protected from the melee — wounds from other models may be allocated to them as normal for the remainder of the Assault Phase.  
+4. **Combat Result:** Wounds inflicted during a Heroic Duel count toward the overall **CLOSE COMBAT RESULT** for the melee engagement. They are not counted separately.  
+5. **Special Rules in Duels:** All special rules, wargear, and abilities function normally during a Heroic Duel unless specifically noted otherwise. This includes ***Fear*** (the opponent must pass a Fear test before attacking), ***Daemon Weapons*** (Mastery Test attacks are all directed at the dueling opponent), and weapon special rules such as ***Beheading Strike*** or ***Shred***.
+
 ### Attack Order
 
 * **INITIATIVE ORDER:** The order that models attack within an individual engagement is determined by their respective **INITIATIVE** values.  The model(s) with the highest initiative attack first, working down to the lowest initiative value.  If models on both sides are tied for a given initiative value, those attacks are resolved simultaneously (i.e. wounds and casualties are noted but not applied until after the other model(s) attack).  
@@ -242,26 +280,3 @@ After all attacks in all melee engagements are resolved, the result of each enga
 
 | ALL EDITION COMPATIBILITY PURSUIT & SWEEPING ADVANCES *All references to SWEEPING ADVANCES instead apply to PURSUIT moves. E.g., units that are unable to make SWEEPING ADVANCES are unable to make PURSUIT moves.* |
 | :---- |
-
-## **SPECIAL ASSAULT RULES**
-
-### Vehicles In Assault {#vehicles-in-assault}
-
-When vehicles are attacked in melee, a number of additional rules apply:
-
-* **VEHICLE FACING HIT:** Attacks are applied to vehicles against the armor facing of the vehicle relative to the position of each attacking model.  
-* **GRENADE ATTACKS:** Models equipped with a grenade can make ONE attack against a vehicle using a grenade in exchange for ALL of their normal attacks.  Grenade attacks must be rolled to hit as normal for melee attacks against a vehicle.   
-  * Grenades can ONLY be used in melee combat against vehicle units.
-
-Grenades use the Strength and AP in their weapon profile when used in melee. 
-
-* **WALKERS IN MELEE COMBAT:** Walkers fight in close combat as if they were a normal infantry unit. As such, walkers ARE engaged and locked in combat, unlike other types of vehicles.    
-  * **FACING HIT:** Against non-immobilized walkers all attacks only hit the walker’s FRONT armor, regardless of the attacking model’s position.  
-  * **DETERMINING CLOSE COMBAT RESULTS**: Each glancing or penetrating hit a walker suffers counts as a “wound” for purposes of determining the winning side in a melee engagement.  If the Walker’s side loses the combat, the Walker does NOT need to take a break test. However, it can choose to voluntarily withdraw. Walkers can make pursuit and consolidation moves as per figurine units.  
-  * **GRENADES VS WALKERS:** Grenade attacks against non-immobilized walkers ONLY hit on a 6+.   
-  * **DAMAGED WALKERS:** Immobilized Walkers fight with 1 less attack. Stunned Walkers fight at Initiative 1\.  
-  * May make Fallback and Pursuit moves of D6 \+ Initiative in inches.  Consolidates 3” as per infantry.  
-  * If armed with two or more close combat weapons gain \+1 attack for each extra weapon.  
-  * **DREADNOUGHT CLOSE COMBAT WEAPONS:** Count as power weapon and doubles strength (up to 10).
-
-![][image14]
