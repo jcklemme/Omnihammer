@@ -5,10 +5,8 @@ You may notice units that appear in lore but have never received a model or rule
 
 CODEX: Adeptus Custodes  
 CODEX: Agents of the Imperium \- Inquisitors, Ecclesiarchy, Arbites, Death Watch, Sisters of Battle, and Grey Knights live here  
-CODEX: Chaos Space Marines  
-CODEX: Daemons of the Warp  
-CODEX: Dark Eldar  
-CODEX: Dark Mechanicum  
+CODEX: Chaos Omnibus  (Daemons, Chaos Space Marine, Heretic Guard, Cultists, & Dark Mechanicum)
+CODEX: Dark Eldar   
 CODEX: Eldar Corsairs  
 CODEX: Eldar Craftworlds  
 CODEX: Eldar Exodites  
@@ -21,8 +19,7 @@ CODEX: Necrons
 CODEX: Orks  
 CODEX: Space Marines
 CODEX: Squats  
-CODEX: Tau \- Includes Auxiliaries   
-CODEX: The Lost and the Damned \- Heretic Guard, Cultists  
+CODEX: Tau \- Includes Auxiliaries    
 CODEX: Tyranid Hive
 
 If a Codex is RED it means it has not yet been started  
