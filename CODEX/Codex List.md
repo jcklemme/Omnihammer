@@ -18,7 +18,7 @@ CODEX: Mechanicus
 CODEX: Necrons
 CODEX: Orks  
 CODEX: Space Marines
-CODEX: Squats  
+CODEX: Squats/Votann
 CODEX: Tau \- Includes Auxiliaries    
 CODEX: Tyranid Hive
 
