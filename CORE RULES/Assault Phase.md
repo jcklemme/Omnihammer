@@ -280,3 +280,25 @@ After all attacks in all melee engagements are resolved, the result of each enga
 
 | ALL EDITION COMPATIBILITY PURSUIT & SWEEPING ADVANCES *All references to SWEEPING ADVANCES instead apply to PURSUIT moves. E.g., units that are unable to make SWEEPING ADVANCES are unable to make PURSUIT moves.* |
 | :---- |
+
+
+## **SPECIAL ASSAULT RULES**
+
+### Vehicles In Assault {#vehicles-in-assault}
+
+When vehicles are attacked in melee, a number of additional rules apply:
+
+* **VEHICLE FACING HIT:** Attacks are applied to vehicles against the armor facing of the vehicle relative to the position of each attacking model.  
+* **GRENADE ATTACKS:** Models equipped with a grenade can make ONE attack against a vehicle using a grenade in exchange for ALL of their normal attacks.  Grenade attacks must be rolled to hit as normal for melee attacks against a vehicle.   
+  * Grenades can ONLY be used in melee combat against vehicle units.
+
+Grenades use the Strength and AP in their weapon profile when used in melee. 
+
+* **WALKERS IN MELEE COMBAT:** Walkers fight in close combat as if they were a normal infantry unit. As such, walkers ARE engaged and locked in combat, unlike other types of vehicles.    
+  * **FACING HIT:** Against non-immobilized walkers all attacks only hit the walker’s FRONT armor, regardless of the attacking model’s position.  
+  * **DETERMINING CLOSE COMBAT RESULTS**: Each glancing or penetrating hit a walker suffers counts as a “wound” for purposes of determining the winning side in a melee engagement.  If the Walker’s side loses the combat, the Walker does NOT need to take a break test. However, it can choose to voluntarily withdraw. Walkers can make pursuit and consolidation moves as per figurine units.  
+  * **GRENADES VS WALKERS:** Grenade attacks against non-immobilized walkers ONLY hit on a 6+.   
+  * **DAMAGED WALKERS:** Immobilized Walkers fight with 1 less attack. Stunned Walkers fight at Initiative 1\.  
+  * May make Fallback and Pursuit moves of D6 \+ Initiative in inches.  Consolidates 3” as per infantry.  
+  * If armed with two or more close combat weapons gain \+1 attack for each extra weapon.  
+  * **DREADNOUGHT CLOSE COMBAT WEAPONS:** Count as power weapon and doubles strength (up to 10).
